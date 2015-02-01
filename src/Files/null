@@ -1,0 +1,3644 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7"  lang="bs-ba"> <![endif]-->
+<!--[if IE 7]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8"  lang="bs-ba"> <![endif]-->
+<!--[if IE 8]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9"  lang="bs-ba"> <![endif]-->
+<!--[if gt IE 8]><!--> <html prefix="og: http://ogp.me/ns#" class="no-js" lang="bs-ba"> <!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<base href="http://www.zenicablog.com/"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="zenica, vijesti, slike, foto, zenica blog, zenicablog, zenicani, zenicko, Zenicanke, Zenicki"/>
+<meta name="rights" content="Copyright © Zenicablog - Zenica 2005. - 2015. Vlasnik autorskih prava UG Zenicablog"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="description" content="Zenica blog - jedno mjesto za sve informacije iz Zenice"/>
+<meta name="generator" content="Joomla! - Open Source Content Management"/>
+<title>Zenica blog - jedno mjesto za sve informacije iz Zenice</title>
+<link href="http://www.zenicablog.com/" rel="canonical"/>
+<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0"/>
+<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0"/>
+<link href="/templates/shaper_newsplus/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="http://www.zenicablog.com/index.php/component/search/?format=opensearch" rel="search" title="Pretraga Zenicablog" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="/templates/shaper_newsplus/css/k2.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/shaper_newsplus/css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/shaper_newsplus/css/bootstrap-responsive.min.css" type="text/css"/>
+<link rel="stylesheet" href="/plugins/system/helix/css/font-awesome.css" type="text/css"/>
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family='Open+Sans':400,300,700" type="text/css"/>
+<link rel="stylesheet" href="/plugins/system/helix/css/mobile-menu.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/shaper_newsplus/css/template.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/shaper_newsplus/css/presets/preset1.css" type="text/css"/>
+<link rel="stylesheet" href="/modules/mod_sptab/assets/css/raw.css.php?id=163" type="text/css"/>
+<link rel="stylesheet" href="/modules/mod_news_show_sp2/assets/css/mod_news_show_sp2.css" type="text/css"/>
+<link rel="stylesheet" href="/modules/mod_sj_k2_cool_slider/assets/css/style.css" type="text/css"/>
+<style type="text/css">.container{max-width:1170px}body,p{font-family:'' Open Sans '';}h1,h2,h3,h4,h5{font-family:'' Open Sans '';}#sp-main-body-wrapper{background:rgba(246,180,74,0)!important;padding:5px 0!important;}#sp-main-body-wrapper{background:rgba(246,180,74,0)!important;padding:5px 0!important;}#sptab163 .tabs_mask,#sptab163 ul.tabs_container li span{height:30px;line-height:30px;}#sptab163 .tab-padding{padding:10px 0 0 0}</style>
+<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+<script src="/media/system/js/core.js" type="text/javascript"></script>
+<script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
+<script src="/media/plg_n3tcopylink/js/copylink.js" type="text/javascript"></script>
+<script src="/plugins/system/helix/js/jquery-noconflict.js" type="text/javascript"></script>
+<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/plugins/system/helix/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
+<script src="/plugins/system/helix/js/helix.core.js" type="text/javascript"></script>
+<script src="/plugins/system/helix/js/menu.js" type="text/javascript"></script>
+<script src="/templates/shaper_newsplus/js/main.js" type="text/javascript"></script>
+<script src="/modules/mod_sptab/assets/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+<script src="/modules/mod_sptab/assets/js/sptab.js" type="text/javascript"></script>
+<script src="/modules/mod_sj_k2_cool_slider/assets/js/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/modules/mod_sj_k2_cool_slider/assets/js/jquery.mousewheel.js" type="text/javascript"></script>
+<script src="/modules/mod_sj_k2_cool_slider/assets/js/jquery.cj-swipe.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+        CopyLink.addEvent(window, 'load', function () {
+        	new CopyLink({
+        		container : document.body,
+        		handler : function () {
+        			return ' Copyright © Zenicablog - Zenica 2005. - 2015. Vlasnik autorskih prava UG Zenicablog.  Kopiranje i prijenos sadržaja samo uz pismenu dozvolu!Tekst je izvorno objavljen na portalu www.Zenicablog.com. Prenošenje dozvoljeno samo uz pismenu dozvolu. Nelegalno prenošenje sadržaja podliježe pod odredbe Zakona o autorskom pravu i srodnim pravima, Službeni glasnik BIH broj 7., od 10. aprila 2002. GLAVA III - AUTOR I PRAVA AUTORA - Član 12.';
+        		},
+            minimalSelection: 1
+        	});
+        });
+      spnoConflict(function($){
+
+					function mainmenu() {
+						$('.sp-menu').spmenu({
+							startLevel: 0,
+							direction: 'ltr',
+							initOffset: {
+								x: 0,
+								y: 0
+							},
+							subOffset: {
+								x: 0,
+								y: 0
+							},
+							center: 0
+						});
+			}
+
+			mainmenu();
+
+			$(window).on('resize',function(){
+				mainmenu();
+			});
+
+
+			});
+  </script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '347189188797983']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=347189188797983&amp;ev=PixelInitialized"/></noscript>
+</head>
+<body class="featured homepage  ltr preset1 menu-home responsive bg hfeed clearfix">
+<div class="body-innerwrapper">
+<!--[if lt IE 8]>
+        <div class="chromeframe alert alert-danger" style="text-align:center">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
+        <![endif]-->
+<section id="sp-header-top-wrapper" class=" "><div class="container"><div class="row-fluid" id="header-top">
+<div id="sp-position1" class="span4"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="https://www.facebook.com/Zenicablog" target="_blank"><img style="margin-right: 10px;" src="/images/Facebook_32x32x32.png" alt="Facebook Zenica blog" width="24" height="24"/></a><a href="https://twitter.com/Zenicablog2010" target="_blank"><img style="margin-right: 10px;" src="/images/Twitter_32x32x32.png" alt="Zenica blog Twitter" width="24" height="24"/></a><a href="https://www.youtube.com/user/dzonlic" target="_blank"><img style="margin-right: 10px;" src="/images/Youtube_32x32x32.png" alt="Youtube Zenica blog" width="24" height="24"/></a><a href="/index.php/vijesti/itemlist?format=feed&amp;moduleID=227" target="_blank"><img style="margin-right: 10px;" src="/images/Rss_32x32x32.png" alt="Rss Vijesti Zenica blog" width="24" height="24"/></a><a href="/cdn-cgi/l/email-protection#137a7d757c5369767d7a7072717f7c743d707c7e2c606671797670672e437c61667872362123607236212349767d7a7072717f7c74"><img style="margin-bottom: 1px;" src="/images/mail1.png" alt="mail1" width="21" height="21"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-day-signing" class="span8 visible-desktop">
+<div class="sp-date ">
+nedjelja, 01 Februar 2015</div></div>
+</div></div></section><section id="sp-logo-wrapper" class=" "><div class="container"><div class="row-fluid" id="logo">
+<div id="sp-logo" class="span3"><div class="logo-wrapper"><a href="/"><img alt="" class="image-logo" src="/images/zenicablog-logo-300x120.png"/></a></div></div>
+<div id="sp-top-add" class="span9"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://www.pero.ba" target="_blank"><img style="float: right;" src="/images/baneri/pero_2015b.gif" alt="pero 2015b" width="728" height="80"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></div></section><section id="sp-menu-wrapper" class=" "><div class="container"><div class="row-fluid" id="menu">
+<div id="sp-menu" class="span12">
+<div id="sp-main-menu" class="visible-desktop">
+<ul class="sp-menu level-0"><li class="menu-item active first"><a href="http://www.zenicablog.com/" class="menu-item active first"><span class="menu"><span class="menu-title">Home</span></span></a></li><li class="menu-item parent "><a href="/index.php/vijesti" class="menu-item parent "><span class="menu"><span class="menu-title">Vijesti</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/vijesti/zenica" class="menu-item first"><span class="menu"><span class="menu-title">Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/kultura" class="menu-item"><span class="menu"><span class="menu-title">Kultura</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/zabava" class="menu-item"><span class="menu"><span class="menu-title">Zabava</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/politika" class="menu-item"><span class="menu"><span class="menu-title">Politika</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/biznis" class="menu-item"><span class="menu"><span class="menu-title">Biznis</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/ljudi" class="menu-item"><span class="menu"><span class="menu-title">Ljudi</span></span></a></li><li class="menu-item last"><a href="/index.php/vijesti/info" class="menu-item last"><span class="menu"><span class="menu-title">Info</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/index.php/crna-hronika" class="menu-item parent "><span class="menu"><span class="menu-title">Crna hronika</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/crna-hronika/nesrece" class="menu-item first"><span class="menu"><span class="menu-title">Nesreće</span></span></a></li><li class="menu-item"><a href="/index.php/crna-hronika/zlocini" class="menu-item"><span class="menu"><span class="menu-title">Zločini</span></span></a></li><li class="menu-item last"><a href="/index.php/crna-hronika/sudske-klupe" class="menu-item last"><span class="menu"><span class="menu-title">Sudske klupe</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/index.php/sport" class="menu-item parent "><span class="menu"><span class="menu-title">Sport</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/sport/nogomet" class="menu-item first"><span class="menu"><span class="menu-title">Nogomet</span></span></a></li><li class="menu-item"><a href="/index.php/sport/rukomet" class="menu-item"><span class="menu"><span class="menu-title">Rukomet</span></span></a></li><li class="menu-item"><a href="/index.php/sport/kosarka" class="menu-item"><span class="menu"><span class="menu-title">Košarka</span></span></a></li><li class="menu-item"><a href="/index.php/sport/ostali-sportovi" class="menu-item"><span class="menu"><span class="menu-title">Ostali sportovi</span></span></a></li><li class="menu-item last"><a href="/index.php/sport/rekreacija" class="menu-item last"><span class="menu"><span class="menu-title">Rekreacija</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/index.php/zuta-minuta" class="menu-item parent "><span class="menu"><span class="menu-title">Žuta minuta</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/zuta-minuta/nase" class="menu-item first"><span class="menu"><span class="menu-title">Naše</span></span></a></li><li class="menu-item last"><a href="/index.php/zuta-minuta/posudeno" class="menu-item last"><span class="menu"><span class="menu-title">Posuđeno</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/index.php/zb-karte-zenice" class="menu-item parent "><span class="menu"><span class="menu-title">ZB karte</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/zb-karte-zenice/taxi-karta-zenica" class="menu-item first"><span class="menu"><span class="menu-title">Taxi karta Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zb-karte-zenice/kafe-karta-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kafe karta</span></span></a></li><li class="menu-item last"><a href="/index.php/zb-karte-zenice/wi-fi-karta-zenice" class="menu-item last"><span class="menu"><span class="menu-title">Wi-Fi karta</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/index.php/servisne-info" class="menu-item parent "><span class="menu"><span class="menu-title">Servisne info</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/servisne-info/kursna-lista" class="menu-item first"><span class="menu"><span class="menu-title">Kursna lista</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/auto-skole" class="menu-item"><span class="menu"><span class="menu-title">Auto škole</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/imenik" class="menu-item"><span class="menu"><span class="menu-title">Imenik</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/akcijske-prodaje-i-snizenja" class="menu-item"><span class="menu"><span class="menu-title">Akcijske prodaje i sniženja</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/tv-program" class="menu-item"><span class="menu"><span class="menu-title">TV program</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/vremenska-prognoza" class="menu-item"><span class="menu"><span class="menu-title">Vremenska prognoza</span></span></a></li><li class="menu-item"><a href="http://www.gastrofan.com" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Recepti</span></span></a></li><li class="menu-item last"><a href="http://www.prirodar.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Zdravlje</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/index.php/zenica-uzivo" class="menu-item parent "><span class="menu"><span class="menu-title">ZENICA UŽIVO</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 400px;"><div class="megacol col1 first" style="width: 400px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/zenica-uzivo/kamera-bulevar-kralja-tvrtka-i" class="menu-item first"><span class="menu"><span class="menu-title">Kamera: Bulevar Kralja Tvrtka I</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-carina-telemach-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Carina - Telemach Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-crkvice-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Crkvice Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-dr-safvet-bega-basagica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Dr.Safvet-bega Bašagića</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-evropa-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Evropa Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-ggm-mokusnice-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: GGM - Mokušnice Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-itc-nova-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: ITC - Nova Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-kameniti-most-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Kameniti most Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-londza-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Londža Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-tc-dzananovic-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: TC Džananović Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-titova-ulica-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Titova ulica Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-trg-alije-izetbegovica-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Trg Alije Izetbegovića Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-trg-rudara-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Trg rudara Zenica</span></span></a></li><li class="menu-item last"><a href="/index.php/zenica-uzivo/kamera-arena-zenica" class="menu-item last"><span class="menu"><span class="menu-title">Kamera: Arena Zenica</span></span></a></li></ul></div></div></div></div></li><li class="menu-item last"><a href="http://arhiva.zenicablog.com/" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">ZB Arhiva</span></span></a></li></ul>
+</div>
+</div>
+</div></div></section><section id="sp-baneri-wrapper" class=" "><div class="container"><div class="row-fluid" id="baneri">
+<div id="sp-position2" class="span8"> <div id="sjcoolslider_237" class="sj-coolslider" data-effect="fade" data-checkcontent="1">
+<div class="jcarousel" data-swipe="1">
+<ul>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/kosarka/item/1548-nakon-njemacke-bih-pobjedila-i-srbiju"><img src="/cache/resized/35ddaf82493eb2a16f1d1a8bf7602fef.jpg" alt="cache/resized/35ddaf82493eb2a16f1d1a8bf7602fef.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/110-kosarka">Košarka</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/kosarka/item/1548-nakon-njemacke-bih-pobjedila-i-srbiju">Nakon Njemačke, BIH pobjedila i Srbiju</a> </div>
+<div class="content-item-k2-category">
+Kadetska košarkaška reprezentacija Bosne i Hercegovine ostvarila je drugu pobjedu na "TBF International" turniru u turskoj Konyi. Nakon trijumfa na startu turnira nad ... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/kosarka/item/1548-nakon-njemacke-bih-pobjedila-i-srbiju">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih"><img src="/cache/resized/c882b4e5551c5cf7271e10ee01e67e05.jpg" alt="cache/resized/c882b4e5551c5cf7271e10ee01e67e05.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/104-nesrece">Nesreće</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih">Nesreća u Štrosmajerovoj, troje povrijeđenih</a> </div>
+<div class="content-item-k2-category">
+Tri osobe povrijeđene u saobraćajnoj nesreći koja se dogodila oko ponoći između subote i nedjelje. Sudar dva vozila se dogodio u ulici Štrosmajerova.
+Prema podacim... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/zuta-minuta/posudeno/item/1541-pavlik-morozov-na-bosanski-nacin"><img src="/cache/resized/c136041a836d356e9484712fc68c0717.jpg" alt="cache/resized/c136041a836d356e9484712fc68c0717.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/115-posudeno">Posuđeno</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/zuta-minuta/posudeno/item/1541-pavlik-morozov-na-bosanski-nacin">Pavlik Morozov na bosanski način</a> </div>
+<div class="content-item-k2-category">
+Ima u okolini Zenice jedno selo čiji žitelji, premda sasvim propisno, ako ne i više od toga, osviješteni u nacionalnom smislu, nisu iskazivali baš golem entuzijazam ... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/zuta-minuta/posudeno/item/1541-pavlik-morozov-na-bosanski-nacin">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/info/item/1504-glas-privrednika-smanjite-namete-investirat-cemo-i-otvoriti-radna-mjesta"><img src="/cache/resized/6785c429f00fca519c013f9663e4a88c.jpg" alt="cache/resized/6785c429f00fca519c013f9663e4a88c.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/121-info">Info</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/info/item/1504-glas-privrednika-smanjite-namete-investirat-cemo-i-otvoriti-radna-mjesta">Glas privrednika: Smanjite namete</a> </div>
+<div class="content-item-k2-category">
+Ova godina biće jako teška, kako za bh. privrednike, tako i za predstavnike vlasti na svim nivoima u koju su oči uprte. Očekuje se bolja poslovna klima, veća društv... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/info/item/1504-glas-privrednika-smanjite-namete-investirat-cemo-i-otvoriti-radna-mjesta">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/info/item/1503-konferencija-u-becu-29-bh-firmi-u-potraznji-za-stranim-trzistem"><img src="/cache/resized/848b835c1b90707ad6fd185a43c17042.jpg" alt="cache/resized/848b835c1b90707ad6fd185a43c17042.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/121-info">Info</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/info/item/1503-konferencija-u-becu-29-bh-firmi-u-potraznji-za-stranim-trzistem">Bh. firme u potražnji za stranim tržištem</a> </div>
+<div class="content-item-k2-category">
+U Beču je održana konferencija na kojoj je više od 70 austrijskih kompanija različitih profila predstavilo svoje investicione mogućnosti, a 29 kompanija iz BiH potra... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/info/item/1503-konferencija-u-becu-29-bh-firmi-u-potraznji-za-stranim-trzistem">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/info/item/1502-snazan-rast-naplate-indirektnih-poreza"><img src="/cache/resized/450355c11e318670506f08e87bb18be7.jpg" alt="cache/resized/450355c11e318670506f08e87bb18be7.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/121-info">Info</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/info/item/1502-snazan-rast-naplate-indirektnih-poreza">Snažan rast naplate indirektnih poreza</a> </div>
+<div class="content-item-k2-category">
+Neočekivano snažan rast naplate indirektnih poreza u decembru prošle godine povećao je i rast neto kumulativne naplate, tako da je 2014. završena sa suficitom od 182... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/info/item/1502-snazan-rast-naplate-indirektnih-poreza">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/biznis/item/1544-porasle-cijene-stanova-u-bih"><img src="/cache/resized/4ad23e4d7ac329e0f6b9c7d3f2bbfe79.jpg" alt="cache/resized/4ad23e4d7ac329e0f6b9c7d3f2bbfe79.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/100-biznis">Biznis</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/biznis/item/1544-porasle-cijene-stanova-u-bih">Porasle cijene stanova u BiH</a> </div>
+<div class="content-item-k2-category">
+Cijene stanova u BiH u 2014. godini uvećane su za oko 0,6 posto u odnosu na isti period prošle godine, iako su stanovi za veliki broj građana u zemlji nedostižni bili... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/biznis/item/1544-porasle-cijene-stanova-u-bih">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/zuta-minuta/nase/item/1545-ovako-se-ne-parkira-subota-31-01"><img src="/cache/resized/1bfb0e40245702f5070093609ed180b6.jpg" alt="cache/resized/1bfb0e40245702f5070093609ed180b6.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/114-nase">Naše</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/zuta-minuta/nase/item/1545-ovako-se-ne-parkira-subota-31-01">Ovako se NE parkira - subota 31.01.</a> </div>
+<div class="content-item-k2-category">
+U našoj redovnoj rubrici "ovako se NE parkira" danas nam sugrađanin D.L. donosi fotografiju parkiranog terenca na mostu kod Autobuske stanice.
+Komentar? Nije potrebno,... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/zuta-minuta/nase/item/1545-ovako-se-ne-parkira-subota-31-01">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/crna-hronika/sudske-klupe/item/1543-kako-je-midhat-karalic-pokrao-sugradane"><img src="/cache/resized/be63da09ec40bfcf4e39f54a7e1e2a0a.jpg" alt="cache/resized/be63da09ec40bfcf4e39f54a7e1e2a0a.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/106-sudske-klupe">Sudske klupe</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/crna-hronika/sudske-klupe/item/1543-kako-je-midhat-karalic-pokrao-sugradane">Kako je Midhat Karalić pokrao sugrađane</a> </div>
+<div class="content-item-k2-category">
+Midhat Karalić, bivši uposlenik Investiciono-komercijalne banke (IKB) Zenica, prevario je svoje sugrađane za iznos koji, prema informacijama iz izvora bliskih istrazi,... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/crna-hronika/sudske-klupe/item/1543-kako-je-midhat-karalic-pokrao-sugradane">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/zenica/item/1542-topcic-polje-petnaest-kuca-ceka-obnovu"><img src="/cache/resized/1c558a9ede65af0c2a634f7596707dde.jpg" alt="cache/resized/1c558a9ede65af0c2a634f7596707dde.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/96-zenica">Zenica</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/zenica/item/1542-topcic-polje-petnaest-kuca-ceka-obnovu">Topčić Polje: petnaest kuća čeka obnovu</a> </div>
+<div class="content-item-k2-category">
+Stanovnici Topčić Polja ponovo strahuju od poplava i klizišta, koje su ovo mjesto na granici između Zenice i općine Žepče pogodile u maju prošle godine, kada je u... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/zenica/item/1542-topcic-polje-petnaest-kuca-ceka-obnovu">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/nogomet/item/1540-adnan-nuhagic-novi-v-d-direktor-nk-celik"><img src="/cache/resized/5dc2552a003af8f1286e47363cbd9a21.jpg" alt="cache/resized/5dc2552a003af8f1286e47363cbd9a21.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/108-nogomet">Nogomet</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/nogomet/item/1540-adnan-nuhagic-novi-v-d-direktor-nk-celik">Adnan Nuhagić novi v.d. direktor NK Čelik</a> </div>
+<div class="content-item-k2-category">
+Upravni odbor zeničkog Čelika danas je postavio novog v.d. direktora, Adnana Nuhagića, koji je bio direktor zeničkog preduzeća “Inpek”, ali je bio bez posla. Nuh... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/nogomet/item/1540-adnan-nuhagic-novi-v-d-direktor-nk-celik">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/kosarka/item/1539-visok-poraz-okk-celik-u-bileci"><img src="/cache/resized/82f0026f167ee8c7dcd169cdadbac9b7.jpg" alt="cache/resized/82f0026f167ee8c7dcd169cdadbac9b7.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/110-kosarka">Košarka</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/kosarka/item/1539-visok-poraz-okk-celik-u-bileci">Visok poraz OKK Čelik u Bileći</a> </div>
+<div class="content-item-k2-category">
+Uokviru 16. kola „Lige 12“ Prvenstva BiH, sezona 2014/2015, novi prvoligaš, zenički OKK Čelik bio je gost u Bileći kod ekipe KK HEO. Košarkaši KK HEO bili su u... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/kosarka/item/1539-visok-poraz-okk-celik-u-bileci">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/ostali-sportovi/item/1538-za-samira-hajdarevica-prikupljeno-930-km"><img src="/cache/resized/8125521fcb1b18f572a8c04d213d0b86.jpg" alt="cache/resized/8125521fcb1b18f572a8c04d213d0b86.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/111-ostali-sportovi">Ostali sportovi</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/ostali-sportovi/item/1538-za-samira-hajdarevica-prikupljeno-930-km">Za Samira Hajdarevića prikupljeno 930 KM</a> </div>
+<div class="content-item-k2-category">
+U prostorijama Šahovskog doma u Zenici održan je humanitarni šahovski turnir za liječenje njihovog šahovskog prijatelja Samira Hajdarevića. Učestvovao je 21 šahis... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/ostali-sportovi/item/1538-za-samira-hajdarevica-prikupljeno-930-km">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/kosarka/item/1537-kadeti-bih-bolji-od-njemacke"><img src="/cache/resized/5089448eb311a1a296169a6f13b49698.jpg" alt="cache/resized/5089448eb311a1a296169a6f13b49698.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/110-kosarka">Košarka</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/kosarka/item/1537-kadeti-bih-bolji-od-njemacke">Kadeti BIH bolji od Njemačke</a> </div>
+<div class="content-item-k2-category">
+Kadetska reprezentacija Bosne i Hercegovine upisala je prvu pobjedu na turniru u Turskoj. Izabranici Emira Halimića su porazili reprezentaciju Njemačke i to rezultatom ... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/kosarka/item/1537-kadeti-bih-bolji-od-njemacke">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/nogomet/item/1536-foto-remi-mladosti-i-viteza-na-kamberovica-polju"><img src="/cache/resized/901e567df8268a465cf6e164c0000e74.jpg" alt="cache/resized/901e567df8268a465cf6e164c0000e74.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/108-nogomet">Nogomet</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/nogomet/item/1536-foto-remi-mladosti-i-viteza-na-kamberovica-polju">Foto: Remi Mladosti i Viteza na Kamberovića polju</a> </div>
+<div class="content-item-k2-category">
+Na terenu s plastičnom podlogom na Kamberovića polju u Zenici nogometaši Mladosti remizirali su u prvoj kontrolnoj utakmici protiv premijerligaša iz Viteza. Ako je s... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/nogomet/item/1536-foto-remi-mladosti-i-viteza-na-kamberovica-polju">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/nogomet/item/1535-foto-celik-bolji-od-rudara-3-1"><img src="/cache/resized/2a34e7abdbdeaa267c66b655590523cc.jpg" alt="cache/resized/2a34e7abdbdeaa267c66b655590523cc.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/108-nogomet">Nogomet</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/nogomet/item/1535-foto-celik-bolji-od-rudara-3-1">Foto: Čelik bolji od Rudara 3:1</a> </div>
+<div class="content-item-k2-category">
+Na B terenu Kamberovića polja (teren s plastičnom travom), odigrana kontrolna-pripremna utakmica između domaćeg NK Čelik i kakanjskog Rudara, federalnog prvoligaša.... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/nogomet/item/1535-foto-celik-bolji-od-rudara-3-1">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/sport/ostali-sportovi/item/1534-bowling-liga-bih-vode-zenikom-i-strike"><img src="/cache/resized/9dc52fa664b87247b8e8ea1425bc5600.jpg" alt="cache/resized/9dc52fa664b87247b8e8ea1425bc5600.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/111-ostali-sportovi">Ostali sportovi</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/sport/ostali-sportovi/item/1534-bowling-liga-bih-vode-zenikom-i-strike">Bowling liga BIH: vode Zenikom i Strike</a> </div>
+<div class="content-item-k2-category">
+U protekloj sedmici svjedočili smo odličnom bowlingu u okviru Bowling Lige BiH. Primjetno je kako ekipe dižu kvalitet igre i forme kako se kraj sezone bliži kraju.
+G... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/sport/ostali-sportovi/item/1534-bowling-liga-bih-vode-zenikom-i-strike">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/info/item/1325-traze-izuzece-od-otplate-dugova"><img src="/cache/resized/1f710a558727b28a9b436b7288b130b6.jpg" alt="cache/resized/1f710a558727b28a9b436b7288b130b6.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/121-info">Info</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/info/item/1325-traze-izuzece-od-otplate-dugova">Traže izuzeće od otplate dugova</a> </div>
+<div class="content-item-k2-category">
+Savez općina i gradova Federacije Bosne i Hercegovine je, u skladu sa odlukom Predsjedništva Skupštine Saveza, pokrenuo aktivnosti koje imaju za cilj izuzimanje jedini... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/info/item/1325-traze-izuzece-od-otplate-dugova">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/zuta-minuta/posudeno/item/1460-upoznajte-se-detaljno-carina"><img src="/cache/resized/c8bd5e159713ec04f75007121b0837bb.jpg" alt="cache/resized/c8bd5e159713ec04f75007121b0837bb.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/115-posudeno">Posuđeno</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/zuta-minuta/posudeno/item/1460-upoznajte-se-detaljno-carina">Upoznajte se detaljno - carina</a> </div>
+<div class="content-item-k2-category">
+Carina je osnovna uvozna dažbina koja se naplaćuje na robu koja se uvozi u carinsko područje Bosne i Hercegovine. Po svojim osnovnim karakteristikama svrstava se u gru... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/zuta-minuta/posudeno/item/1460-upoznajte-se-detaljno-carina">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-sj-coolslider">
+<div class="img-item-sj-coolslider">
+<a href="/index.php/vijesti/info/item/1469-smanjen-izvoz-elektricne-energije-za-34-6-posto"><img src="/cache/resized/e2b05cf7ec2842663547036743c01df2.jpg" alt="cache/resized/e2b05cf7ec2842663547036743c01df2.jpg"/></a> </div>
+<div class="content-item-sj-coolslider">
+<div class="title-k2-category">
+<a href="/index.php/component/k2/itemlist/category/121-info">Info</a> </div>
+<div class="title-item-k2-category">
+<a href="/index.php/vijesti/info/item/1469-smanjen-izvoz-elektricne-energije-za-34-6-posto">Smanjen izvoz električne energije za 34,6 posto</a> </div>
+<div class="content-item-k2-category">
+Izvoz električne energije iz Bosne i Hercegovine u 2014. godini zabilježio je pad od 34,6 posto u odnosu na 2013. godinu, podaci su Agencije za statsitiku BiH.
+Nakon r... </div>
+<div class="readmore-item-k2-category">
+<a href="/index.php/vijesti/info/item/1469-smanjen-izvoz-elektricne-energije-za-34-6-posto">Saznaj više...</a> </div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="div-img-left jcarousel-control-hover" data-tag="sjcoolslider_237">
+<div class="relative jcarousel">
+<div class="jcarousel-control-prev-btn jcarousel-control-btn-hover relative">&lsaquo;</div>
+<div class="jcarousel-control-prev-img relative jcarousel">
+<ul>
+<li>
+<img src="/cache/resized/e2b05cf7ec2842663547036743c01df2.jpg" alt="cache/resized/e2b05cf7ec2842663547036743c01df2.jpg"/> </li>
+<li>
+<img src="/cache/resized/35ddaf82493eb2a16f1d1a8bf7602fef.jpg" alt="cache/resized/35ddaf82493eb2a16f1d1a8bf7602fef.jpg"/> </li>
+<li>
+<img src="/cache/resized/c882b4e5551c5cf7271e10ee01e67e05.jpg" alt="cache/resized/c882b4e5551c5cf7271e10ee01e67e05.jpg"/> </li>
+<li>
+<img src="/cache/resized/c136041a836d356e9484712fc68c0717.jpg" alt="cache/resized/c136041a836d356e9484712fc68c0717.jpg"/> </li>
+<li>
+<img src="/cache/resized/6785c429f00fca519c013f9663e4a88c.jpg" alt="cache/resized/6785c429f00fca519c013f9663e4a88c.jpg"/> </li>
+<li>
+<img src="/cache/resized/848b835c1b90707ad6fd185a43c17042.jpg" alt="cache/resized/848b835c1b90707ad6fd185a43c17042.jpg"/> </li>
+<li>
+<img src="/cache/resized/450355c11e318670506f08e87bb18be7.jpg" alt="cache/resized/450355c11e318670506f08e87bb18be7.jpg"/> </li>
+<li>
+<img src="/cache/resized/4ad23e4d7ac329e0f6b9c7d3f2bbfe79.jpg" alt="cache/resized/4ad23e4d7ac329e0f6b9c7d3f2bbfe79.jpg"/> </li>
+<li>
+<img src="/cache/resized/1bfb0e40245702f5070093609ed180b6.jpg" alt="cache/resized/1bfb0e40245702f5070093609ed180b6.jpg"/> </li>
+<li>
+<img src="/cache/resized/be63da09ec40bfcf4e39f54a7e1e2a0a.jpg" alt="cache/resized/be63da09ec40bfcf4e39f54a7e1e2a0a.jpg"/> </li>
+<li>
+<img src="/cache/resized/1c558a9ede65af0c2a634f7596707dde.jpg" alt="cache/resized/1c558a9ede65af0c2a634f7596707dde.jpg"/> </li>
+<li>
+<img src="/cache/resized/5dc2552a003af8f1286e47363cbd9a21.jpg" alt="cache/resized/5dc2552a003af8f1286e47363cbd9a21.jpg"/> </li>
+<li>
+<img src="/cache/resized/82f0026f167ee8c7dcd169cdadbac9b7.jpg" alt="cache/resized/82f0026f167ee8c7dcd169cdadbac9b7.jpg"/> </li>
+<li>
+<img src="/cache/resized/8125521fcb1b18f572a8c04d213d0b86.jpg" alt="cache/resized/8125521fcb1b18f572a8c04d213d0b86.jpg"/> </li>
+<li>
+<img src="/cache/resized/5089448eb311a1a296169a6f13b49698.jpg" alt="cache/resized/5089448eb311a1a296169a6f13b49698.jpg"/> </li>
+<li>
+<img src="/cache/resized/901e567df8268a465cf6e164c0000e74.jpg" alt="cache/resized/901e567df8268a465cf6e164c0000e74.jpg"/> </li>
+<li>
+<img src="/cache/resized/2a34e7abdbdeaa267c66b655590523cc.jpg" alt="cache/resized/2a34e7abdbdeaa267c66b655590523cc.jpg"/> </li>
+<li>
+<img src="/cache/resized/9dc52fa664b87247b8e8ea1425bc5600.jpg" alt="cache/resized/9dc52fa664b87247b8e8ea1425bc5600.jpg"/> </li>
+<li>
+<img src="/cache/resized/1f710a558727b28a9b436b7288b130b6.jpg" alt="cache/resized/1f710a558727b28a9b436b7288b130b6.jpg"/> </li>
+<li>
+<img src="/cache/resized/c8bd5e159713ec04f75007121b0837bb.jpg" alt="cache/resized/c8bd5e159713ec04f75007121b0837bb.jpg"/> </li>
+</ul>
+</div>
+</div>
+</div>
+<p class="jcarousel-control-prev absolute-jcarousel" data-effect="fade"></p>
+<p class="jcarousel-control-next absolute-jcarousel" data-effect="fade"></p>
+<div class="div-img-right jcarousel-control-hover" data-tag="sjcoolslider_237">
+<div class="relative jcarousel">
+<div class="jcarousel-control-next-btn jcarousel-control-btn-hover relative">&rsaquo;</div>
+<div class="jcarousel-control-next-img relative jcarousel">
+<ul>
+<li>
+<img src="/cache/resized/c882b4e5551c5cf7271e10ee01e67e05.jpg" alt="cache/resized/c882b4e5551c5cf7271e10ee01e67e05.jpg"/> </li>
+<li>
+<img src="/cache/resized/c136041a836d356e9484712fc68c0717.jpg" alt="cache/resized/c136041a836d356e9484712fc68c0717.jpg"/> </li>
+<li>
+<img src="/cache/resized/6785c429f00fca519c013f9663e4a88c.jpg" alt="cache/resized/6785c429f00fca519c013f9663e4a88c.jpg"/> </li>
+<li>
+<img src="/cache/resized/848b835c1b90707ad6fd185a43c17042.jpg" alt="cache/resized/848b835c1b90707ad6fd185a43c17042.jpg"/> </li>
+<li>
+<img src="/cache/resized/450355c11e318670506f08e87bb18be7.jpg" alt="cache/resized/450355c11e318670506f08e87bb18be7.jpg"/> </li>
+<li>
+<img src="/cache/resized/4ad23e4d7ac329e0f6b9c7d3f2bbfe79.jpg" alt="cache/resized/4ad23e4d7ac329e0f6b9c7d3f2bbfe79.jpg"/> </li>
+<li>
+<img src="/cache/resized/1bfb0e40245702f5070093609ed180b6.jpg" alt="cache/resized/1bfb0e40245702f5070093609ed180b6.jpg"/> </li>
+<li>
+<img src="/cache/resized/be63da09ec40bfcf4e39f54a7e1e2a0a.jpg" alt="cache/resized/be63da09ec40bfcf4e39f54a7e1e2a0a.jpg"/> </li>
+<li>
+<img src="/cache/resized/1c558a9ede65af0c2a634f7596707dde.jpg" alt="cache/resized/1c558a9ede65af0c2a634f7596707dde.jpg"/> </li>
+<li>
+<img src="/cache/resized/5dc2552a003af8f1286e47363cbd9a21.jpg" alt="cache/resized/5dc2552a003af8f1286e47363cbd9a21.jpg"/> </li>
+<li>
+<img src="/cache/resized/82f0026f167ee8c7dcd169cdadbac9b7.jpg" alt="cache/resized/82f0026f167ee8c7dcd169cdadbac9b7.jpg"/> </li>
+<li>
+<img src="/cache/resized/8125521fcb1b18f572a8c04d213d0b86.jpg" alt="cache/resized/8125521fcb1b18f572a8c04d213d0b86.jpg"/> </li>
+<li>
+<img src="/cache/resized/5089448eb311a1a296169a6f13b49698.jpg" alt="cache/resized/5089448eb311a1a296169a6f13b49698.jpg"/> </li>
+<li>
+<img src="/cache/resized/901e567df8268a465cf6e164c0000e74.jpg" alt="cache/resized/901e567df8268a465cf6e164c0000e74.jpg"/> </li>
+<li>
+<img src="/cache/resized/2a34e7abdbdeaa267c66b655590523cc.jpg" alt="cache/resized/2a34e7abdbdeaa267c66b655590523cc.jpg"/> </li>
+<li>
+<img src="/cache/resized/9dc52fa664b87247b8e8ea1425bc5600.jpg" alt="cache/resized/9dc52fa664b87247b8e8ea1425bc5600.jpg"/> </li>
+<li>
+<img src="/cache/resized/1f710a558727b28a9b436b7288b130b6.jpg" alt="cache/resized/1f710a558727b28a9b436b7288b130b6.jpg"/> </li>
+<li>
+<img src="/cache/resized/c8bd5e159713ec04f75007121b0837bb.jpg" alt="cache/resized/c8bd5e159713ec04f75007121b0837bb.jpg"/> </li>
+<li>
+<img src="/cache/resized/e2b05cf7ec2842663547036743c01df2.jpg" alt="cache/resized/e2b05cf7ec2842663547036743c01df2.jpg"/> </li>
+<li>
+<img src="/cache/resized/35ddaf82493eb2a16f1d1a8bf7602fef.jpg" alt="cache/resized/35ddaf82493eb2a16f1d1a8bf7602fef.jpg"/> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function ($) {
+(function($) {
+	var check = 0;
+    $(function() {
+        var jcarousel = $('.jcarousel');
+        jcarousel
+            .on('jcarousel:reload jcarousel:create', function () {
+                var carousel = $(this),
+				checkContent = '1';
+				tag_id = carousel.parent().attr('id');
+				checkContent = $('#'+tag_id).attr('data-checkcontent');
+                width = carousel.innerWidth();	
+				height = parseInt(carousel.find('.img-item-sj-coolslider img').css('height'));	
+                carousel.jcarousel('items').css('width', Math.ceil(width) + 'px'); 
+				if(checkContent == 1){
+				if(width > 478){
+				$('#sjcoolslider_237 .jcarousel-control-prev').mouseover(function(){
+					$('#sjcoolslider_237 .jcarousel-control-prev').css('border','1px solid red');
+					$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('background','red');
+					$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('color','#fff');
+				});
+				
+				$('#sjcoolslider_237 .jcarousel-control-next').mouseover(function(){
+					$('#sjcoolslider_237 .jcarousel-control-next').css('border','1px solid red');
+					$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('background','red');
+					$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('color','#fff');
+				});
+				
+				$('#sjcoolslider_237 .jcarousel-control-prev').mouseout(function(){
+					$('#sjcoolslider_237 .jcarousel-control-prev').css('border','1px solid #fff');
+					$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('background','#fff');
+					$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('color','#000');
+				});
+				
+				$('#sjcoolslider_237 .jcarousel-control-next').mouseout(function(){
+					$('#sjcoolslider_237 .jcarousel-control-next').css('border','1px solid #fff');
+					$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('background','#fff');
+					$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('color','#000');
+				});
+					var width_img = parseInt((width*67)/100);
+					var width_content = width - width_img - 60;
+					carousel.jcarousel('items').find('.img-item-sj-coolslider').css('width',width_img-3);
+					carousel.jcarousel('items').find('.content-item-sj-coolslider').css('width',width_content);
+					carousel.jcarousel('items').find('.content-item-sj-coolslider').css('position','absolute');
+					$('#'+tag_id+' .jcarousel-control-next').css('left',width_img-74);
+					$('#'+tag_id+' .div-img-right').css('left',width_img-74);
+					carousel.jcarousel('items').find('iframe,video').attr('width',width_img-3);
+					carousel.jcarousel('items').find('iframe,video').attr('height',height);
+					$('#'+tag_id).find('.jcarousel-control-next-img,.jcarousel-control-prev-img').css('display','block');
+				}else{
+					$('#sjcoolslider_237 .div-img-left').css('border','none');
+					$('#sjcoolslider_237 .div-img-right').css('border','none');
+					$('#sjcoolslider_237 .jcarousel-control-prev').css('border','none');
+					$('#sjcoolslider_237 .jcarousel-control-next').css('border','none');
+					$('#sjcoolslider_237 .jcarousel-control-prev').mouseover(function(){
+						$('#sjcoolslider_237 .jcarousel-control-prev').css('border','none');
+						$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('background','red');
+						$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('color','#fff');
+					});
+					
+					$('#sjcoolslider_237 .jcarousel-control-next').mouseover(function(){
+						$('#sjcoolslider_237 .jcarousel-control-next').css('border','none');
+						$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('background','red');
+						$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('color','#fff');
+					});
+					
+					$('#sjcoolslider_237 .jcarousel-control-prev').mouseout(function(){
+						$('#sjcoolslider_237 .jcarousel-control-prev').css('border','none');
+						$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('background','#fff');
+						$('#sjcoolslider_237 .div-img-left .jcarousel-control-prev-btn').css('color','#000');
+					});
+					
+					$('#sjcoolslider_237 .jcarousel-control-next').mouseout(function(){
+						$('#sjcoolslider_237 .jcarousel-control-next').css('border','none');
+						$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('background','#fff');
+						$('#sjcoolslider_237 .div-img-right .jcarousel-control-next-btn').css('color','#000');
+					});
+					
+					carousel.jcarousel('items').find('.img-item-sj-coolslider').css('width',width);
+					carousel.jcarousel('items').find('.content-item-sj-coolslider').css('width',width-60);
+					carousel.jcarousel('items').find('.content-item-sj-coolslider').css('position','relative');
+					$('#'+tag_id+' .jcarousel-control-next').css('left',width-74);
+					$('#'+tag_id+' .div-img-right').css('left',width-74);
+					carousel.jcarousel('items').find('iframe,video').attr('width',width);
+					carousel.jcarousel('items').find('iframe,video').attr('height',height);
+					$('#'+tag_id).find('.jcarousel-control-prev,.div-img-right').css('border','none');
+					$('#'+tag_id).find('.jcarousel-control-next-img,.jcarousel-control-prev-img').css('display','none');
+				}
+				}else{
+					carousel.jcarousel('items').find('.img-item-sj-coolslider').css('width',width);
+					carousel.jcarousel('items').find('iframe,video').attr('width',width);
+					carousel.jcarousel('items').find('iframe,video').attr('height',height);
+					$('#'+tag_id+' .jcarousel-control-next').css('left',width-74);
+					$('#'+tag_id+' .div-img-right').css('left',width-74);
+				}	
+            })
+            .jcarousel({
+                wrap: 'circular'
+            });
+			
+			$('.jcarousel-control-prev')
+            .jcarouselControl({
+                target: '-=1',
+            });
+
+			$('.jcarousel-control-next')
+            .jcarouselControl({
+                target: '+=1',
+            });	
+			
+		var stopHover = 0;
+		$('.jcarousel').jcarousel({
+			animation: {
+				duration: 400,
+				easing:   'linear',
+				complete: function() {
+				}
+			}
+		});
+		
+		$('#sjcoolslider_237 .jcarousel').eq(0).on('jcarousel:visibleout', 'li', function(event, carousel) {
+			if($('#sjcoolslider_237').attr('data-effect') == 'fade'){
+			$('#sjcoolslider_237 .jcarousel').eq(0).find('ul li').animate({opacity:"1"},500);
+			}
+		});
+		
+		$('#sjcoolslider_237 .jcarousel').eq(0).on('jcarousel:visiblein', 'li', function(event, carousel) {		
+			if($('#sjcoolslider_237').attr('data-effect') == 'fade'){
+				$('#sjcoolslider_237 .jcarousel').eq(0).find('ul li').animate({opacity:"0"});
+			}
+		});
+		
+		$('#sjcoolslider_237 .jcarousel').find('ul li').animate({opacity:"1"},1);
+		
+		var checkPlay = '1';
+		if(checkPlay == 1){
+
+		$('#sjcoolslider_237 .jcarousel').jcarouselAutoscroll({
+			interval: 5000		});
+		
+		stopHover = 'hover';
+		}
+			if(stopHover != 0){
+				$('#sjcoolslider_237 .jcarousel').hover(function() {
+				$('#sjcoolslider_237 .jcarousel').jcarouselAutoscroll('stop');
+				}, function() {
+				$('#sjcoolslider_237 .jcarousel').jcarouselAutoscroll('start');
+				});
+			}
+    });
+	$('#sjcoolslider_237').each(function(){
+		var $this = $(this);
+							$this.touchSwipeLeft(function(){
+						$this.find('.jcarousel').jcarousel('scroll', '-=1');
+						}
+					);
+					$this.touchSwipeRight(function(){
+						$this.find('.jcarousel').jcarousel('scroll', '+=1');
+						}
+					);
+			
+	});
+	
+	
+})(jQuery);
+	
+});
+//]]>
+</script>
+</div>
+<div id="sp-position3" class="span4"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p>      <a href="http://www.messer.ba/?iLangID=1" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/baneri/messer-2012a.jpg" alt="messer zenicablog"/></a></p>
+<p><a href="http://www.almy.ba" target="_blank"><img style="margin-top: 5px; display: block; margin-left: auto; margin-right: auto;" src="/images/baneri/Almy_Zenicablog2.gif" alt="Almy Zenicablog2"/></a></p>
+<p><a href="https://www.facebook.com/kodsejepruscanovic" target="_blank"><img style="margin-top: 5px; display: block; margin-left: auto; margin-right: auto;" src="/images/baneri/kodseje.gif" alt="PEKARA PRUSCANOVIC ZENICA"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></div></section><section id="sp-content-top-2-wrapper" class=" "><div class="container"><div class="row-fluid" id="content-top-2">
+<div id="sp-content-top-left" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://www.almytravel.ba" target="_blank"><img src="/images/baneri/pp_zb1.gif" alt="pp zb1"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-content-top-right" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://www.telemach.ba/PAKETI/1541/DZABE+PRETPLATA+ZA+FIKSNU+TELEFONIJU+GODINU+DANA.shtml/nav_start=0" target="_blank"><img src="/images/baneri/zbb.jpg" alt="Telemach akcija Zenica telefonija"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></div></section><section id="sp-main-body-wrapper" class=" "><div class="container"><div class="row-fluid" id="main-body">
+<div id="sp-component-area" class="span8"><section id="sp-component-wrapper"><div id="sp-component"><div id="system-message-container">
+</div>
+<section class="featured ">
+</section></div></section><section id="sp-feature-news-wrapper" class=" "><div class="row-fluid" id="feature-news">
+<div id="sp-feature-news1" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Zenica</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-176" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap176" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/zenica">Više iz ZENICA</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zenica/item/1542-topcic-polje-petnaest-kuca-ceka-obnovu" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/5622634ef28273566abb3f639e6e3780_XL_150x123.jpg" alt="Topčić Polje: petnaest kuća čeka obnovu" title="Topčić Polje: petnaest kuća čeka obnovu"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zenica/item/1542-topcic-polje-petnaest-kuca-ceka-obnovu">
+Topčić Polje: petnaest kuća čeka obnovu </a>
+</h4>
+<p class="ns2-introtext">Stanovnici Topčić Polja ponovo strahuju od poplava i klizišta, koje su...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap176" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zenica/item/1529-buducnost-metalurskog-instituta-zenica">Budućnost Metalurškog instituta Zenica</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zenica/item/1523-tuzilastvo-zdk-dobija-novu-zgradu">Tužilaštvo ZDK dobija novu zgradu</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zenica/item/1521-rukometasi-celika-kod-gradonacelnika">Rukometaši Čelika kod gradonačelnika</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zenica/item/1517-amz-popravka-drugog-kotla-pri-kraju">AMZ: popravka drugog kotla pri kraju</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-feature-news2" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Crna hronika</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-207" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap207" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/crna-hronika">Više iz CRNA HRONIKA</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/40eea965efdcfb7f2cf48e2873e29681_XL_150x123.jpg" alt="Nesreća u Štrosmajerovoj, troje povrijeđenih" title="Nesreća u Štrosmajerovoj, troje povrijeđenih"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih">
+Nesreća u Štrosmajerovoj, troje povrijeđenih </a>
+</h4>
+<p class="ns2-introtext">Tri osobe povrijeđene u saobraćajnoj nesreći koja se dogodila oko pono...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap207" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/crna-hronika/sudske-klupe/item/1543-kako-je-midhat-karalic-pokrao-sugradane">Kako je Midhat Karalić pokrao sugrađane</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/crna-hronika/zlocini/item/1519-jelina-ukradena-zastitna-zeljeznicka-ograda">Jelina: ukradena zaštitna željeznička ograda</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/crna-hronika/zlocini/item/1515-krada-u-centru-zenice">Krađa u centru Zenice</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/crna-hronika/nesrece/item/1471-nesreca-kamiona-na-m17">Nesreća kamiona na M17</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-feature-middle-wrapper" class=" "><div class="row-fluid" id="feature-middle">
+<div id="sp-future-mid" class="span12"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://www.procomp.ba" target="_blank"><img src="/images/baneri/procomp_zenica_1.gif" alt="procomp zenica 1"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Video</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-154" class="nssp2 ns2- feature-mid-video">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap154" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zabava/item/1527-video-ted-2-pogledajte-trailer" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/68e3eaa9d829c459454ed745e7bf69f0_XL_186x90.jpg" alt="Video: Ted 2 - pogledajte trailer" title="Video: Ted 2 - pogledajte trailer"/>
+</a>
+<h4 class="ns2-title">
+Video: Ted 2 - pogledajte trailer
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/vijesti/zabava">
+Zabava </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zabava/item/1492-video-decko-iz-komsiluka-sa-dzenifer-lopez" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/ba3445f45f9f68fd1eb9f3f80c55f056_XL_186x90.jpg" alt="Video: Dečko iz komšiluka" title="Video: Dečko iz komšiluka"/>
+</a>
+<h4 class="ns2-title">
+Video: Dečko iz komšiluka
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/vijesti/zabava">
+Zabava </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zabava/item/1491-video-una-film-predstavlja-7-patuljak" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/b28583042693d16cf6a0fb14d253e933_XL_186x90.jpg" alt="Video: Una film predstavlja - 7. patuljak" title="Video: Una film predstavlja - 7. patuljak"/>
+</a>
+<h4 class="ns2-title">
+Video: Una film predstavlja - 7. patuljak
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/vijesti/zabava">
+Zabava </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/politika/item/1475-video-parodija-na-formiranje-vlasti-u-fbih" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/131d3b098f1d3155bd76f95beb5e39a6_XL_186x90.jpg" alt="Video: parodija na formiranje vlasti" title="Video: parodija na formiranje vlasti"/>
+</a>
+<h4 class="ns2-title">
+Video: parodija na formiranje vlasti
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/vijesti/politika">
+Politika </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-even">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/sport/nogomet/item/1449-video-senad-sarajlic-o-stanju-u-celiku" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/4097c75a2ae44c9ffa12ddb6154d2815_XL_186x90.jpg" alt="Video: Senad Sarajlić o stanju u Čeliku" title="Video: Senad Sarajlić o stanju u Čeliku"/>
+</a>
+<h4 class="ns2-title">
+Video: Senad Sarajlić o stanju u Čeliku
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/sport/nogomet">
+Nogomet </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zenica/item/1448-video-zenica-se-od-smoga-ne-vidi" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/587746ff6320613e33bbe5dba0deac7f_XL_186x90.jpg" alt="Video: Zenica se od smoga ne vidi" title="Video: Zenica se od smoga ne vidi"/>
+</a>
+<h4 class="ns2-title">
+Video: Zenica se od smoga ne vidi
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/vijesti/zenica">
+Zenica </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/zuta-minuta/nase/item/1446-video-najava-zeljezno-polje-jucer-danas" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/f5564d3515aba744065b44b196ea6e3a_XL_186x90.jpg" alt="Video najava: Željezno polje jučer, danas..." title="Video najava: Željezno polje jučer, danas..."/>
+</a>
+<h4 class="ns2-title">
+Video najava: Željezno polje jučer, danas...
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/zuta-minuta/nase">
+Naše </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div class="ns2-column flt-left col-4">
+<div style="padding:0 10px">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zabava/item/1380-foto-video-humanitarni-koncert-u-ksc-za-stjepana" style="margin:0 0 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ feature-mid-video/7a39d43acd423737f440a2b509dd494a_XL_186x90.jpg" alt="Foto+video: koncert za Stjepana" title="Foto+video: koncert za Stjepana"/>
+</a>
+<h4 class="ns2-title">
+Foto+video: koncert za Stjepana
+</h4>
+<div class="ns2-tools">
+<div class="ns2-category">
+<a href="/index.php/vijesti/zabava">
+Zabava </a>
+</div>
+</div>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8218978211228689" data-ad-slot="8367486762" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-top-inset-wrapper" class=" "><div class="row-fluid" id="top-inset">
+<div id="sp-inset-1" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Sport</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-149" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap149" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/sport">Više iz SPORT</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/sport/kosarka/item/1548-nakon-njemacke-bih-pobjedila-i-srbiju" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/2decf24e5eeb84ac85b23c4377295614_XL_150x123.jpg" alt="Nakon Njemačke, BIH pobjedila i Srbiju" title="Nakon Njemačke, BIH pobjedila i Srbiju"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/sport/kosarka/item/1548-nakon-njemacke-bih-pobjedila-i-srbiju">
+Nakon Njemačke, BIH pobjedila i Srbiju </a>
+</h4>
+<p class="ns2-introtext">Kadetska košarkaška reprezentacija Bosne i Hercegovine ostvarila je dr...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap149" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/sport/nogomet/item/1540-adnan-nuhagic-novi-v-d-direktor-nk-celik">Adnan Nuhagić novi v.d. direktor NK Čelik</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/sport/kosarka/item/1539-visok-poraz-okk-celik-u-bileci">Visok poraz OKK Čelik u Bileći</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/sport/ostali-sportovi/item/1538-za-samira-hajdarevica-prikupljeno-930-km">Za Samira Hajdarevića prikupljeno 930 KM</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/sport/kosarka/item/1537-kadeti-bih-bolji-od-njemacke">Kadeti BIH bolji od Njemačke</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-inset-2" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Žuta minuta</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-213" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap213" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/zuta-minuta">Više iz ŽUTA MINUTA</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/zuta-minuta/posudeno/item/1541-pavlik-morozov-na-bosanski-nacin" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/f64b0864e862d3c122851be4770d6e9a_XL_150x123.jpg" alt="Pavlik Morozov na bosanski način" title="Pavlik Morozov na bosanski način"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/zuta-minuta/posudeno/item/1541-pavlik-morozov-na-bosanski-nacin">
+Pavlik Morozov na bosanski način </a>
+</h4>
+<p class="ns2-introtext">Ima u okolini Zenice jedno selo čiji žitelji, premda sasvim propisno,...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap213" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/zuta-minuta/nase/item/1545-ovako-se-ne-parkira-subota-31-01">Ovako se NE parkira - subota 31.01.</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/zuta-minuta/posudeno/item/1460-upoznajte-se-detaljno-carina">Upoznajte se detaljno - carina</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/zuta-minuta/posudeno/item/1532-asovi-moje-carsije-junaci-sportske-zenice">Asovi moje čaršije: junaci sportske Zenice</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/zuta-minuta/nase/item/1500-foto-unutrasnji-izgled-autobusa-zenica-biljevina">Foto: unutrašnji izgled autobusa Zenica-Biljevina</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-oglas-wrapper" class=" "><div class="row-fluid" id="oglas">
+<div id="sp-position4" class="span12"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8218978211228689" data-ad-slot="8367486762" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-mid-inset-wrapper" class=" "><div class="row-fluid" id="mid-inset">
+<div id="sp-inset-3" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Politika</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-219" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap219" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/politika">Više iz POLITIKA</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/politika/item/1528-stranka-za-bih-neodgovornost-na-djelu" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/4a80fc75ab35bb5442febad17883d436_XL_150x123.jpg" alt="Stranka za BIH - Neodgovornost na djelu" title="Stranka za BIH - Neodgovornost na djelu"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/politika/item/1528-stranka-za-bih-neodgovornost-na-djelu">
+Stranka za BIH - Neodgovornost na djelu </a>
+</h4>
+<p class="ns2-introtext">Predizborna i postizborna euforija izbornih pobjednika ovih dana dobij...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap219" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/politika/item/1524-i-dalje-bez-nove-vlade-zdk">I dalje bez nove Vlade ZDK</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/politika/item/1475-video-parodija-na-formiranje-vlasti-u-fbih">Video: parodija na formiranje vlasti</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/politika/item/1359-hdz-zenica-obiljezio-25-godina-postojanja">HDZ Zenica obilježio 25 godina postojanja</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/politika/item/1306-hdz-zenica-25-godina-djelovanja">HDZ Zenica: 25 godina djelovanja</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-inset-4" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Biznis</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-152" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap152" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/biznis">Više iz BIZNIS</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/biznis/item/1544-porasle-cijene-stanova-u-bih" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/f05fb917688a7bdfaba8ede178c926e3_XL_150x123.jpg" alt="Porasle cijene stanova u BiH" title="Porasle cijene stanova u BiH"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/biznis/item/1544-porasle-cijene-stanova-u-bih">
+Porasle cijene stanova u BiH </a>
+</h4>
+<p class="ns2-introtext">Cijene stanova u BiH u 2014. godini uvećane su za oko 0,6 posto u odno...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap152" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/biznis/item/1526-pocinje-prelazni-rok-za-nogometase">Počinje prelazni rok za nogometaše</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/biznis/item/1520-telemach-besplatna-telefonija">Telemach: besplatna telefonija</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/biznis/item/1382-travel-free-prvi-izbor-za-ljubitelje-brendova">Travel FREE prvi izbor za ljubitelje brendova</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/biznis/item/1511-zdk-placa-za-8-100-budzetskih-korisnika">ZDK. Plaća za 8.100 budžetskih korisnika</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-add-middle-wrapper" class=" "><div class="row-fluid" id="add-middle">
+<div id="sp-add-middle" class="span12"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://www.gog.ba" target="_blank"><img style="margin-right: 2px;" src="/images/baneri/gog-logo.jpg" alt="GOG Zenica" width="180" height="59"/></a><a href="http://www.multiplexekran.ba/" target="_blank"><img style="margin-right: 2px;" src="/images/baneri/ekran.jpg" alt="Multiplex ekran Zenica" width="180" height="63"/></a><a href="https://www.facebook.com/pages/JU-Penzionerski-dom-Ze-do-kantona/570369983010667" target="_blank"><img style="margin-right: 2px;" src="/images/baneri/dpze2014b.gif" alt="Penzionerski dom zenica" width="180" height="63"/></a><a href="http://www.gastrofan.com" target="_blank"><img src="/images/baneri/gastrofan-com.jpg" alt="Recepti i kuhanje gastrofan" width="180" height="63"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-bottom-inset-wrapper" class=" "><div class="row-fluid" id="bottom-inset">
+<div id="sp-inset-5" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Zabava</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-212" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap212" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/zabava">Više iz ZABAVA</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/zabava/item/1527-video-ted-2-pogledajte-trailer" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/68e3eaa9d829c459454ed745e7bf69f0_XL_150x123.jpg" alt="Video: Ted 2 - pogledajte trailer" title="Video: Ted 2 - pogledajte trailer"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zabava/item/1527-video-ted-2-pogledajte-trailer">
+Video: Ted 2 - pogledajte trailer </a>
+</h4>
+<p class="ns2-introtext">Najluđi medvjedić na svijetu vraća se u kino dvorane. Set Mekfarlan se...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap212" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zabava/item/1492-video-decko-iz-komsiluka-sa-dzenifer-lopez">Video: Dečko iz komšiluka</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zabava/item/1491-video-una-film-predstavlja-7-patuljak">Video: Una film predstavlja - 7. patuljak</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zabava/item/1424-foto-vedro-pohod-na-vlasic">Foto: Vedro pohod na Vlašić</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/zabava/item/1396-foto-rezultati-2-eurofan-kupa">Foto: rezultati 2.Eurofan Kupa</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-inset-6" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Info</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-220" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap220" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/info">Više iz INFO</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/info/item/1504-glas-privrednika-smanjite-namete-investirat-cemo-i-otvoriti-radna-mjesta" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/8b48a3d3ff200010263c0fc8d232b3ac_XL_150x123.jpg" alt="Glas privrednika: Smanjite namete" title="Glas privrednika: Smanjite namete"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/info/item/1504-glas-privrednika-smanjite-namete-investirat-cemo-i-otvoriti-radna-mjesta">
+Glas privrednika: Smanjite namete </a>
+</h4>
+<p class="ns2-introtext">Ova godina biće jako teška, kako za bh. privrednike, tako i za predsta...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap220" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/info/item/1503-konferencija-u-becu-29-bh-firmi-u-potraznji-za-stranim-trzistem">Bh. firme u potražnji za stranim tržištem</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/info/item/1502-snazan-rast-naplate-indirektnih-poreza">Snažan rast naplate indirektnih poreza</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/info/item/1325-traze-izuzece-od-otplate-dugova">Traže izuzeće od otplate dugova</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/info/item/1469-smanjen-izvoz-elektricne-energije-za-34-6-posto">Smanjen izvoz električne energije za 34,6 posto</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-banner2-wrapper" class=" "><div class="row-fluid" id="banner2">
+<div id="sp-position5" class="span12"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="https://www.facebook.com/unafilmbih" target="_blank"><img src="/images/baneri/e230115b.gif" alt="e230115b"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp-vijesti5-wrapper" class=" "><div class="row-fluid" id="vijesti5">
+<div id="sp-position6" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Ljudi</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-151" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap151" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/ljudi">Više iz LJUDI</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/ljudi/item/1518-batonovi-muhabeti-abdulah-hodzic" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/94c8c0da1dbcc923a173d22dbc0b5d61_XL_150x123.jpg" alt="Batonovi muhabeti: Abdulah Hodžić" title="Batonovi muhabeti: Abdulah Hodžić"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/ljudi/item/1518-batonovi-muhabeti-abdulah-hodzic">
+Batonovi muhabeti: Abdulah Hodžić </a>
+</h4>
+<p class="ns2-introtext">Protekle sedmice Udruženje „Baton“ Zenica, u prostorijama Muzeja grada...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap151" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/ljudi/item/1487-in-memoriam-dr-senka-zecevic">In memoriam: Dr. Senka Zečević</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/ljudi/item/1430-elma-zeba">Elma Zeba</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/ljudi/item/1415-haris-burina">Haris Burina</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/ljudi/item/1391-omer-zanat-izucio-u-kpz-zenica">Omer zanat izučio u KPZ Zenica</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-position7" class="span6"><div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Kultura</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-234" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap234" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<a class="ns2-more-news" href="/index.php/vijesti/kultura">Više iz KULTURA</a>
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/vijesti/kultura/item/1497-foto-alan-ford-u-muzeju-grada" style="margin:0 20px 0 0">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/849490c006bb4d49771370ab2cc100ba_XL_150x123.jpg" alt="Foto: Alan Ford u Muzeju grada" title="Foto: Alan Ford u Muzeju grada"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/kultura/item/1497-foto-alan-ford-u-muzeju-grada">
+Foto: Alan Ford u Muzeju grada </a>
+</h4>
+<p class="ns2-introtext">Muzej grada Zenice danas je upriličio otvaranje izložbe "Alan Ford", p...</p>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+<div id="ns2-links-wrap234" class="ns2-links-wrap  ">
+<div class="ns2-links-pages nssp2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row span3 ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/kultura/item/1314-premijera-pingvin-na-maloj-sceni-bnp-a">Premijera: Pingvin na Maloj sceni BNP-a</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/kultura/item/1271-uspjesno-gostovanje-zenicana-u-ljubljani">Uspješno gostovanje Zeničana u Ljubljani</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-odd">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/kultura/item/1164-bnp-premijerama-obiljezavaju-rodendan">BNP: premijerama obilježavaju rođendan</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="ns2-row span3  ns2-even">
+<div class="ns2-row-inner">
+<div style="padding:0">
+<div class="ns2-inner">
+ 
+<h4 class="ns2-title">
+<a href="/index.php/vijesti/kultura/item/1158-pripreme-za-20-zenicko-proljece">Pripreme za 20. Zeničko proljeće</a>
+</h4>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section></div>
+<aside id="sp-right" class="span4"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="search pull-right input-append ">
+<form action="/index.php" method="post" class="form-inline">
+<input name="searchword" id="mod-search-searchword" type="text" value="Traži..." onblur="if (this.value=='') this.value='Traži...';" onfocus="if (this.value=='Traži...') this.value='';"/> <input type="hidden" name="task" value="search"/>
+<input type="hidden" name="option" value="com_search"/>
+<input type="hidden" name="Itemid" value="0"/>
+<button class="button btn btn-primary" onclick="this.form.searchword.focus();"><i class="icon-search"></i></button> </form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="https://www.facebook.com/KerametalSarajevo?ref=hl" target="_blank"><img style="display: block; margin-right: auto; margin-left: auto;" src="/images/baneri/atkerametal_banner.gif" alt="atkerametal Zenica"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module  right-sp-tab">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="sptab_red" id="sptab163">
+<div style="display:none">
+<div class="tab-padding">
+<h2 style="display:none" class="title"><span id="top_7_dana" class="sptab-title sptab_sfx right-for-sp-tab">Top 7 dana</span></h2>
+<div id="k2ModuleBox156" class="k2ItemsBlock  right-for-sp-tab">
+<ul>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/zuta-minuta/nase/item/1409-pismo-majke-o-radu-djecijeg-dispanzera" title="Nastavi sa čitanjem &quot;Pismo majke o radu Dječijeg dispanzera&quot;">
+<img src="/media/k2/items/cache/68f0729dbfa0e2e0301e7f43002c0610_S.jpg" alt="Pismo majke o radu Dječijeg dispanzera"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/zuta-minuta/nase/item/1409-pismo-majke-o-radu-djecijeg-dispanzera">Pismo majke o radu Dječijeg dispanzera</a>
+<span class="moduleItemDateCreated">nedjelja, 25 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/nesrece/item/1471-nesreca-kamiona-na-m17" title="Nastavi sa čitanjem &quot;Nesreća kamiona na M17&quot;">
+<img src="/media/k2/items/cache/32c2bfee790e49c093a0c22e10399cc8_S.jpg" alt="Nesreća kamiona na M17"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1471-nesreca-kamiona-na-m17">Nesreća kamiona na M17</a>
+<span class="moduleItemDateCreated">srijeda, 28 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/vijesti/info/item/1513-ne-smiju-vam-traziti-kopiju-licne-karte" title="Nastavi sa čitanjem &quot;Ne smiju vam tražiti kopiju lične karte&quot;">
+<img src="/media/k2/items/cache/9d420ea9134f51f1b7d6e409defa19a0_S.jpg" alt="Ne smiju vam tražiti kopiju lične karte"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/info/item/1513-ne-smiju-vam-traziti-kopiju-licne-karte">Ne smiju vam tražiti kopiju lične karte</a>
+<span class="moduleItemDateCreated">četvrtak, 29 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/zlocini/item/1515-krada-u-centru-zenice" title="Nastavi sa čitanjem &quot;Krađa u centru Zenice&quot;">
+<img src="/media/k2/items/cache/5dd4b7e13497b1cdfc3b17b4ca3927aa_S.jpg" alt="Krađa u centru Zenice"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/zlocini/item/1515-krada-u-centru-zenice">Krađa u centru Zenice</a>
+<span class="moduleItemDateCreated">četvrtak, 29 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/vijesti/ljudi/item/1415-haris-burina" title="Nastavi sa čitanjem &quot;Haris Burina&quot;">
+<img src="/media/k2/items/cache/9cda38e941d285d123019b2173d8d97a_S.jpg" alt="Haris Burina"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/ljudi/item/1415-haris-burina">Haris Burina</a>
+<span class="moduleItemDateCreated">ponedjeljak, 26 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/sudske-klupe/item/1419-uhvatili-ih-nakon-provale-u-kafanu" title="Nastavi sa čitanjem &quot;Uhvatili ih nakon provale u kafanu&quot;">
+<img src="/media/k2/items/cache/e7d681ddc0174087ad0e36dc718519dd_S.jpg" alt="Uhvatili ih nakon provale u kafanu"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/sudske-klupe/item/1419-uhvatili-ih-nakon-provale-u-kafanu">Uhvatili ih nakon provale u kafanu</a>
+<span class="moduleItemDateCreated">ponedjeljak, 26 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih" title="Nastavi sa čitanjem &quot;Nesreća u &Scaron;trosmajerovoj, troje povrijeđenih&quot;">
+<img src="/media/k2/items/cache/40eea965efdcfb7f2cf48e2873e29681_S.jpg" alt="Nesreća u &Scaron;trosmajerovoj, troje povrijeđenih"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih">Nesreća u Štrosmajerovoj, troje povrijeđenih</a>
+<span class="moduleItemDateCreated">nedjelja, 01 Februar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/zuta-minuta/nase/item/1446-video-najava-zeljezno-polje-jucer-danas" title="Nastavi sa čitanjem &quot;Video najava: Željezno polje jučer, danas...&quot;">
+<img src="/media/k2/items/cache/f5564d3515aba744065b44b196ea6e3a_S.jpg" alt="Video najava: Željezno polje jučer, danas..."/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/zuta-minuta/nase/item/1446-video-najava-zeljezno-polje-jucer-danas">Video najava: Željezno polje jučer, danas...</a>
+<span class="moduleItemDateCreated">utorak, 27 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/sudske-klupe/item/1420-sudija-odredio-pritvor-denijalu-zecu" title="Nastavi sa čitanjem &quot;Sudija odredio pritvor Denijalu Zecu&quot;">
+<img src="/media/k2/items/cache/d50ace0c29db9ed14b87bbbc3592d4ac_S.jpg" alt="Sudija odredio pritvor Denijalu Zecu"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/sudske-klupe/item/1420-sudija-odredio-pritvor-denijalu-zecu">Sudija odredio pritvor Denijalu Zecu</a>
+<span class="moduleItemDateCreated">ponedjeljak, 26 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd lastItem">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/vijesti/zenica/item/1422-kvar-na-oba-kotla-zaustavljen-rad-amz-i-grijanje" title="Nastavi sa čitanjem &quot;Kvar na oba kotla, zaustavljen rad AMZ i grijanje&quot;">
+<img src="/media/k2/items/cache/0a437fb45f4388e89321519e6c196fa1_S.jpg" alt="Kvar na oba kotla, zaustavljen rad AMZ i grijanje"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/zenica/item/1422-kvar-na-oba-kotla-zaustavljen-rad-amz-i-grijanje">Kvar na oba kotla, zaustavljen rad AMZ i grijanje</a>
+<span class="moduleItemDateCreated">ponedjeljak, 26 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="clearList"></li>
+</ul>
+<div class="k2FeedIcon">
+<a href="/index.php/component/k2/itemlist?format=feed&amp;moduleID=156" title="Pretplati se na ovaj RSS feed">
+<span>Pretplati se na ovaj RSS feed</span>
+</a>
+<div class="clr"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="display:none">
+<div class="tab-padding">
+<h2 style="display:none" class="title"><span id="top_30_dana" class="sptab-title sptab_sfx right-for-sp-tab">Top 30 dana</span></h2>
+<div id="k2ModuleBox210" class="k2ItemsBlock  right-for-sp-tab">
+<ul>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/nesrece/item/1031-tragedija-u-nemili-poginula-djevojcica" title="Nastavi sa čitanjem &quot;Tragedija u Nemili: poginula djevojčica&quot;">
+<img src="/media/k2/items/cache/33e2c7a4f18f997a0fbcf33ef09e1b42_S.jpg" alt="Tragedija u Nemili: poginula djevojčica"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1031-tragedija-u-nemili-poginula-djevojcica">Tragedija u Nemili: poginula djevojčica</a>
+<span class="moduleItemDateCreated">ponedjeljak, 05 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/sudske-klupe/item/1253-jasarevic-uhapsen-sa-ruksakom-i-deset-kg-heroina" title="Nastavi sa čitanjem &quot;Ja&scaron;arević uhap&scaron;en sa ruksakom i deset kg heroina&quot;">
+<img src="/media/k2/items/cache/a9ea13237c0502159263f017095ec8e6_S.jpg" alt="Ja&scaron;arević uhap&scaron;en sa ruksakom i deset kg heroina"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/sudske-klupe/item/1253-jasarevic-uhapsen-sa-ruksakom-i-deset-kg-heroina">Jašarević uhapšen sa ruksakom i deset kg heroina</a>
+<span class="moduleItemDateCreated">nedjelja, 18 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/zuta-minuta/nase/item/1098-doktorici-5-godisnja-pacijentica-divlja-djevojcica" title="Nastavi sa čitanjem &quot;Doktorici 5-godi&scaron;nja pacijentica - divlja djevojčica&quot;">
+<img src="/media/k2/items/cache/5bcbc2e6adc6ac9dfb690a3edcb64ab2_S.jpg" alt="Doktorici 5-godi&scaron;nja pacijentica - divlja djevojčica"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/zuta-minuta/nase/item/1098-doktorici-5-godisnja-pacijentica-divlja-djevojcica">Doktorici 5-godišnja pacijentica - divlja djevojčica</a>
+<span class="moduleItemDateCreated">petak, 09 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/nesrece/item/1269-izdato-upozorenje-gradanima-zenice" title="Nastavi sa čitanjem &quot;Izdato UPOZORENJE građanima Zenice&quot;">
+<img src="/media/k2/items/cache/70eaefc5bc6bfbfdd6ffa7ba31cfa7c1_S.jpg" alt="Izdato UPOZORENJE građanima Zenice"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1269-izdato-upozorenje-gradanima-zenice">Izdato UPOZORENJE građanima Zenice</a>
+<span class="moduleItemDateCreated">ponedjeljak, 19 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/nesrece/item/1267-zenica-opet-klizista-poplave" title="Nastavi sa čitanjem &quot;Zenica: opet klizi&scaron;ta, poplave..&quot;">
+<img src="/media/k2/items/cache/a5f10fbd19f01d5dc9cda9ccb53fcb94_S.jpg" alt="Zenica: opet klizi&scaron;ta, poplave.."/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1267-zenica-opet-klizista-poplave">Zenica: opet klizišta, poplave..</a>
+<span class="moduleItemDateCreated">ponedjeljak, 19 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/sudske-klupe/item/1151-uhapseni-zenicani-u-crkvicama-i-babinoj-rijeci" title="Nastavi sa čitanjem &quot;Uhap&scaron;eni Zeničani u Crkvicama i Babinoj rijeci&quot;">
+<img src="/media/k2/items/cache/03224d1fcb0108937e9b07deb18cf473_S.jpg" alt="Uhap&scaron;eni Zeničani u Crkvicama i Babinoj rijeci"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/sudske-klupe/item/1151-uhapseni-zenicani-u-crkvicama-i-babinoj-rijeci">Uhapšeni Zeničani u Crkvicama i Babinoj rijeci</a>
+<span class="moduleItemDateCreated">utorak, 13 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/nesrece/item/1340-foto-povrijedena-osoba-u-nesreci-na-bulevaru" title="Nastavi sa čitanjem &quot;Foto: Povrijeđena osoba u nesreći na Bulevaru&quot;">
+<img src="/media/k2/items/cache/b6f5cdd07f1a2d0d7e83dfb5ca861277_S.jpg" alt="Foto: Povrijeđena osoba u nesreći na Bulevaru"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1340-foto-povrijedena-osoba-u-nesreci-na-bulevaru">Foto: Povrijeđena osoba u nesreći na Bulevaru</a>
+<span class="moduleItemDateCreated">srijeda, 21 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/zlocini/item/1185-razbojnistvo-i-krada-u-centru-zenice" title="Nastavi sa čitanjem &quot;Razbojni&scaron;tvo i krađa u centru Zenice&quot;">
+<img src="/media/k2/items/cache/91c14cbfa735c2522cedce0eda8810b9_S.jpg" alt="Razbojni&scaron;tvo i krađa u centru Zenice"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/zlocini/item/1185-razbojnistvo-i-krada-u-centru-zenice">Razbojništvo i krađa u centru Zenice</a>
+<span class="moduleItemDateCreated">četvrtak, 15 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/vijesti/biznis/item/1145-zaposli-se-jysk-u-zenici" title="Nastavi sa čitanjem &quot;Zaposli se: JYSK u Zenici&quot;">
+<img src="/media/k2/items/cache/1d199d462017bbd5dcb9d16235a6c9e3_S.jpg" alt="Zaposli se: JYSK u Zenici"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/biznis/item/1145-zaposli-se-jysk-u-zenici">Zaposli se: JYSK u Zenici</a>
+<span class="moduleItemDateCreated">utorak, 13 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd lastItem">
+ 
+ 
+<div class="media">
+<a class="moduleItemImage" href="/index.php/crna-hronika/zlocini/item/1371-tesko-ranjen-mladic-u-blatusi" title="Nastavi sa čitanjem &quot;Te&scaron;ko ranjen mladić u Blatu&scaron;i&quot;">
+<img src="/media/k2/items/cache/2cc16393ec8cbc5ece3c02a1da1f0778_S.jpg" alt="Te&scaron;ko ranjen mladić u Blatu&scaron;i"/>
+</a>
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/zlocini/item/1371-tesko-ranjen-mladic-u-blatusi">Teško ranjen mladić u Blatuši</a>
+<span class="moduleItemDateCreated">petak, 23 Januar 2015</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="clearList"></li>
+</ul>
+<div class="k2FeedIcon">
+<a href="/index.php/component/k2/itemlist?format=feed&amp;moduleID=210" title="Pretplati se na ovaj RSS feed">
+<span>Pretplati se na ovaj RSS feed</span>
+</a>
+<div class="clr"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="display:none">
+<div class="tab-padding">
+<h2 style="display:none" class="title"><span id="najnovije" class="sptab-title sptab_sfx right-for-sp-tab">Najnovije</span></h2>
+<div id="k2ModuleBox214" class="k2ItemsBlock  right-for-sp-tab">
+<ul>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/kosarka/item/1548-nakon-njemacke-bih-pobjedila-i-srbiju">Nakon Njemačke, BIH pobjedila i Srbiju</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/nesrece/item/1546-nesreca-u-strosmajerovoj-troje-povrijedenih">Nesreća u Štrosmajerovoj, troje povrijeđenih</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/zuta-minuta/posudeno/item/1541-pavlik-morozov-na-bosanski-nacin">Pavlik Morozov na bosanski način</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/info/item/1504-glas-privrednika-smanjite-namete-investirat-cemo-i-otvoriti-radna-mjesta">Glas privrednika: Smanjite namete</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/info/item/1503-konferencija-u-becu-29-bh-firmi-u-potraznji-za-stranim-trzistem">Bh. firme u potražnji za stranim tržištem</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/info/item/1502-snazan-rast-naplate-indirektnih-poreza">Snažan rast naplate indirektnih poreza</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/biznis/item/1544-porasle-cijene-stanova-u-bih">Porasle cijene stanova u BiH</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/zuta-minuta/nase/item/1545-ovako-se-ne-parkira-subota-31-01">Ovako se NE parkira - subota 31.01.</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/crna-hronika/sudske-klupe/item/1543-kako-je-midhat-karalic-pokrao-sugradane">Kako je Midhat Karalić pokrao sugrađane</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/zenica/item/1542-topcic-polje-petnaest-kuca-ceka-obnovu">Topčić Polje: petnaest kuća čeka obnovu</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/nogomet/item/1540-adnan-nuhagic-novi-v-d-direktor-nk-celik">Adnan Nuhagić novi v.d. direktor NK Čelik</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/kosarka/item/1539-visok-poraz-okk-celik-u-bileci">Visok poraz OKK Čelik u Bileći</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/ostali-sportovi/item/1538-za-samira-hajdarevica-prikupljeno-930-km">Za Samira Hajdarevića prikupljeno 930 KM</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/kosarka/item/1537-kadeti-bih-bolji-od-njemacke">Kadeti BIH bolji od Njemačke</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/nogomet/item/1536-foto-remi-mladosti-i-viteza-na-kamberovica-polju">Foto: Remi Mladosti i Viteza na Kamberovića polju</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/nogomet/item/1535-foto-celik-bolji-od-rudara-3-1">Foto: Čelik bolji od Rudara 3:1</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/sport/ostali-sportovi/item/1534-bowling-liga-bih-vode-zenikom-i-strike">Bowling liga BIH: vode Zenikom i Strike</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/info/item/1325-traze-izuzece-od-otplate-dugova">Traže izuzeće od otplate dugova</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="even">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/zuta-minuta/posudeno/item/1460-upoznajte-se-detaljno-carina">Upoznajte se detaljno - carina</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="odd lastItem">
+ 
+ 
+<div class="media">
+<div class="media-body">
+<a class="moduleItemTitle" href="/index.php/vijesti/info/item/1469-smanjen-izvoz-elektricne-energije-za-34-6-posto">Smanjen izvoz električne energije za 34,6 posto</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+<div class="clr"></div>
+ 
+ 
+ 
+ 
+<div class="clr"></div>
+</li>
+<li class="clearList"></li>
+</ul>
+<div class="k2FeedIcon">
+<a href="/index.php/component/k2/itemlist?format=feed&amp;moduleID=214" title="Pretplati se na ovaj RSS feed">
+<span>Pretplati se na ovaj RSS feed</span>
+</a>
+<div class="clr"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	jQuery(function($) {
+		$('#sptab163').sptab({
+			animation : 'fade',
+			btnPos: 'top',
+			activator: 'click',
+			transition: 'linear',
+			duration: 400		});
+	});
+</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<h3 class="header">
+<span>Najava dešavanja</span> </h3>
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div id="ns2-249" class="nssp2 ns2- sp-inset-news">
+<div class="ns2-wrap">
+<div id="ns2-art-wrap249" class="ns2-art-wrap  ">
+<div class="ns2-art-pages nss2-inner">
+<div class="ns2-page ">
+<div class="ns2-page-inner">
+<div class="ns2-row ns2-first ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1508-white-vodevil-dolia-jazz-club-09-02-u-21h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/0a4409fd7de9904a5f786d566e19e14d_XL_80x60.jpg" alt="White Vodevil - Dolia - Jazz Club 09.02. u 21h" title="White Vodevil - Dolia - Jazz Club 09.02. u 21h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1508-white-vodevil-dolia-jazz-club-09-02-u-21h">
+White Vodevil - Dolia - Jazz Club 09.02. u 21h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-even">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1486-condor-mc-winter-party-zenica-14-02-u-14h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/e7623022370b992338d18aa3b2bf4409_XL_80x60.jpg" alt="Condor MC Winter Party - Zenica 14.02. u 14h" title="Condor MC Winter Party - Zenica 14.02. u 14h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1486-condor-mc-winter-party-zenica-14-02-u-14h">
+Condor MC Winter Party - Zenica 14.02. u 14h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1485-i-ditate-dub-show-caffe-bar-rock-03-02-u-20-30h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/7db105d1665f3ec4571b586cee2f157f_XL_80x60.jpg" alt="I-DITATE DUB SHOW - Caffe bar Rock 03.02. u 20.30h" title="I-DITATE DUB SHOW - Caffe bar Rock 03.02. u 20.30h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1485-i-ditate-dub-show-caffe-bar-rock-03-02-u-20-30h">
+I-DITATE DUB SHOW - Caffe bar Rock 03.02. u 20.30h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-even">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1483-vedro-u-potrazi-za-vuckom-jahorina-08-02-u-07h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/816ecbdccb9f359dffd91063ea9add06_XL_80x60.jpg" alt="Vedro: U potrazi za Vučkom - Jahorina 08.02. u 07h" title="Vedro: U potrazi za Vučkom - Jahorina 08.02. u 07h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1483-vedro-u-potrazi-za-vuckom-jahorina-08-02-u-07h">
+Vedro: U potrazi za Vučkom - Jahorina 08.02. u 07h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1481-plesna-skola-za-djecu-31-01-do-05-02-shadows" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/fbe5093c383685a2c635f66e6581a2d1_XL_80x60.jpg" alt="Plesna škola za djecu - 31.01. do 05.02. Shadows" title="Plesna škola za djecu - 31.01. do 05.02. Shadows"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1481-plesna-skola-za-djecu-31-01-do-05-02-shadows">
+Plesna škola za djecu - 31.01. do 05.02. Shadows </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-even">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1453-ekran-filmovi-od-29-01-do-04-02" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/50653a943de6a353add8d4f20eb55662_XL_80x60.jpg" alt="Ekran: filmovi od 29.01. do  04.02." title="Ekran: filmovi od 29.01. do  04.02."/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1453-ekran-filmovi-od-29-01-do-04-02">
+Ekran: filmovi od 29.01. do 04.02. </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1445-dubrovnik-gong-za-valentinovo-14-02-u-20h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/c072cd81b28e1948f39a3598c5667133_XL_80x60.jpg" alt="Dubrovnik: GONG za Valentinovo 14.02. u 20h" title="Dubrovnik: GONG za Valentinovo 14.02. u 20h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1445-dubrovnik-gong-za-valentinovo-14-02-u-20h">
+Dubrovnik: GONG za Valentinovo 14.02. u 20h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-even">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1367-nemoguce-vruce-za-dan-zaljubljenih-ekran-14-02-u-21h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/ea9e81301daf974563f48aafeb2472aa_XL_80x60.jpg" alt="Nemoguće Vruće za Dan zaljubljenih - Ekran 14.02. u 21h" title="Nemoguće Vruće za Dan zaljubljenih - Ekran 14.02. u 21h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1367-nemoguce-vruce-za-dan-zaljubljenih-ekran-14-02-u-21h">
+Nemoguće Vruće za Dan zaljubljenih - Ekran 14.02. u 21h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-odd">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1248-bnp-peda-bajovic-6-2-u-19-30" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/1784e00b0b60f953190c43cb5b6689b8_XL_80x60.jpg" alt="BNP: Peđa Bajović 6.2. u 19.30" title="BNP: Peđa Bajović 6.2. u 19.30"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1248-bnp-peda-bajovic-6-2-u-19-30">
+BNP: Peđa Bajović 6.2. u 19.30 </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="ns2-row  ns2-even">
+<div class="ns2-row-inner">
+<div class="ns2-column flt-left col-1">
+<div style="padding:0">
+<div class="ns2-inner">
+<a class="ns2-img-wrapper" href="/index.php/component/k2/item/1197-plava-paleta-vece-zatvaranja-vrata-09-02-u-19h" style="margin:2px 20px 2px 2px">
+<img class="ns2-image" style="float:left;" src="/cache/mod_news_show_sp2/nssp2_thumbs/ sp-inset-news/9f1687b36272682d88ef7d3481444c51_XL_80x60.jpg" alt="Plava paleta: veče zatvaranja vrata 09.02., u 19h" title="Plava paleta: veče zatvaranja vrata 09.02., u 19h"/>
+</a>
+<h4 class="ns2-title">
+<a href="/index.php/component/k2/item/1197-plava-paleta-vece-zatvaranja-vrata-09-02-u-19h">
+Plava paleta: veče zatvaranja vrata 09.02., u 19h </a>
+</h4>
+<div class="ns2-social">
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div> 
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+ 
+ 
+ 
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+	
+	</script> </div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-1772555068444415" data-ad-slot="4876349681"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p style="text-align: center;"><a href="http://www.ipi.ba/index.php?option=com_vijesti&amp;lang=bs" target="_blank"></a> <a href="http://www.zenica360.ba/" target="_blank"><img src="/images/baneri/baner-crni.png" alt="baner crni" width="300" height="113"/></a> </p>
+<p style="text-align: center;"><a href="https://www.facebook.com/unafilmbih" target="_blank"><img src="/images/baneri/e230115a.gif" alt="e230115a"/></a></p>
+<p style="text-align: center;"><a href="http://nomasvello.ba/zenica/" target="_blank"><img src="/images/baneri/novelloze001001.jpg" alt="novelloze001001"/></a></p>
+<p style="text-align: center;"> </p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+<div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p> </p>
+<p><a href="http://www.mojbazar.com" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/baneri/mojbazar_300_100.png" alt="mojbazar repromaterijal nakit"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</aside>
+</div></div></section><section id="sp-dno-impressum-wrapper" class=" "><div class="container"><div class="row-fluid" id="dno-impressum">
+<div id="sp-bottom6" class="span12"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<ul class="nav header-top-menu">
+<li class="item-368"><a href="/index.php/impressum">Impressum</a></li><li class="item-369"><a href="/index.php/u-medijima">U medijima</a></li><li class="item-370"><a href="/index.php/copyright">Copyright</a></li><li class="item-371"><a href="/index.php/saradnici-i-partneri">Saradnici i partneri</a></li><li class="item-372"><a href="/index.php/knjiga-grafickih-standarda">Knjiga grafičkih standarda</a></li><li class="item-387"><a href="/index.php/site-map">Site map</a></li><li class="item-390"><a href="/index.php/rss">RSS</a></li><li class="item-405"><a href="http://arhiva.zenicablog.com/" target="_blank">Arhiva</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></div></section><section id="sp-bottom-2nd-row-wrapper" class=" "><div class="container"><div class="row-fluid" id="bottom-2nd-row">
+<div id="sp-bottom7" class="span3"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://www.zenicablog.com"><img src="/images/zenicablog-logo-300x120.png" alt="zenicablog logo 300x120" width="200" height="92"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+<div id="sp-bottom9" class="span9"><div class="module ">
+<div class="mod-wrapper clearfix">
+<div class="mod-content clearfix">
+<div class="mod-inner clearfix">
+<div class="custom">
+<p><a href="http://zenica.tv/index.php/prijatelji-projekta" target="_blank"><img style="float: right;" src="/images/baneri/zenicatv.gif" alt="Zenica tv prijatelji"/></a></p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></div></section><footer id="sp-footer-wrapper" class=" "><div class="container"><div class="row-fluid" id="footer">
+<div id="sp-footer1" class="span6"><span class="copyright">Copyright © Zenicablog - Zenica 2005. - 2015. Vlasnik autorskih prava UG Zenicablog.
+Kopiranje i prijenos sadržaja samo uz pismenu dozvolu!</span><a href="http://www.joomshaper.com" title="joomshaper.com"></a></div>
+<div id="sp-footer2" class="span6">
+<div class="custom">
+<p>Izrada i održavanje web stranice <a href="http://www.webmedia.ba/" target="_blank">Web Media</a></p></div>
+<a class="sp-totop" href="javascript:;" title="Na vrh" rel="nofollow"><small>Na vrh </small><i class="icon-angle-up"></i></a></div>
+</div></div></footer> <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-9212372-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        </script>
+<a class="hidden-desktop btn btn-inverse sp-main-menu-toggler" href="#" data-toggle="collapse" data-target=".nav-collapse">
+<i class="icon-align-justify"></i>
+</a>
+<div class="hidden-desktop sp-mobile-menu nav-collapse collapse">
+<ul class=""><li class="menu-item active first"><a href="http://www.zenicablog.com/" class="menu-item active first"><span class="menu"><span class="menu-title">Home</span></span></a></li><li class="menu-item parent"><a href="/index.php/vijesti" class="menu-item parent"><span class="menu"><span class="menu-title">Vijesti</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-300"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-300"><li class="menu-item first"><a href="/index.php/vijesti/zenica" class="menu-item first"><span class="menu"><span class="menu-title">Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/kultura" class="menu-item"><span class="menu"><span class="menu-title">Kultura</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/zabava" class="menu-item"><span class="menu"><span class="menu-title">Zabava</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/politika" class="menu-item"><span class="menu"><span class="menu-title">Politika</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/biznis" class="menu-item"><span class="menu"><span class="menu-title">Biznis</span></span></a></li><li class="menu-item"><a href="/index.php/vijesti/ljudi" class="menu-item"><span class="menu"><span class="menu-title">Ljudi</span></span></a></li><li class="menu-item last"><a href="/index.php/vijesti/info" class="menu-item last"><span class="menu"><span class="menu-title">Info</span></span></a></li></ul></li><li class="menu-item parent"><a href="/index.php/crna-hronika" class="menu-item parent"><span class="menu"><span class="menu-title">Crna hronika</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-309"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-309"><li class="menu-item first"><a href="/index.php/crna-hronika/nesrece" class="menu-item first"><span class="menu"><span class="menu-title">Nesreće</span></span></a></li><li class="menu-item"><a href="/index.php/crna-hronika/zlocini" class="menu-item"><span class="menu"><span class="menu-title">Zločini</span></span></a></li><li class="menu-item last"><a href="/index.php/crna-hronika/sudske-klupe" class="menu-item last"><span class="menu"><span class="menu-title">Sudske klupe</span></span></a></li></ul></li><li class="menu-item parent"><a href="/index.php/sport" class="menu-item parent"><span class="menu"><span class="menu-title">Sport</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-313"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-313"><li class="menu-item first"><a href="/index.php/sport/nogomet" class="menu-item first"><span class="menu"><span class="menu-title">Nogomet</span></span></a></li><li class="menu-item"><a href="/index.php/sport/rukomet" class="menu-item"><span class="menu"><span class="menu-title">Rukomet</span></span></a></li><li class="menu-item"><a href="/index.php/sport/kosarka" class="menu-item"><span class="menu"><span class="menu-title">Košarka</span></span></a></li><li class="menu-item"><a href="/index.php/sport/ostali-sportovi" class="menu-item"><span class="menu"><span class="menu-title">Ostali sportovi</span></span></a></li><li class="menu-item last"><a href="/index.php/sport/rekreacija" class="menu-item last"><span class="menu"><span class="menu-title">Rekreacija</span></span></a></li></ul></li><li class="menu-item parent"><a href="/index.php/zuta-minuta" class="menu-item parent"><span class="menu"><span class="menu-title">Žuta minuta</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-319"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-319"><li class="menu-item first"><a href="/index.php/zuta-minuta/nase" class="menu-item first"><span class="menu"><span class="menu-title">Naše</span></span></a></li><li class="menu-item last"><a href="/index.php/zuta-minuta/posudeno" class="menu-item last"><span class="menu"><span class="menu-title">Posuđeno</span></span></a></li></ul></li><li class="menu-item parent"><a href="/index.php/zb-karte-zenice" class="menu-item parent"><span class="menu"><span class="menu-title">ZB karte</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-322"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-322"><li class="menu-item first"><a href="/index.php/zb-karte-zenice/taxi-karta-zenica" class="menu-item first"><span class="menu"><span class="menu-title">Taxi karta Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zb-karte-zenice/kafe-karta-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kafe karta</span></span></a></li><li class="menu-item last"><a href="/index.php/zb-karte-zenice/wi-fi-karta-zenice" class="menu-item last"><span class="menu"><span class="menu-title">Wi-Fi karta</span></span></a></li></ul></li><li class="menu-item parent"><a href="/index.php/servisne-info" class="menu-item parent"><span class="menu"><span class="menu-title">Servisne info</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-354"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-354"><li class="menu-item first"><a href="/index.php/servisne-info/kursna-lista" class="menu-item first"><span class="menu"><span class="menu-title">Kursna lista</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/auto-skole" class="menu-item"><span class="menu"><span class="menu-title">Auto škole</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/imenik" class="menu-item"><span class="menu"><span class="menu-title">Imenik</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/akcijske-prodaje-i-snizenja" class="menu-item"><span class="menu"><span class="menu-title">Akcijske prodaje i sniženja</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/tv-program" class="menu-item"><span class="menu"><span class="menu-title">TV program</span></span></a></li><li class="menu-item"><a href="/index.php/servisne-info/vremenska-prognoza" class="menu-item"><span class="menu"><span class="menu-title">Vremenska prognoza</span></span></a></li><li class="menu-item"><a href="http://www.gastrofan.com" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Recepti</span></span></a></li><li class="menu-item last"><a href="http://www.prirodar.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Zdravlje</span></span></a></li></ul></li><li class="menu-item parent"><a href="/index.php/zenica-uzivo" class="menu-item parent"><span class="menu"><span class="menu-title">ZENICA UŽIVO</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-295"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-295"><li class="menu-item first"><a href="/index.php/zenica-uzivo/kamera-bulevar-kralja-tvrtka-i" class="menu-item first"><span class="menu"><span class="menu-title">Kamera: Bulevar Kralja Tvrtka I</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-carina-telemach-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Carina - Telemach Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-crkvice-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Crkvice Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-dr-safvet-bega-basagica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Dr.Safvet-bega Bašagića</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-evropa-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Evropa Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-ggm-mokusnice-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: GGM - Mokušnice Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-itc-nova-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: ITC - Nova Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-kameniti-most-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Kameniti most Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-londza-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Londža Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-tc-dzananovic-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: TC Džananović Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-titova-ulica-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Titova ulica Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-trg-alije-izetbegovica-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Trg Alije Izetbegovića Zenica</span></span></a></li><li class="menu-item"><a href="/index.php/zenica-uzivo/kamera-trg-rudara-zenica" class="menu-item"><span class="menu"><span class="menu-title">Kamera: Trg rudara Zenica</span></span></a></li><li class="menu-item last"><a href="/index.php/zenica-uzivo/kamera-arena-zenica" class="menu-item last"><span class="menu"><span class="menu-title">Kamera: Arena Zenica</span></span></a></li></ul></li><li class="menu-item last"><a href="http://arhiva.zenicablog.com/" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">ZB Arhiva</span></span></a></li></ul>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+</body>
+</html>
