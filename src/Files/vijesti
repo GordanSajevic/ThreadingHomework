@@ -1,0 +1,1502 @@
+<!DOCTYPE html>
+<html lang="bs-BA">
+<head>
+<meta charset="utf-8">
+<title>Klix.ba | Saznaj više</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="klix, klix.ba, sarajevo-x, sarajevo-x.com, internet, portal, vijesti, sport, magazin, bosna i hercegovina, bih, sarajevo">
+<meta name="description" content="Klix.ba je najposjećeniji i najutjecajniji informativni portal u Bosni i Hercegovini. Najvažnije i najbrže vijesti iz Sarajeva, BiH i svijeta. Saznaj više">
+<link rel="alternate" type="application/rss+xml" title="Klix.ba - Naslovnica" href="http://www.klix.ba/rss/naslovnica">
+<meta http-equiv="refresh" content="600">
+ 
+<link rel="stylesheet" href="http://www.klix.ba/looks/css/fonts.css?v=204" type="text/css">
+<link rel="stylesheet" href="http://www.klix.ba/looks/css/main.css?v=205" type="text/css">
+<link rel="stylesheet" href="http://www.klix.ba/looks/css/normalize.css?v=201" type="text/css">
+<link rel="stylesheet" href="http://www.klix.ba/looks/css/sprites.css?v=210" type="text/css">
+<link rel="stylesheet" href="http://www.klix.ba/looks/css/style.css?v=339" type="text/css">
+<link rel="stylesheet" href="http://www.klix.ba/looks/css/print.css?v=201" type="text/css" media="print">
+<link rel="shortcut icon" href="/icon.png">
+<link rel="apple-touch-icon" href="/icon.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png"/>
+<!--[if lt IE 8]>
+    <link rel="stylesheet" href="http://www.klix.ba/looks/css/iefix.css" type="text/css">
+    <![endif]-->
+ 
+<script src="http://www.klix.ba/looks/js/modernizr-2.6.1.min.js"></script>
+ 
+<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-63707-9']);
+		  _gaq.push(['_setDomainName', 'klix.ba']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		 // ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+	</script>
+ 
+ 
+ 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('.RdFXWLMmWpcioABdGwC4LRJ.Bi_TMytUIIIMphi3Sv.27');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.klix.ba/looks/js/xgemius.js"></script>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.klix.ba/looks/js/jquery-1.9.1.min.js"><\/script>')</script>
+ 
+<script src="http://www.klix.ba/looks/js/mousewheel.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.klix.ba/looks/css/fancybox.css" media="screen"/>
+<script type="text/javascript">
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}	
+	var regija = readCookie('MojaRegija');
+
+</script>
+<script data-cfasync="false" type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script data-cfasync="false" type='text/javascript'>
+//novi kodovi
+googletag.defineSlot('/1000270/Leaderboard', [[728, 90], [960, 100], [960, 250]], 'div-gpt-ad-1367696838557-0').addService(googletag.pubads());
+googletag.defineSlot('/1000270/Rectangle', [[300, 250], [300, 500], [300, 600]], 'div-gpt-ad-1367697332220-0').addService(googletag.pubads());
+googletag.defineSlot('/1000270/Wallpaper', [1, 1], 'div-gpt-ad-1367698543656-0').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/1000270/Wallpaper', 'div-gpt-ad-1367698543656-0-oop').addService(googletag.pubads());
+googletag.defineSlot('/1000270/Takeover', [1, 1], 'div-gpt-ad-1418387953555-0').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/1000270/Takeover', 'div-gpt-ad-1418387953555-0-oop').addService(googletag.pubads());
+
+// fiksni banneri
+googletag.defineSlot('/1000270/Veliki-Fiksni-XL0', [674, 90], 'div-gpt-ad-1407180417347-0').addService(googletag.pubads());
+googletag.defineSlot('/1000270/veliki-fiksni', [674, 90], 'div-gpt-ad-1346691776056-2').addService(googletag.pubads());
+googletag.defineSlot('/1000270/Veliki-Fiksni-XL2', [674, 90], 'div-gpt-ad-1346691776056-3').addService(googletag.pubads());
+googletag.defineSlot('/1000270/Veliki-Fiksni-XL3', [674, 90], 'div-gpt-ad-1346691776056-4').addService(googletag.pubads());
+googletag.defineSlot('/1000270/SX-Fiksni1-300x90-naslovnica', [300, 90], 'div-gpt-ad-1346696969349-5').addService(googletag.pubads());
+googletag.defineSlot('/1000270/SX-Fiksni2-300x90-naslovnica', [300, 90], 'div-gpt-ad-1346696969349-6').addService(googletag.pubads());
+googletag.defineSlot('/1000270/SX-Fiksni3-300x90-naslovnica', [300, 90], 'div-gpt-ad-1346696969349-7').addService(googletag.pubads());
+
+
+
+// ako ima cookie regija
+if(regija > 0) googletag.pubads().setTargeting("regija", regija);
+
+// novi kod za targetiranje
+googletag.pubads().setTargeting("Segment", "Naslovnica");
+
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+ 
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1541765572703077']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1541765572703077&amp;ev=PixelInitialized"/></noscript>
+<meta property="og:image" content="http://www.klix.ba/images/og.jpg">
+</head>
+<body id="kat_naslovnica">
+ 
+<div id='div-gpt-ad-1367698543656-0' style='position:absolute; top:0; left:0;'>
+<script type='text/javascript'>
+	googletag.display('div-gpt-ad-1367698543656-0');
+	</script>
+</div>
+ 
+<div id='div-gpt-ad-1367698543656-0-oop'>
+<script type='text/javascript'>
+	googletag.display('div-gpt-ad-1367698543656-0-oop');
+	</script>
+</div>
+<header>
+<!--[if lt IE 8]>
+    <div class="notifikacija iefix"><p class="l">Vi koristite browser koji je zastario. Molimo posjetite <a href="http://browsehappy.com/">browsehappy.com</a> i nadogradite vaš browser za kvalitetniji pregled.</p><a class="close r"><i class="icon_alert-info"></i></a><div class="clb"></div></div>
+    <![endif]-->
+<div id="main_nav">
+<div id="logo_veliki" class="wrap_logo left">
+<a href="http://www.klix.ba/" onClick="_gaq.push(['_trackEvent', 'Header', 'LogoClick']);" title="Klix početna stranica"><i class="icon_logo_original"></i></a>
+</div>
+<div id="wrap_navs" class="left">
+<nav id="user_nav">
+<div id="ticker">
+<strong><a href="http://www.klix.ba/tagovi">U fokusu</a>:</strong>
+<a href="/tagovi/klix-ba/218">Klix.ba</a>, <a href="/tagovi/kemal-monteno/223">Kemal Monteno</a>, <a href="/tagovi/sp-u-kataru/6757">SP u Kataru</a>
+</div>
+<div id="user_login" class="rel">
+<div class="r">
+<a class="iskoci"><i class="icon_user"></i></a>
+<a class="iskoci user_login prijava">Prijava</a>
+<div id="box_login" class="iskok">
+<form class="login ftipsy" id="logform">
+<input type="hidden" name="login" value="1"/>
+<label>Korisničko ime ili e-mail</label>
+<input type="text" name="username" id="username" value="" maxlength="50"/>
+<label class="mt20">Lozinka</label>
+<input type="password" name="password" id="password" maxlength="30"/>
+<label class="mt20"> <input type="checkbox" name="remember"> Zapamti me</label>
+<a href="http://www.klix.ba/zaboravljena-lozinka" class="r mt20">Zaboravili ste lozinku?</a>
+<div class="dugmadwrap">
+<input class="l btn-prijavise" type="button" name="button" onclick="logirajMe();" value="Prijavi se"/>
+<a href="/prijava/fb-login" class="fb_dugme">Facebook prijava</a>
+<div class="clb">
+<a href="http://www.klix.ba/registracija" class="l mt20">Novi korisnici, registrujte se?</a>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div id="user_icons">
+<div style="position:relative; float:right;">
+<a title="Klix Nightlife" href="http://www.klix.ba/nightlife"><i class="icon_nightlife"></i></a>
+ 
+</div>
+<a title="Stanje na putevima" href="http://www.klix.ba/stanje-na-putevima"><i class="icon_auto"></i></a>
+<a title="TV program" href="http://www.klix.ba/tv-program"><i class="icon_tv"></i></a>
+</div>
+<div id="vremenska" class="vremenska_header" style="border-left: none;">
+<a href="http://www.klix.ba/vrijeme">
+<div class="wrap first">
+<i class="i_vrijeme icon_partlycloudy bg_"></i>
+Sarajevo <span>3°C</span>
+</div>
+</a>
+</div>
+</nav>
+<nav id="cat_nav" class="category_nav">
+<ul class="kategorije">
+<li class="li_icon to_" onClick="_gaq.push(['_trackEvent', 'Header', 'HomeClick']);"><a class="nav_icon" href="/" title="Početna"><i class="icon_home"></i></a></li>
+<li class="li_vijesti to_"><a class="nav_vijesti" href="http://www.klix.ba/vijesti">Vijesti</a>
+<ul class="podkategorije ks_li">
+<li><a href="http://www.klix.ba/najnovije">Najnovije</a></li>
+<li><a href="http://www.klix.ba/lokalne-vijesti">Lokalne vijesti</a>
+<ul class="lokalne ks_li">
+<li><a href="http://www.klix.ba/lokalne-vijesti/kanton-sarajevo">Kanton Sarajevo</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/hercegovacko-neretvanski-kanton">Hercegovačko-neretvanski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/unsko-sanski-kanton">Unsko-sanski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/posavski-kanton">Posavski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/tuzlanski-kanton">Tuzlanski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/zenicko-dobojski-kanton">Zeničko-dobojski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/bosansko-podrinjski-kanton">Bosansko-podrinjski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/srednjobosanski-kanton">Srednjobosanski kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/zapadnohercegovacki-kanton">Zapadnohercegovački kanton</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/kanton-10">Kanton 10</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/banjalucka-regija">Banjalučka regija</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/dobojsko-bijeljinska-regija">Dobojsko-bijeljinska regija</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/sarajevsko-zvornicka-regija">Sarajevsko-zvornička regija</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/trebinjsko-focanska-regija">Trebinjsko-fočanska regija</a></li><li><a href="http://www.klix.ba/lokalne-vijesti/brcko-distrikt">Brčko Distrikt</a></li> </ul>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/bih">BiH</a>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/regija">Regija</a>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/svijet">Svijet</a>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/kultura">Kultura</a>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/crna-hronika">Crna hronika</a>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/eu-integracije">EU integracije</a>
+</li>
+<li>
+<a href="http://www.klix.ba/vijesti/humanitarne-akcije">Humanitarne akcije</a>
+</li>
+</ul>
+</li>
+<li class="li_biznis to_"><a class="nav_biznis" href="http://www.klix.ba/biznis">Biznis</a>
+<ul class="podkategorije ks_li">
+<li>
+<a href="http://www.klix.ba/biznis/privreda">Privreda</a>
+</li>
+<li>
+<a href="http://www.klix.ba/biznis/finansije">Finansije</a>
+</li>
+<li>
+<a href="http://www.klix.ba/biznis/investicije">Investicije</a>
+</li>
+<li>
+<a href="http://www.klix.ba/biznis/eurozona">Eurozona</a>
+</li>
+<li>
+<a href="http://www.klix.ba/biznis/berza">Berza</a>
+</li>
+<li>
+<a href="http://www.klix.ba/biznis/startupi">Startupi</a>
+</li>
+<li>
+<a href="http://www.klix.ba/biznis/posao">Posao</a>
+</li>
+</ul>
+</li>
+<li class="li_sport to_"><a class="nav_sport" href="http://www.klix.ba/sport">Sport</a>
+<ul class="podkategorije ks_li">
+<li>
+<a href="http://www.klix.ba/sport/nogomet">Nogomet</a>
+</li>
+<li>
+<a href="http://www.klix.ba/sport/kosarka">Košarka</a>
+</li>
+<li>
+<a href="http://www.klix.ba/sport/tenis">Tenis</a>
+</li>
+<li>
+<a href="http://www.klix.ba/sport/rukomet">Rukomet</a>
+</li>
+<li>
+<a href="http://www.klix.ba/sport/formula1">Formula 1</a>
+</li>
+<li>
+<a href="http://www.klix.ba/sport/skijanje">Skijanje</a>
+</li>
+</ul>
+</li>
+<li class="li_magazin to_"><a class="nav_magazin" href="http://www.klix.ba/magazin">Magazin</a>
+<ul class="podkategorije ks_li">
+<li>
+<a href="http://www.klix.ba/magazin/muzika">Muzika</a>
+</li>
+<li>
+<a href="http://www.klix.ba/magazin/film-tv">Film/TV</a>
+</li>
+<li>
+<a href="http://www.klix.ba/magazin/showbiz">Showbiz</a>
+</li>
+<li>
+<a href="http://www.klix.ba/magazin/ljepotice">Ljepotice</a>
+</li>
+<li>
+<a href="http://www.klix.ba/magazin/zanimljivosti">Zanimljivosti</a>
+</li>
+<li>
+<a href="http://www.klix.ba/sharenilo">Sharenilo</a>
+</li>
+</ul>
+</li>
+<li class="li_lifestyle to_"><a class="nav_lifestyle" href="http://www.klix.ba/lifestyle">Lifestyle</a>
+<ul class="podkategorije ks_li">
+<li>
+<a href="http://www.klix.ba/lifestyle/modailjepota">Moda i ljepota</a>
+</li>
+<li>
+<a href="http://www.klix.ba/lifestyle/zdravlje">Zdravlje</a>
+</li>
+<li>
+<a href="http://www.klix.ba/lifestyle/vezeiseks">Veze i seks</a>
+</li>
+<li>
+<a href="http://www.klix.ba/lifestyle/hranaipice">Hrana i piće</a>
+</li>
+<li>
+<a href="http://www.klix.ba/lifestyle/kucaiured">Kuća i ured</a>
+</li>
+<li>
+<a href="http://www.klix.ba/lifestyle/putovanja">Putovanja</a>
+</li>
+<li>
+<a href="http://www.klix.ba/lifestyle/bebe">Bebe</a>
+</li>
+</ul>
+</li>
+<li class="li_scitech to_"><a class="nav_scitech" href="http://www.klix.ba/scitech">Scitech</a>
+<ul class="podkategorije ks_li">
+<li>
+<a href="http://www.klix.ba/scitech/nauka">Nauka</a>
+</li>
+<li>
+<a href="http://www.klix.ba/scitech/tehnologija">Tehnologija</a>
+</li>
+</ul>
+</li>
+<li class="li_auto to_"><a class="nav_auto" href="http://www.klix.ba/auto">Auto</a>
+<ul class="podkategorije ks_li">
+<li>
+<a href="http://www.klix.ba/auto/testovi">Testovi</a>
+</li>
+<li>
+<a href="http://www.klix.ba/auto/noviteti">Noviteti</a>
+</li>
+<li>
+<a href="http://www.klix.ba/auto/koncepti">Koncepti</a>
+</li>
+<li>
+<a href="http://www.klix.ba/auto/tuning">Tuning</a>
+</li>
+</ul>
+</li>
+<li class="to_"><a class="nav_forum" href="http://forum.klix.ba/">Forum</a></li>
+<li class="to_"><a class="nav_krizaljka" href="http://www.klix.ba/krizaljka">Križaljka</a></li>
+<li class="to_"><a class="nav_info" href="#">Info</a>
+<ul class="podkategorije infos">
+<li><a href="http://www.klix.ba/vrijeme">Vrijeme</a></li>
+<li><a href="http://www.klix.ba/stanje-na-putevima">Stanje na putevima</a></li>
+<li><a href="http://www.klix.ba/kursna-lista">Kursna lista</a></li>
+<li><a href="http://www.klix.ba/tv-program">TV program</a></li>
+<li><a href="http://www.klix.ba/marketing">Marketing</a></li>
+</ul>
+</li>
+<li class="li_icon rel to_">
+<div class="search_wrap">
+<form action="/pretraga" id="pretragica">
+<a><i class="btn_search icon_search l" id="razvuci_pretragu"></i></a>
+<input id="search" type="text" value="" name="q" placeholder="pretraži...">
+<i class="icon_search_close" id="zbij_pretragu"></i>
+</form>
+<div class="clb"></div>
+</div>
+</li>
+</ul>
+<div class="clb"></div>
+</nav>
+</div>
+</div>
+<div id="main_nav_swap">
+<div class="wrap_white">
+<div id="wrap_logo_mali" class="wrap_logo left">
+<a href="/" title="Klix početna stranica"><i class="icon_logo_mali"></i></a>
+</div>
+<div id="cat_nav_mali" class="category_nav"></div>
+<a href="http://www.klix.ba/registracija" class="iskoci user_mali"><i class="icon_user"></i></a>
+<div class="clb"></div>
+</div>
+<div class="sjena"><i class="icon_sleft"></i><div class="gradient"></div><i class="icon_sright"></i></div>
+</div>
+<div class="sjena"><i class="icon_sleft"></i><div class="gradient"></div><i class="icon_sright"></i></div>
+</header>
+<div id="main_wrap">
+<section id="main">
+<a id="gototop" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Skok na vrh');">
+<i class="icon_arrow_up"></i>
+</a>
+<div id="ads_leaderboard">
+ 
+<div id='div-gpt-ad-1367696838557-0'>
+<script type='text/javascript'>
+	googletag.display('div-gpt-ad-1367696838557-0');
+	</script>
+</div>
+</div>
+<section id="naslovna_glavno" class="clb">
+<section id="dinamicna" class="left">
+<article class="kocka w_2 h_1 c_1 r_1 " onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Aktuelne', 'Hotel Westin uskoro u Sarajevu!']);">
+<a class="komentari" href="http://www.klix.ba/biznis/investicije/hotel-westin-uskoro-u-sarajevu/150201050#komentari" title="92 komentara">
+<mark>92</mark>
+<figure class="trougao"></figure>
+</a>
+<a href="http://www.klix.ba/biznis/investicije/hotel-westin-uskoro-u-sarajevu/150201050">
+<img class="" src="http://static.klix.ba/media/images/vijesti/hx_150201050.jpg?v=2" alt=""/> <h1>Hotel Westin uskoro u Sarajevu! </h1>
+<figure class="kvadrat border_biznis"></figure>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article class="kocka w_1 h_1 c_1 r_2 " onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Aktuelne', 'Da li će BH-Gas sniziti cijene gasa krajnjim potrošačima?']);">
+<a class="komentari" href="http://www.klix.ba/biznis/privreda/da-li-ce-bh-gas-sniziti-cijene-gasa-krajnjim-potrosacima/150201032#komentari" title="34 komentara">
+<mark>34</mark>
+<figure class="trougao"></figure>
+</a>
+<a href="http://www.klix.ba/biznis/privreda/da-li-ce-bh-gas-sniziti-cijene-gasa-krajnjim-potrosacima/150201032">
+<img class="" src="http://static.klix.ba/media/images/vijesti/ax_150201032.jpg?v=3" alt=""/> <h1>Da li će BH-Gas sniziti cijene gasa krajnjim potrošačima? </h1>
+<figure class="kvadrat border_biznis"></figure>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article class="kocka w_1 h_1 c_2 r_2 " onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Aktuelne', 'Kurdi odbili napade Islamske države kod Kirkuka']);">
+<a class="komentari" href="http://www.klix.ba/vijesti/svijet/kurdi-odbili-napade-islamske-drzave-kod-kirkuka/150201051#komentari" title="29 komentara">
+<mark>29</mark>
+<figure class="trougao"></figure>
+</a>
+<a href="http://www.klix.ba/vijesti/svijet/kurdi-odbili-napade-islamske-drzave-kod-kirkuka/150201051">
+<img class="" src="http://static.klix.ba/media/images/vijesti/ax_150201051.jpg?v=1" alt=""/> <h1>Kurdi odbili napade Islamske države kod Kirkuka </h1>
+<figure class="kvadrat border_vijesti"></figure>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/vijesti/svijet/kurdi-odbili-napade-islamske-drzave-kod-kirkuka/150201051" class="bg_vijesti m_foto"><i class="icon_foto">&nbsp;</i></a></mark>
+</article>
+<article class="kocka w_1 h_1 c_3 r_1 " onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Aktuelne', 'Svjetski mediji: Papa Franjo u Sarajevo donosi poruku mira i bratimljenja']);">
+<a class="komentari" href="http://www.klix.ba/vijesti/bih/svjetski-mediji-papa-franjo-u-sarajevo-donosi-poruku-mira-i-bratimljenja/150201054#komentari" title="51 komentara">
+<mark>51</mark>
+<figure class="trougao"></figure>
+</a>
+<a href="http://www.klix.ba/vijesti/bih/svjetski-mediji-papa-franjo-u-sarajevo-donosi-poruku-mira-i-bratimljenja/150201054">
+<img class="" src="http://static.klix.ba/media/images/vijesti/ax_150201054.jpg" alt=""/> <h1>Svjetski mediji: Papa Franjo u Sarajevo donosi poruku mira i bratimljenja </h1>
+<figure class="kvadrat border_vijesti"></figure>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article class="kocka w_1 h_1 c_3 r_2 " onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Aktuelne', 'Jamie Dornan otkrio gdje se spremao za ulogu u &quot;50 nijansi&quot;']);">
+<a class="komentari" href="http://www.klix.ba/magazin/film-tv/jamie-dornan-otkrio-gdje-se-spremao-za-ulogu-u-50-nijansi/150201048#komentari" title="54 komentara">
+<mark>54</mark>
+<figure class="trougao"></figure>
+</a>
+<a href="http://www.klix.ba/magazin/film-tv/jamie-dornan-otkrio-gdje-se-spremao-za-ulogu-u-50-nijansi/150201048">
+<img class="" src="http://static.klix.ba/media/images/vijesti/ax_150201048.jpg?v=1" alt=""/> <h1>Jamie Dornan otkrio gdje se spremao za ulogu u "50 nijansi" </h1>
+<figure class="kvadrat border_magazin"></figure>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/magazin/film-tv/jamie-dornan-otkrio-gdje-se-spremao-za-ulogu-u-50-nijansi/150201048" class="bg_magazin m_video"><i class="icon_video">&nbsp;</i></a><a href="http://www.klix.ba/magazin/film-tv/jamie-dornan-otkrio-gdje-se-spremao-za-ulogu-u-50-nijansi/150201048" class="bg_magazin m_foto"><i class="icon_foto">&nbsp;</i></a></mark>
+</article>
+</section>
+<section id="izdvojene" class="left">
+<article>
+<a class="komentari" href="http://www.klix.ba/sport/rukomet/rukometasi-poljske-u-produzecima-osvojili-trece-mjesto-na-sp-u-kataru/150201044#komentari" title="15 komentara">
+<mark>15</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_sport" href="http://www.klix.ba/sport/rukomet/rukometasi-poljske-u-produzecima-osvojili-trece-mjesto-na-sp-u-kataru/150201044" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Izdvojene', 'Rukometaši Poljske u produžecima osvojili treće mjesto na SP u Kataru']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t1x_150201044.jpg" alt=""/> <figure class="kvadrat border_naslovnica"></figure>
+<h5>Rukometaši Poljske u produžecima osvojili treće mjesto na SP u Kataru</h5>
+<div class="clb"></div>
+</a>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/sport/kosarka/bh-kadetsreprezentacija-nakon-njemacke-savladala-i-srbiju/150201043#komentari" title="19 komentara">
+<mark>19</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_sport" href="http://www.klix.ba/sport/kosarka/bh-kadetsreprezentacija-nakon-njemacke-savladala-i-srbiju/150201043" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Izdvojene', 'Bh. kadetska reprezentacija nakon Njemačke savladala i Srbiju']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t1x_150201043.jpg" alt=""/> <figure class="kvadrat border_naslovnica"></figure>
+<h5>Bh. kadetska reprezentacija nakon Njemačke savladala i Srbiju</h5>
+<div class="clb"></div>
+</a>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/vijesti/svijet/novinar-al-jazeere-izasao-iz-egipatskog-zatvora/150201039#komentari" title="17 komentara">
+<mark>17</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/svijet/novinar-al-jazeere-izasao-iz-egipatskog-zatvora/150201039" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Izdvojene', 'Novinar Al Jazeere izašao iz egipatskog zatvora']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t1x_150201039.jpg" alt=""/> <figure class="kvadrat border_naslovnica"></figure>
+<h5>Novinar Al Jazeere izašao iz egipatskog zatvora</h5>
+<div class="clb"></div>
+</a>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/vijesti/crna-hronika/rukovodioci-firme-famus-gradnja-3-ostaju-iza-resetaka/150201019#komentari" title="51 komentara">
+<mark>51</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/crna-hronika/rukovodioci-firme-famus-gradnja-3-ostaju-iza-resetaka/150201019" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Izdvojene', 'Rukovodioci firme Famus gradnja 3 ostaju iza rešetaka']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t1x_150201019.jpg" alt=""/> <figure class="kvadrat border_naslovnica"></figure>
+<h5>Rukovodioci firme Famus gradnja 3 ostaju iza rešetaka</h5>
+<div class="clb"></div>
+</a>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/sport/tenis/novak-djokovic-osvojio-peti-trofej-australian-opena/150201025#komentari" title="154 komentara">
+<mark>154</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_sport" href="http://www.klix.ba/sport/tenis/novak-djokovic-osvojio-peti-trofej-australian-opena/150201025" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Izdvojene', 'Novak Đoković osvojio peti trofej Australian Opena']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t1x_150201025.jpg" alt=""/> <figure class="kvadrat border_naslovnica"></figure>
+<h5>Novak Đoković osvojio peti trofej Australian Opena</h5>
+<div class="clb"></div>
+</a>
+</article>
+</section>
+</section>
+<section id="naslovna_lijevo_kolona" class="lijeva_kolona left">
+<div id="veliki-fiksni0-new">
+ 
+<div id='div-gpt-ad-1407180417347-0'>
+<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1407180417347-0');
+			</script>
+</div>
+</div>
+ 
+<section class="naslovna-red poravnaj" id="red-1">
+ 
+<section id="vijesti" class="left">
+<h5 class="boja_vijesti"><a href="http://www.klix.ba/vijesti">Vijesti</a></h5>
+<article>
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/regija/hrvatska-od-sutra-oprasta-dug-60-000-najsiromasnijih-gradjana/150201055" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-vijesti', 'Hrvatska od sutra oprašta dug 60.000 najsiromašnijih građana']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201055.jpg" alt=""/><figure class="kvadrat border_vijesti"></figure>
+<h1>Hrvatska od sutra oprašta dug 60.000 najsiromašnijih građana</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article>
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/svijet/preminuo-izumitelj-antibejbi-pilule-carl-djerassi/150201056" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-vijesti', 'Preminuo izumitelj &quot;antibejbi pilule&quot; Carl Djerassi']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201056.jpg" alt=""/><figure class="kvadrat border_vijesti"></figure>
+<h1>Preminuo izumitelj "antibejbi pilule" Carl Djerassi</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article>
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/svijet/vise-stotina-ljudi-evakuisano-iz-dijelova-grcke/150201046" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-vijesti', 'Više stotina ljudi evakuisano iz dijelova Grčke']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201046.jpg" alt=""/><figure class="kvadrat border_vijesti"></figure>
+<h1>Više stotina ljudi evakuisano iz dijelova Grčke</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article class="recesivni">
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/crna-hronika/sudar-golfa-i-autobusa-u-blazuju-otezan-saobracaj/150201041" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-vijesti', 'Sudar Golfa i autobusa u Blažuju, otežan saobraćaj']);">
+<h2>Sudar Golfa i autobusa u Blažuju, otežan saobraćaj</h2>
+</a>
+</article>
+<article class="recesivni">
+<a class="hover_vijesti" href="http://www.klix.ba/vijesti/bih/biskup-komarica-papina-posjeta-podsticaj-bih-da-krene-sa-slijepog-kolosijeka/150201042" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-vijesti', 'Biskup Komarica: Papina posjeta podsticaj BiH da krene sa slijepog kolosijeka']);">
+<h2>Biskup Komarica: Papina posjeta podsticaj BiH da krene sa slijepog kolosijeka</h2>
+</a>
+</article>
+</section>
+ 
+<section id="biznis" class="left">
+<h5 class="boja_biznis"><a href="http://www.klix.ba/biznis">Biznis</a></h5>
+<article>
+<a class="komentari" href="http://www.klix.ba/biznis/privreda/srbija-privlaci-velike-kompanije-bih-samo-deklarativno-o-stranim-investicijama/150201004#komentari" title="113 komentara">
+<mark>113</mark>
+<figure class="trougao"></figure>
+</a> <a class="hover_biznis" href="http://www.klix.ba/biznis/privreda/srbija-privlaci-velike-kompanije-bih-samo-deklarativno-o-stranim-investicijama/150201004" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-biznis', 'Srbija privlači velike kompanije, BiH samo deklarativno o stranim investicijama']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201004.jpg" alt=""/><figure class="kvadrat border_biznis"></figure>
+<h1>Srbija privlači velike kompanije, BiH samo deklarativno o stranim investicijama</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/biznis/pet-savjeta-za-uspjeh-marisse-mayer-zene-koja-je-do-40-zaradila-500-miliona-dolara/150131074#komentari" title="91 komentara">
+<mark>91</mark>
+<figure class="trougao"></figure>
+</a> <a class="hover_biznis" href="http://www.klix.ba/biznis/pet-savjeta-za-uspjeh-marisse-mayer-zene-koja-je-do-40-zaradila-500-miliona-dolara/150131074" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-biznis', 'Pet savjeta za uspjeh Marisse Mayer, žene koja je do 40. zaradila 500 miliona dolara']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131074.jpg" alt=""/><figure class="kvadrat border_biznis"></figure>
+<h1>Pet savjeta za uspjeh Marisse Mayer, žene koja je do 40. zaradila 500 miliona dolara</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/biznis/privreda/gradjevinari-u-fbih-dobili-novo-rukovodstvo/150131065#komentari" title="9 komentara">
+<mark>9</mark>
+<figure class="trougao"></figure>
+</a> <a class="hover_biznis" href="http://www.klix.ba/biznis/privreda/gradjevinari-u-fbih-dobili-novo-rukovodstvo/150131065" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-biznis', 'Građevinari u FBiH dobili novo rukovodstvo']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131065.jpg" alt=""/><figure class="kvadrat border_biznis"></figure>
+<h1>Građevinari u FBiH dobili novo rukovodstvo</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article class="recesivni">
+<a class="hover_biznis" href="http://www.klix.ba/biznis/privreda/aluminij-trazi-povrat-samackog-hotela-u-mostaru/150130072" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-biznis', 'Aluminij traži povrat Samačkog hotela u Mostaru']);">
+<h2>Aluminij traži povrat Samačkog hotela u Mostaru</h2>
+</a>
+</article>
+<article class="recesivni">
+<a class="hover_biznis" href="http://www.klix.ba/biznis/finansije/deponentima-likvidirane-bobar-banke-isplaceno-oko-71-milion-km/150130105" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-biznis', 'Deponentima likvidirane Bobar banke isplaćeno oko 71 milion KM']);">
+<h2>Deponentima likvidirane Bobar banke isplaćeno oko 71 milion KM</h2>
+</a>
+</article>
+</section>
+</section>
+<div id="veliki-fiksni1-new">
+ 
+<div id='div-gpt-ad-1346691776056-2'>
+<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1346691776056-2');
+			</script>
+</div>
+</div>
+ 
+<section class="naslovna-red poravnaj" id="red-2">
+<section id="sport" class="left" style="width: 320px;">
+<h5 class="boja_sport"><a href="http://www.klix.ba/sport">Sport</a></h5>
+<article>
+<a class="hover_sport" href="http://www.klix.ba/sport/nogomet/seria-a-velika-pobjeda-cesene-nad-laziom-lider-remizirao/150201049" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-sport', 'Seria A: Velika pobjeda Cesene nad Laziom, lider remizirao']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201049.jpg" alt=""/> <figure class="kvadrat border_sport"></figure>
+<h1>Seria A: Velika pobjeda Cesene nad Laziom, lider remizirao</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/sport/nogomet/seria-a-velika-pobjeda-cesene-nad-laziom-lider-remizirao/150201049" class="bg_sport m_video"><i class="icon_video">&nbsp;</i></a><a href="http://www.klix.ba/sport/nogomet/seria-a-velika-pobjeda-cesene-nad-laziom-lider-remizirao/150201049" class="bg_sport m_foto"><i class="icon_foto">&nbsp;</i></a></mark> </article>
+<article>
+<a class="komentari" href="http://www.klix.ba/sport/nogomet/fudbaleri-zeljeznicara-otputovali-na-drugi-dio-priprema-u-medjugorje/150201024#komentari" title="10 komentara">
+<mark>10</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_sport" href="http://www.klix.ba/sport/nogomet/fudbaleri-zeljeznicara-otputovali-na-drugi-dio-priprema-u-medjugorje/150201024" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-sport', 'Fudbaleri Željezničara otputovali na drugi dio priprema u Međugorje']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201024.jpg" alt=""/> <figure class="kvadrat border_sport"></figure>
+<h1>Fudbaleri Željezničara otputovali na drugi dio priprema u Međugorje</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark> </article>
+<article>
+<a class="hover_sport" href="http://www.klix.ba/sport/formula1/red-bull-predstavio-zebrasti-bolid/150201018" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-sport', 'Red Bull predstavio &quot;zebrasti&quot; bolid']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201018.jpg" alt=""/> <figure class="kvadrat border_sport"></figure>
+<h1>Red Bull predstavio "zebrasti" bolid</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/sport/formula1/red-bull-predstavio-zebrasti-bolid/150201018" class="bg_sport m_video"><i class="icon_video">&nbsp;</i></a><a href="http://www.klix.ba/sport/formula1/red-bull-predstavio-zebrasti-bolid/150201018" class="bg_sport m_foto"><i class="icon_foto">&nbsp;</i></a></mark> </article>
+<article class="recesivni">
+<a class="hover_sport" href="http://www.klix.ba/sport/nogomet/diego-costa-nisam-andjeo-i-necu-se-promijeniti/150201013" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-sport', '']);">
+<h2>Diego Costa: Nisam anđeo i neću se promijeniti</h2>
+</a>
+</article>
+<article class="recesivni">
+<a class="hover_sport" href="http://www.klix.ba/sport/tenis/hingis-i-paes-pobjednici-australian-opena-u-konkurenciji-mjesovitih-parova/150201008" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-sport', '']);">
+<h2>Hingis i Paes pobjednici Australian Opena u konkurenciji mješovitih parova</h2>
+</a>
+</article>
+</section>
+<section id="auto" class="left ml10">
+<h5 class="boja_auto"><a href="http://www.klix.ba/auto">Auto</a></h5>
+<article>
+<a class="komentari" href="http://www.klix.ba/auto/ovako-izgleda-mercedes-benz-s-klasa-xxl-projekt-ares-ateliera/150131054#komentari" title="50 komentara">
+<mark>50</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_auto" href="http://www.klix.ba/auto/ovako-izgleda-mercedes-benz-s-klasa-xxl-projekt-ares-ateliera/150131054" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-auto', 'Ovako izgleda Mercedes-Benz S-Klasa XXL, projekt ARES Ateliera']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131054.jpg" alt=""/> <figure class="kvadrat border_sport"></figure>
+<h1>Ovako izgleda Mercedes-Benz S-Klasa XXL, projekt ARES Ateliera</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/auto/ovako-izgleda-mercedes-benz-s-klasa-xxl-projekt-ares-ateliera/150131054" class="bg_auto m_foto"><i class="icon_foto">&nbsp;</i></a></mark> </article>
+<article>
+<a class="komentari" href="http://www.klix.ba/auto/odlicna-reklama-iz-mercedesa-amg-gt-kao-nocna-mora-porscheu-911/150131026#komentari" title="49 komentara">
+<mark>49</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_auto" href="http://www.klix.ba/auto/odlicna-reklama-iz-mercedesa-amg-gt-kao-nocna-mora-porscheu-911/150131026" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-auto', 'Odlična reklama iz Mercedesa: AMG GT kao noćna mora Porscheu 911']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131026.jpg" alt=""/> <figure class="kvadrat border_sport"></figure>
+<h1>Odlična reklama iz Mercedesa: AMG GT kao noćna mora Porscheu 911</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/auto/odlicna-reklama-iz-mercedesa-amg-gt-kao-nocna-mora-porscheu-911/150131026" class="bg_auto m_video"><i class="icon_video">&nbsp;</i></a></mark> </article>
+<article>
+<a class="komentari" href="http://www.klix.ba/auto/tuning/gemballa-tunirao-porsche-panameru/150131020#komentari" title="10 komentara">
+<mark>10</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_auto" href="http://www.klix.ba/auto/tuning/gemballa-tunirao-porsche-panameru/150131020" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-auto', 'Gemballa tunirao Porsche Panameru']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131020.jpg" alt=""/> <figure class="kvadrat border_sport"></figure>
+<h1>Gemballa tunirao Porsche Panameru</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/auto/tuning/gemballa-tunirao-porsche-panameru/150131020" class="bg_auto m_foto"><i class="icon_foto">&nbsp;</i></a></mark> </article>
+<article class="recesivni">
+<a class="hover_auto" href="http://www.klix.ba/auto/toyota-se-vraca-u-wrc-sa-yarisom/150130143" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-auto', 'Toyota se vraća u WRC sa Yarisom']);">
+<h2>Toyota se vraća u WRC sa Yarisom</h2>
+</a>
+</article>
+<article class="recesivni">
+<a class="hover_auto" href="http://www.klix.ba/auto/studenti-iz-mostara-predstavili-trkacibolid-koji-su-sami-izradili/150129121" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-auto', 'Studenti iz Mostara predstavili trkaći bolid koji su sami izradili']);">
+<h2>Studenti iz Mostara predstavili trkaći bolid koji su sami izradili</h2>
+</a>
+</article>
+</section>
+</section>
+<div id="veliki-fiksni2-new">
+ 
+<div id='div-gpt-ad-1346691776056-3'>
+<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1346691776056-3');
+			</script>
+</div>
+</div>
+<section class="naslovna-red poravnaj" id="red-3">
+ 
+<section id="lifestyle" class="left">
+<h5 class="boja_lifestyle"><a href="http://www.klix.ba/lifestyle">Lifestyle</a></h5>
+<article>
+<a class="komentari" href="http://www.klix.ba/lifestyle/modailjepota/prva-pratilja-strgnula-misici-tijaru-s-glave-i-bacila-je-u-publiku/150201026#komentari" title="54 komentara">
+<mark>54</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_lifestyle" href="http://www.klix.ba/lifestyle/modailjepota/prva-pratilja-strgnula-misici-tijaru-s-glave-i-bacila-je-u-publiku/150201026" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-lifestyle', 'Prva pratilja strgnula misici tijaru s glave i bacila je u publiku']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201026.jpg" alt=""/> <figure class="kvadrat border_lifestyle"></figure>
+<h1>Prva pratilja strgnula misici tijaru s glave i bacila je u publiku</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/lifestyle/modailjepota/prva-pratilja-strgnula-misici-tijaru-s-glave-i-bacila-je-u-publiku/150201026" class="bg_lifestyle m_video"><i class="icon_video">&nbsp;</i></a></mark> </article>
+<article>
+<a class="komentari" href="http://www.klix.ba/lifestyle/putovanja/u-ovom-avionu-ce-ubuduce-letjeti-americki-predsjednik/150201015#komentari" title="33 komentara">
+<mark>33</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_lifestyle" href="http://www.klix.ba/lifestyle/putovanja/u-ovom-avionu-ce-ubuduce-letjeti-americki-predsjednik/150201015" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-lifestyle', 'U ovom avionu će ubuduće letjeti američki predsjednik']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201015.jpg" alt=""/> <figure class="kvadrat border_lifestyle"></figure>
+<h1>U ovom avionu će ubuduće letjeti američki predsjednik</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark> </article>
+<article>
+<a class="komentari" href="http://www.klix.ba/lifestyle/putovanja/putovanje-nigerijom-siromastvo-bolest-i-nevjerovatna-zelja-za-zivotom/150127080#komentari" title="9 komentara">
+<mark>9</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_lifestyle" href="http://www.klix.ba/lifestyle/putovanja/putovanje-nigerijom-siromastvo-bolest-i-nevjerovatna-zelja-za-zivotom/150127080" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-lifestyle', 'Putovanje Nigerijom: Siromaštvo, bolest i nevjerovatna želja za životom']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150127080.jpg" alt=""/> <figure class="kvadrat border_lifestyle"></figure>
+<h1>Putovanje Nigerijom: Siromaštvo, bolest i nevjerovatna želja za životom</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"><a href="http://www.klix.ba/lifestyle/putovanja/putovanje-nigerijom-siromastvo-bolest-i-nevjerovatna-zelja-za-zivotom/150127080" class="bg_lifestyle m_foto"><i class="icon_foto">&nbsp;</i></a></mark> </article>
+<div class="clb"></div>
+</section>
+ 
+<section id="magazin" class="left">
+<h5 class="boja_magazin"><a href="http://www.klix.ba/magazin">Magazin</a></h5>
+<article>
+<a class="komentari" href="http://www.klix.ba/magazin/showbiz/nakon-sto-je-pronadjena-u-kadi-punoj-vode-kcerka-whitney-houston-u-komi/150201003#komentari" title="35 komentara">
+<mark>35</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_magazin" href="http://www.klix.ba/magazin/showbiz/nakon-sto-je-pronadjena-u-kadi-punoj-vode-kcerka-whitney-houston-u-komi/150201003" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-magazin', 'Nakon što je pronađena u kadi punoj vode, kćerka Whitney Houston u komi']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150201003.jpg" alt=""/> <figure class="kvadrat border_magazin"></figure>
+<h1>Nakon što je pronađena u kadi punoj vode, kćerka Whitney Houston u komi</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/magazin/detektivka-iz-serije-agatha-christie-geraldine-mcewan-preminula-u-82-godini/150131099#komentari" title="8 komentara">
+<mark>8</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_magazin" href="http://www.klix.ba/magazin/detektivka-iz-serije-agatha-christie-geraldine-mcewan-preminula-u-82-godini/150131099" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-magazin', 'Detektivka iz serije Agatha Christie: Geraldine McEwan preminula u 82. godini']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131099.jpg" alt=""/> <figure class="kvadrat border_magazin"></figure>
+<h1>Detektivka iz serije Agatha Christie: Geraldine McEwan preminula u 82. godini</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article>
+<a class="komentari" href="http://www.klix.ba/magazin/kcerka-whitney-houston-pronadjena-u-kadi-bez-pulsa/150131095#komentari" title="47 komentara">
+<mark>47</mark>
+<figure class="trougao"></figure>
+</a>
+<a class="hover_magazin" href="http://www.klix.ba/magazin/kcerka-whitney-houston-pronadjena-u-kadi-bez-pulsa/150131095" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-magazin', 'Kćerka Whitney Houston pronađena u kadi bez pulsa']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131095.jpg" alt=""/> <figure class="kvadrat border_magazin"></figure>
+<h1>Kćerka Whitney Houston pronađena u kadi bez pulsa</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+</section>
+</section>
+<div id="veliki-fiksni3-new">
+ 
+<div id='div-gpt-ad-1346691776056-4'>
+<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1346691776056-4');
+			</script>
+</div>
+</div>
+<section class="naslovna-red poravnaj" id="red-4">
+ 
+<section id="scitech" class="left">
+<h5 class="boja_scitech"><a href="http://www.klix.ba/scitech">Scitech</a></h5>
+<article>
+<a class="komentari" href="http://www.klix.ba/scitech/tehnologija/the-pirate-bay-ponovo-u-funkciji/150131088#komentari" title="101 komentara">
+<mark>101</mark>
+<figure class="trougao"></figure>
+</a> <a class="hover_scitech" href="http://www.klix.ba/scitech/tehnologija/the-pirate-bay-ponovo-u-funkciji/150131088" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-scitech', 'The Pirate Bay ponovo u funkciji']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/tx_150131088.jpg" alt=""/><figure class="kvadrat border_scitech"></figure>
+<h1>The Pirate Bay ponovo u funkciji</h1>
+<div class="clb"></div>
+</a>
+<mark class="dodatno"></mark>
+</article>
+<article class="recesivni">
+<a class="hover_scitech" href="http://www.klix.ba/scitech/tehnologija/lg-g4-bi-mogao-imati-ekran-s-najvecom-rezolucijom-ikada/150131070" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-scitech', 'LG G4 bi mogao imati ekran s najvećom rezolucijom ikada']);">
+<h2>LG G4 bi mogao imati ekran s najvećom rezolucijom ikada</h2>
+</a>
+</article>
+<article class="recesivni">
+<a class="hover_scitech" href="http://www.klix.ba/scitech/nauka/nasa-lansirala-prvi-satelit-za-mjerenje-vlaznosti-tla/150131075" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-scitech', 'NASA lansirala prvi satelit za mjerenje vlažnosti tla']);">
+<h2>NASA lansirala prvi satelit za mjerenje vlažnosti tla</h2>
+</a>
+</article>
+<article class="recesivni">
+<a class="hover_scitech" href="http://www.klix.ba/scitech/sta-kad-bi-na-svijetu-zivjelo-samo-100-ljudi/150131045" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Udarne-scitech', 'Šta kad bi na svijetu živjelo samo 100 ljudi?']);">
+<h2>Šta kad bi na svijetu živjelo samo 100 ljudi?</h2>
+</a>
+</article>
+<div class="clb"></div>
+</section>
+<section id="ljepotica" class="left">
+<h5 class="boja_magazin">Ljepotica dana</h5>
+<article>
+<a href="http://www.klix.ba/magazin/ljepotice/talita-correa-je-zvijezda-u-svijetu-modelinga/150131010" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Ljepotica-dana', 'Talita Correa je zvijezda u svijetu modelinga']);">
+<img class="ljepotica" src="http://static.klix.ba/media/images/vijesti/4x_150131010.jpg" alt=""/> <figure class="kvadrat border_magazin"></figure>
+<h1 class="boja_magazin">Talita Correa je zvijezda u svijetu modelinga</h1>
+</a>
+</article>
+</section>
+</section>
+ 
+<section class="naslovna-red" id="red-nl">
+<section id="klix-nightlife">
+<a href="http://www.klix.ba/nightlife"><h5 class="boja_nightlife">NIGHTLIFE</h5></a>
+<a href="http://www.klix.ba/nightlife/sarajevo/2015/01/24/hacienda/2894" class="f_dogadjaj">
+<div class="f_dogbg"><img src="http://static.klix.ba/media/images/nightlife/43921_fr.jpg"></div>
+<div class="f_naziv">Hacienda, 24.01.2015.</div>
+<div class="f_grad bg_nightlife">Sarajevo</div>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/nightlife/sarajevo/2015/01/24/downtown/2893" class="f_dogadjaj">
+<div class="f_dogbg"><img src="http://static.klix.ba/media/images/nightlife/43888_fr.jpg"></div>
+<div class="f_naziv">Downtown, 24.01.2015.</div>
+<div class="f_grad bg_nightlife">Sarajevo</div>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/nightlife/sarajevo/2015/01/24/cinemas-sloga/2895" class="f_dogadjaj last">
+<div class="f_dogbg"><img src="http://static.klix.ba/media/images/nightlife/43997_fr.jpg"></div>
+<div class="f_naziv">Sloga, 24.01.2015.</div>
+<div class="f_grad bg_nightlife">Sarajevo</div>
+<div class="clb"></div>
+</a>
+</section>
+</section>
+<section class="naslovna-red" id="red-5">
+<section id="krizaljka" style="margin-right:10px;margin-left:0px;" class="left" style="height:260px;">
+<h5 class="boja_naslovnica"><a href="http://www.klix.ba/krizaljka">Križaljka</a></h5>
+<div class="okvir">
+<article>
+<a href="http://www.klix.ba/krizaljka" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Križaljka', 'Znate li ko je rukometaš na slici?']);"><img src="http://static.klix.ba/media/images/sezam/thumb/1181_Igor Karacic.jpg" alt="Znate li ko je rukometaš na slici?"/></a>
+<div class="kockica svijetla"></div>
+<div class="kockica">slikar<br/>renoar</div>
+<div class="kockica svijetla"></div> <div class="clb"></div>
+</article>
+<div class="pitanje" style="height:46px;"><a href="http://www.klix.ba/krizaljka">Znate li ko je rukometaš na slici?</a></div>
+<a class="btn-krizaljka" href="http://www.klix.ba/krizaljka"><i class="icon_arrow_right"></i></a>
+<div class="clb"></div>
+</div>
+</section>
+<section id="foto_dana" class="left">
+<h5 class="boja_foto_dana">Fotografija dana</h5>
+<article>
+<a id="fotka_dana" class="fotoklik" onclick="prikazi_fotku_dana('2015-02-01');_gaq.push(['_trackEvent', 'Naslovnica', 'Fotka-dana', 'Studenti uživaju u snijegu u kampusu Univerziteta Harvard']);" href="http://www.klix.ba/fotka-dana/2015-02-01">
+<h1>Studenti uživaju u snijegu u kampusu Univerziteta Harvard</h1>
+<img src="http://static.klix.ba/media/images/fotodana/974.jpg" alt="Studenti uživaju u snijegu u kampusu Univerziteta Harvard">
+<figure class="kvadrat"></figure>
+<mark class="dodatno"><i class="icon_uvecaj_vslika">&nbsp;</i></mark>
+</a>
+</article>
+<div class="clb"></div>
+</section>
+</section>
+<section class="naslovna-red" id="red-6">
+ 
+<section id="forum" class="left">
+<section id="forum" class="left">
+<section id="box_forum">
+<h5 class="boja_forum"><a class="tab tab-active" data-show="tab_forum">FORUM</a> / <a class="tab" data-show="tab_komentari">KOMENTARI</a></h5>
+ 
+<div class="tab_sadrzaj shown ks_a" id="tab_forum">
+<a href="http://forum.klix.ba/snajperisti-u-sarajevu--t71938.html">
+<div class="broj">
+3k </div>
+<h5>Snajperisti u Sarajevu..</h5>
+<div class="clb"></div>
+</a>
+<a href="http://forum.klix.ba/zasto-nas-je-allah-stvorio-da-ga-obozavamo--t133658.html">
+<div class="broj">
+46 </div>
+<h5>Zašto nas je Allah stvorio da ga obožavamo?</h5>
+<div class="clb"></div>
+</a>
+<a href="http://forum.klix.ba/papa-dolazi-u-sarajevo-6-juna-t133668.html">
+<div class="broj">
+57 </div>
+<h5>Papa dolazi u Sarajevo 6.juna</h5>
+<div class="clb"></div>
+</a>
+<a href="http://forum.klix.ba/problem-sa-prskalicom-zadnjeg-stakla-golf-4-t133509.html">
+<div class="broj">
+17 </div>
+<h5>Problem sa prskalicom zadnjeg stakla golf 4</h5>
+<div class="clb"></div>
+</a>
+<a href="http://forum.klix.ba/swansea-city-a-f-c--t127250.html" class="last">
+<div class="broj">
+73 </div>
+<h5>Swansea City A.F.C.</h5>
+<div class="clb"></div>
+</a>
+<a href="http://forum.klix.ba/auto-salon-kramar-vasa-iskustva-t70908.html">
+<div class="broj">
+413 </div>
+<h5>Auto salon Kramar - vasa iskustva</h5>
+<div class="clb"></div>
+</a>
+ 
+</div>
+<div class="tab_sadrzaj ks_a" id="tab_komentari">
+<a href="http://www.klix.ba/biznis/privreda/srbija-privlaci-velike-kompanije-bih-samo-deklarativno-o-stranim-investicijama/150201004">
+<div class="broj">
+113 </div>
+<h5>Srbija privlači velike kompanije, BiH samo deklarativno o...</h5>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/vijesti/svijet/zavirite-u-unutrasnjost-dzamije-u-izgradnji-u-st-louisu/150131097">
+<div class="broj">
+110 </div>
+<h5>Zavirite u unutrašnjost džamije u izgradnji u St. Louisu</h5>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/scitech/tehnologija/the-pirate-bay-ponovo-u-funkciji/150131088">
+<div class="broj">
+101 </div>
+<h5>The Pirate Bay ponovo u funkciji</h5>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/lifestyle/modailjepota/novi-trend-farbanja-kose-stize-iz-madrida-sta-kazete-na-pikselizirane-frizure/150130050">
+<div class="broj">
+100 </div>
+<h5>Novi trend farbanja kose stiže iz Madrida: Šta kažete na...</h5>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/vijesti/svijet/pogubljeni-japanski-novinar-samo-je-zelio-svijet-bez-rata/150201001" class="last">
+<div class="broj">
+97 </div>
+<h5>Pogubljeni japanski novinar samo je želio svijet bez rata</h5>
+<div class="clb"></div>
+</a>
+<a href="http://www.klix.ba/vijesti/kultura/stand-up-komicar-pedja-bajovic-u-prepunom-bkc-u-poceo-bh-turneju/150131104">
+<div class="broj">
+94 </div>
+<h5>Stand-up komičar Peđa Bajović u prepunom BKC-u počeo...</h5>
+<div class="clb"></div>
+</a>
+ 
+</div>
+</section>
+</section>
+</section>
+<section id="tv" class="left">
+<h5 class="boja_tv"><a href="http://www.klix.ba/tv-program">Trenutno na TV-u</a></h5>
+<article>
+<section id="box_tv_vodic">
+<a href="http://www.klix.ba/tv-program/nova">
+<div class="program-red">
+<div class="kanal-red">
+<mark class="sivi">NOVA TV</mark> <h4>Najbolje godine, ep. 26., domaća serija</h4>
+<div class="clb"></div>
+</div>
+<div class="kanal-red">
+<div class="tv-vrijeme">
+17:55 - 19:15 </div>
+<div class="progress-div">
+<div class="progress-bar"><div class="progress" style="width:36%;"></div></div>
+<span>36%</span></div>
+</div>
+</div>
+</a>
+<a href="http://www.klix.ba/tv-program/al-jazeera-balkans">
+<div class="program-red">
+<div class="kanal-red">
+<mark class="sivi">AJB</mark> <h4>Vijesti 18:00, informativni</h4>
+<div class="clb"></div>
+</div>
+<div class="kanal-red">
+<div class="tv-vrijeme">
+18:00 - 19:00 </div>
+<div class="progress-div">
+<div class="progress-bar"><div class="progress" style="width:39%;"></div></div>
+<span>39%</span></div>
+</div>
+</div>
+</a>
+<a href="http://www.klix.ba/tv-program/ftv">
+<div class="program-red">
+<div class="kanal-red">
+<mark class="sivi">FTV</mark> <h4>Kud puklo da puklo, igrana serija</h4>
+<div class="clb"></div>
+</div>
+<div class="kanal-red">
+<div class="tv-vrijeme">
+17:35 - 19:05 </div>
+<div class="progress-div">
+<div class="progress-bar"><div class="progress" style="width:54%;"></div></div>
+<span>54%</span></div>
+</div>
+</div>
+</a>
+<a href="http://www.klix.ba/tv-program/bht1">
+<div class="program-red">
+<div class="kanal-red">
+<mark class="sivi">BHT1</mark> <h4>SP ukometu Qatar 2015: Finale (R), prijenos</h4>
+<div class="clb"></div>
+</div>
+<div class="kanal-red">
+<div class="tv-vrijeme">
+17:05 - 19:15 </div>
+<div class="progress-div">
+<div class="progress-bar"><div class="progress" style="width:60%;"></div></div>
+<span>60%</span></div>
+</div>
+</div>
+</a>
+<a href="http://www.klix.ba/tv-program/obn">
+<div class="program-red">
+<div class="kanal-red">
+<mark class="sivi">OBN</mark> <h4>Dejana Talk Show, talk show</h4>
+<div class="clb"></div>
+</div>
+<div class="kanal-red">
+<div class="tv-vrijeme">
+17:25 - 18:50 </div>
+<div class="progress-div">
+<div class="progress-bar"><div class="progress" style="width:69%;"></div></div>
+<span>69%</span></div>
+</div>
+</div>
+</a>
+</section>
+</article>
+</section>
+</section>
+ 
+</section>
+<section id="naslovna_desno_kolona" class="desna_kolona right">
+<div id="ads_rectangle">
+ 
+<div id='div-gpt-ad-1367697332220-0'>
+<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367697332220-0'); });
+	</script>
+</div>
+</div>
+<section id="box_najnaj" class="tab_box">
+<div class="tabovi ks_a">
+<a data-tab="tab_najnovije" class="selected br0">Najnovije</a>
+<a data-tab="tab_najcitanije" class="br0">Najčitanije</a>
+<a data-tab="tab_popularno">Popularno</a>
+</div>
+<div class="tab_sadrzaj shown ks_a" id="tab_najnovije">
+<a href="http://www.klix.ba/vijesti/regija/hrvatska-od-sutra-oprasta-dug-60-000-najsiromasnijih-gradjana/150201055" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najnovije']);">
+<mark class="sivi">18:19</mark>
+<h5>Hrvatska od sutra oprašta dug 60.000 najsiromašnijih građana</h5>
+</a>
+<a href="http://www.klix.ba/vijesti/svijet/preminuo-izumitelj-antibejbi-pilule-carl-djerassi/150201056" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najnovije']);">
+<mark class="sivi">18:17</mark>
+<h5>Preminuo izumitelj "antibejbi pilule" Carl Djerassi</h5>
+</a>
+<a href="http://www.klix.ba/vijesti/bih/svjetski-mediji-papa-franjo-u-sarajevo-donosi-poruku-mira-i-bratimljenja/150201054" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najnovije']);">
+<mark class="sivi">17:51</mark>
+<h5>Svjetski mediji: Papa Franjo u Sarajevo donosi poruku mira i bratimljenja</h5>
+</a>
+<a href="http://www.klix.ba/vijesti/kultura/galerija-boris-smoje-obiljezava-desetu-godisnjicu-djelovanja/150201053" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najnovije']);">
+<mark class="sivi">17:35</mark>
+<h5>Galerija "Boris Smoje" obilježava desetu godišnjicu djelovanja</h5>
+</a>
+<a href="http://www.klix.ba/vijesti/bih/manje-nepravilnosti-tokom-glasanja-u-stanarima-istocnom-drvaru-i-domaljevcu-samcu/150201052" class="last" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najnovije']);">
+<mark class="sivi">17:33</mark>
+<h5>Manje nepravilnosti tokom glasanja u Stanarima, Istočnom Drvaru i Domaljevcu-Šamcu</h5>
+</a>
+</div>
+<div class="tab_sadrzaj ks_a" id="tab_najcitanije">
+<article>
+<a href="http://www.klix.ba/vijesti/bih/papa-franjo-dolazi-u-sarajevo-6-juna/150201023" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najcitanije']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201023.jpg" alt=""/> <h5>
+Papa Franjo dolazi u Sarajevo 6. juna </h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/vijesti/svijet/idil-pogubio-i-drugog-japanskog-taoca-kenjia-gotoa/150131101" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najcitanije']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150131101.jpg" alt=""/> <h5>
+IDIL pogubio i drugog japanskog taoca Kenjia Gotoa </h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/biznis/pet-savjeta-za-uspjeh-marisse-mayer-zene-koja-je-do-40-zaradila-500-miliona-dolara/150131074" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najcitanije']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150131074.jpg" alt=""/> <h5>
+Pet savjeta za uspjeh Marisse Mayer, žene koja je do 40. zaradila 500 miliona dolara </h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/lifestyle/modailjepota/novi-trend-farbanja-kose-stize-iz-madrida-sta-kazete-na-pikselizirane-frizure/150130050" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najcitanije']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150130050.jpg" alt=""/> <h5>
+Novi trend farbanja kose stiže iz Madrida: Šta kažete na "pikselizirane" frizure? </h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/vijesti/crna-hronika/tragedija-u-trebinju-bracni-par-poginuo-njihova-kcerka-povrijedjena/150201002" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'najcitanije']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201002.jpg" alt=""/> <h5 class="bb0">
+Tragedija u Trebinju: Bračni par poginuo, njihova kćerka povrijeđena </h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+</div>
+<div class="tab_sadrzaj ks_a" id="tab_popularno">
+<article>
+<a href="http://www.klix.ba/biznis/investicije/hotel-westin-uskoro-u-sarajevu/150201050" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'popularno']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201050.jpg" alt=""/> <h5>Hotel Westin uskoro u Sarajevu!</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/vijesti/bih/papa-franjo-dolazi-u-sarajevo-6-juna/150201023" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'popularno']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201023.jpg" alt=""/> <h5>Papa Franjo dolazi u Sarajevo 6. juna</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/vijesti/bih/svjetski-mediji-papa-franjo-u-sarajevo-donosi-poruku-mira-i-bratimljenja/150201054" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'popularno']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201054.jpg" alt=""/> <h5>Svjetski mediji: Papa Franjo u Sarajevo donosi poruku mira i bratimljenja</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/lifestyle/modailjepota/prva-pratilja-strgnula-misici-tijaru-s-glave-i-bacila-je-u-publiku/150201026" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'popularno']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201026.jpg" alt=""/> <h5>Prva pratilja strgnula misici tijaru s glave i bacila je u publiku</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/sport/tenis/novak-djokovic-osvojio-peti-trofej-australian-opena/150201025" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Najbox', 'popularno']);">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150201025.jpg" alt=""/> <h5 class="bb0">Novak Đoković osvojio peti trofej Australian Opena</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+</div>
+</section>
+<div id="ads_fiksni1">
+ 
+<div id='div-gpt-ad-1346696969349-5' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+	googletag.display('div-gpt-ad-1346696969349-5');
+	</script>
+</div>
+</div>
+ 
+<section id="box_promo" class="tab_box">
+<div class="tabovi">
+<a data-tab="tab_promo" class="tab_wide">Promo</a>
+</div>
+<div class="tab_sadrzaj shown ks_a" id="tab_promo">
+<article>
+<a href="http://www.klix.ba/sport/rukomet/rukometna-groznica-u-sarajevo-city-centeru/150130081">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150130081.jpg" alt=""/> <h5>Rukometna groznica u Sarajevo City Centeru</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+<article>
+<a href="http://www.klix.ba/biznis/prvi-beurer-shop-u-bih-bit-ce-otvoren-u-ponedjeljak-02-februara-u-bbi-u/150129102">
+<img class="" src="http://static.klix.ba/media/images/vijesti/t2x_150129102.jpg" alt=""/> <h5 class="bb0">Prvi Beurer shop u BiH bit će otvoren u ponedjeljak 02. februara u BBI-u</h5>
+<figure class="kvadrat"></figure>
+</a>
+</article>
+</div>
+</section>
+<div id="ads_fiksni2">
+ 
+<div id='div-gpt-ad-1346696969349-6' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+	googletag.display('div-gpt-ad-1346696969349-6');
+	</script>
+</div>
+</div>
+<section id="box_anketa" class="tab_box">
+<div class="tabovi">
+<a data-tab="tab_anketa" class="tab_wide">Anketa</a>
+</div>
+<div class="tab_sadrzaj shown" id="tab_anketa">
+<form name="anketa" id="anketa">
+<p class="pitanje boja_vijesti">Podržavate li Inicijativu da se Sutorina vrati BiH?</p>
+<div id="odgovori">
+<div class="odgovor">
+<input name="glas" type="radio" value="3847" id="odg_3847" class="l"/> <label for="odg_3847"><span>Da</span></label>
+</div>
+<div class="clb"></div>
+<div class="odgovor">
+<input name="glas" type="radio" value="3848" id="odg_3848" class="l"/> <label for="odg_3848"><span>Ne</span></label>
+</div>
+<div class="clb"></div>
+<div class="odgovor">
+<input name="glas" type="radio" value="3849" id="odg_3849" class="l"/> <label for="odg_3849"><span>Ne pratim taj slučaj </span></label>
+</div>
+<div class="clb"></div>
+<div id="opcije">
+<button data-anketa="1006" type="button" class="posalji bg_vijesti">Glasaj</button>
+<a class="rezultati" data-anketa="1006">Rezultati</a>
+<a class="rezultati" href="http://www.klix.ba/ankete/1006">Prethodne ankete</a>
+<div class="clb"></div>
+</div>
+</div>
+</form>
+</div>
+</section>
+<div id="ads_fiksni3">
+ 
+<div id='div-gpt-ad-1346696969349-7' style='width:300px; height:100px;'>
+<script type='text/javascript'>
+	googletag.display('div-gpt-ad-1346696969349-7');
+	</script>
+</div>
+</div>
+<section id="box_konvertor" class="tab_box">
+<div class="tabovi">
+<a data-tab="tab_konvertor" class="tab_wide">Konvertor valuta</a>
+</div>
+<div class="tab_sadrzaj shown ks_a" id="tab_konvertor">
+<input type="text" id="konvertor_1" maxlength="7">
+<select id="konvertor_1_valuta">
+<option value="111" selected>BAM</option>
+<option value="978">EUR</option>
+<option value="36">AUD</option>
+<option value="124">CAD</option>
+<option value="191">HRK</option>
+<option value="203">CZK</option>
+<option value="208">DKK</option>
+<option value="348">HUF</option>
+<option value="392">JPY</option>
+<option value="440">LTL</option>
+<option value="578">NOK</option>
+<option value="752">SEK</option>
+<option value="756">CHF</option>
+<option value="949">TRY</option>
+<option value="826">GBP</option>
+<option value="840">USD</option>
+<option value="643">RUB</option>
+<option value="156">CNY</option>
+<option value="941">RSD</option>
+</select>
+<input type="text" id="konvertor_2">
+<select id="konvertor_2_valuta">
+<option value="111">BAM</option>
+<option value="978" selected="selected">EUR</option>
+<option value="36">AUD</option>
+<option value="124">CAD</option>
+<option value="191">HRK</option>
+<option value="203">CZK</option>
+<option value="208">DKK</option>
+<option value="348">HUF</option>
+<option value="392">JPY</option>
+<option value="440">LTL</option>
+<option value="578">NOK</option>
+<option value="752">SEK</option>
+<option value="756">CHF</option>
+<option value="949">TRY</option>
+<option value="826">GBP</option>
+<option value="840">USD</option>
+<option value="643">RUB</option>
+<option value="156">CNY</option>
+<option value="941">RSD</option>
+</select>
+</div>
+</section>
+<script type="text/javascript">
+var valuta = new Array();
+valuta[111] = '1';
+valuta[978] = '1.95583';
+valuta[36] = '1.3456';
+valuta[124] = '1.365517';
+valuta[191] = '0.25408639';
+valuta[203] = '0.070361';
+valuta[208] = '0.262739';
+valuta[348] = '0.00626808';
+valuta[392] = '0.01469665';
+valuta[440] = '0.566448';
+valuta[578] = '0.221411';
+valuta[752] = '0.208929';
+valuta[756] = '1.868389';
+valuta[949] = '0.709174';
+valuta[826] = '2.603954';
+valuta[840] = '1.730057';
+valuta[643] = '0.024471';
+valuta[156] = '0.276877';
+valuta[941] = '0.01583028';
+</script>
+<div class="box_dw"><div id="bx_container">
+<div id="bx_header">
+<div><a href="http://www.dw.de/dw/0,,10037,00.html?maca=bos-TB_bs_sarajevox-4187-html-cb" target="_blank" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Newsbox', 'DW']);"><img src="http://www.klix.ba/images/dw-logo.png" alt="DW.DE" border="0" align="left" width="40" height="23"/></a></div>
+<div id="bx_headertext" valign="middle"></div>
+</div>
+<div id="bx_content">
+<div id="ci_0">
+<div>
+<div><a href="http://www.dw.de/ljevica-dolazi/a-18228831?maca=bos-TB_bs_sarajevox-4187-html-cb" target="_blank" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Newsbox', 'DW']);"><p>Ljevica dolazi!</p></a></div>
+</div>
+</div>
+<div id="ci_1">
+<div>
+<div><a href="http://www.dw.de/multipla-skleroza-i-život-s-njom-u-bih/a-18228569?maca=bos-TB_bs_sarajevox-4187-html-cb" target="_blank" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Newsbox', 'DW']);"><p>Multipla skleroza i &#x17e;ivot s njom u BiH</p></a></div>
+</div>
+</div>
+<div id="ci_2">
+<div>
+<div><a href="http://www.dw.de/sjene-nacizma-nad-njemačkom-tajnom-službom/a-18226349?maca=bos-TB_bs_sarajevox-4187-html-cb" target="_blank" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Newsbox', 'DW']);"><p>Sjene nacizma nad njema&#x10d;kom tajnom slu&#x17e;bom</p></a></div>
+</div>
+</div>
+<div id="ci_3">
+<div>
+<div><a href="http://www.dw.de/izrael-i-liban-u-nadi-i-strahu/a-18228408?maca=bos-TB_bs_sarajevox-4187-html-cb" target="_blank" onClick="_gaq.push(['_trackEvent', 'Naslovnica', 'Newsbox', 'DW']);"><p>Izrael i Liban u nadi i strahu</p></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section id="box_fotovideo" class="tab_box">
+<div class="tabovi">
+<a data-tab="tab_video" class="selected first tab_half">Video</a>
+<a data-tab="tab_foto" class="tab_half">Foto</a>
+</div>
+<div class="tab_sadrzaj shown ks_a" id="tab_video">
+<a href="http://www.klix.ba/sport/nogomet/seria-a-velika-pobjeda-cesene-nad-laziom-lider-remizirao/150201049">
+<div class="m_video_siva"><i class="icon_video"></i></div>
+<h5>Seria A: Velika pobjeda Cesene nad Laziom, lider remizirao</h5>
+</a>
+<a href="http://www.klix.ba/magazin/film-tv/jamie-dornan-otkrio-gdje-se-spremao-za-ulogu-u-50-nijansi/150201048">
+<div class="m_video_siva"><i class="icon_video"></i></div>
+<h5>Jamie Dornan otkrio gdje se spremao za ulogu u "50 nijansi"</h5>
+</a>
+<a href="http://www.klix.ba/lifestyle/modailjepota/prva-pratilja-strgnula-misici-tijaru-s-glave-i-bacila-je-u-publiku/150201026">
+<div class="m_video_siva"><i class="icon_video"></i></div>
+<h5>Prva pratilja strgnula misici tijaru s glave i bacila je u publiku</h5>
+</a>
+<a href="http://www.klix.ba/sport/tenis/novak-djokovic-osvojio-peti-trofej-australian-opena/150201025">
+<div class="m_video_siva"><i class="icon_video"></i></div>
+<h5>Novak Đoković osvojio peti trofej Australian Opena</h5>
+</a>
+<a class="bb0" href="http://www.klix.ba/sport/formula1/red-bull-predstavio-zebrasti-bolid/150201018">
+<div class="m_video_siva"><i class="icon_video"></i></div>
+<h5>Red Bull predstavio "zebrasti" bolid</h5>
+</a>
+<a href="http://www.klix.ba/video" class="box-vise">VIŠE VIDEA</a>
+</div>
+<div class="tab_sadrzaj ks_a" id="tab_foto">
+<a href="http://www.klix.ba/vijesti/svijet/kurdi-odbili-napade-islamske-drzave-kod-kirkuka/150201051">
+<div class="m_foto_siva"><i class="icon_foto"></i></div>
+<h5>Kurdi odbili napade Islamske države kod Kirkuka</h5>
+</a>
+<a href="http://www.klix.ba/sport/nogomet/seria-a-velika-pobjeda-cesene-nad-laziom-lider-remizirao/150201049">
+<div class="m_foto_siva"><i class="icon_foto"></i></div>
+<h5>Seria A: Velika pobjeda Cesene nad Laziom, lider remizirao</h5>
+</a>
+<a href="http://www.klix.ba/sport/rukomet/rukometasi-poljske-u-produzecima-osvojili-trece-mjesto-na-sp-u-kataru/150201044">
+<div class="m_foto_siva"><i class="icon_foto"></i></div>
+<h5>Rukometaši Poljske u produžecima osvojili treće mjesto na SP u Kataru</h5>
+</a>
+<a href="http://www.klix.ba/magazin/film-tv/jamie-dornan-otkrio-gdje-se-spremao-za-ulogu-u-50-nijansi/150201048">
+<div class="m_foto_siva"><i class="icon_foto"></i></div>
+<h5>Jamie Dornan otkrio gdje se spremao za ulogu u "50 nijansi"</h5>
+</a>
+<a class="bb0" href="http://www.klix.ba/vijesti/crna-hronika/sudar-golfa-i-autobusa-u-blazuju-otezan-saobracaj/150201041">
+<div class="m_foto_siva"><i class="icon_foto"></i></div>
+<h5>Sudar Golfa i autobusa u Blažuju, otežan saobraćaj</h5>
+</a>
+<a href="http://www.klix.ba/foto" class="box-vise">VIŠE FOTOGALERIJA</a>
+</div>
+</section>
+<section id="box_facebook" class="tab_box">
+<a href="https://www.facebook.com/Klix.ba" target="_blank"><div class="fb_title">FACEBOOK PREPORUKE</div></a>
+<div class="fb_clanci">
+<a href="http://www.klix.ba/vijesti/bih/papa-franjo-dolazi-u-sarajevo-6-juna/150201023"><h2 class="hover_facebook"><mark class="fb_broj">934</mark>Papa Franjo dolazi u Sarajevo 6. juna</h2></a>
+<a href="http://www.klix.ba/scitech/tehnologija/the-pirate-bay-ponovo-u-funkciji/150131088"><h2 class="hover_facebook"><mark class="fb_broj">454</mark>The Pirate Bay ponovo u funkciji</h2></a>
+<a href="http://www.klix.ba/sport/nogomet/zeljina-generacija-za-pamcenje-iz-sredine-80-tih-igrala-je-dusom-i-srcem/150131059"><h2 class="hover_facebook"><mark class="fb_broj">380</mark>Željina generacija za pamćenje iz sredine 80-tih igrala je...</h2></a>
+<a href="http://www.klix.ba/sport/kosarka/bh-kadetsreprezentacija-nakon-njemacke-savladala-i-srbiju/150201043"><h2 class="hover_facebook"><mark class="fb_broj">271</mark>Bh. kadetska reprezentacija nakon Njemačke savladala i Srbiju...</h2></a>
+<a href="http://www.klix.ba/sport/nogomet/u-mostaru-promovisana-knjiga-rodjeni-za-vjecnost-vaha-nije-mogao-sakriti-suze/150131105"><h2 class="hover_facebook last"><mark class="fb_broj">253</mark>U Mostaru promovisana knjiga "Rođeni za vječnost": Vaha nije...</h2></a>
+</div>
+</section>
+<div class="clb"></div>
+</section>
+<div class="clb"></div>
+</section>
+<footer>
+<div id="main_footer" class="border_naslovnica border_">
+<div class="col1">
+<h5>KLIX</h5>
+<ul>
+<li class="boja_"><a href="/marketing">Marketing</a></li>
+<li class="boja_"><a href="/onama">O nama</a></li>
+<li class="boja_"><a href="/impressum">Impressum</a></li>
+<li class="boja_"><a href="/arhiva">Arhiva</a></li>
+<li class="boja_"><a href="/uslovi">Uslovi</a></li>
+<li class="boja_"><a href="/kontakt">Kontakt</a></li>
+</ul>
+</div>
+<div class="col2">
+<h5>MOBILNE VERZIJE</h5>
+<ul>
+<li class="boja_"><a href="http://m.klix.ba/">Mobilna verzija</a></li>
+<li class="boja_"><a href="http://itunes.apple.com/app/klix/id502522220">iPhone aplikacija</a></li>
+<li class="boja_"><a href="https://play.google.com/store/apps/details?id=ba.klix.android">Android aplikacija</a></li>
+<li class="boja_"><a href="http://www.windowsphone.com/en-us/store/app/klix-ba/ddcf2fc0-0c4f-4df8-b1e1-6fb6cc921fa9">Windows Phone aplikacija</a></li>
+<li class="boja_"><a href="http://www.klix.ba/apps">O mobilnim aplikacijama</a></li>
+</ul>
+</div>
+<div class="col3">
+<h5>Kontakti</h5>
+<p><strong>Redakcija</strong><br/>
+t: +387 33 263-245<br/>
+e: <a href="/cdn-cgi/l/email-protection#41332425202a22282b20012a2d28396f2320"><span class="__cf_email__" data-cfemail="47352223262c242e2d26072c2b2e3f692526">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a><br/>
+<strong>Marketing</strong><br/>
+t: +387 33 263-250<br/>
+e: <a href="/cdn-cgi/l/email-protection#7c111d0e17190815121b3c17101504521e1d"><span class="__cf_email__" data-cfemail="375a56455c52435e5950775c5b5e4f195556">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
+</p>
+</div>
+<div class="col4">
+<h5>Pronađite nas na:</h5>
+<div class="social_icons">
+<a title="Facebook" href="https://www.facebook.com/Klix.ba" target="_blank"><i class="icon_facebook"></i></a>
+<a title="Twitter" href="https://twitter.com/klixba" target="_blank"><i class="icon_twitter"></i></a>
+<a title="YouTube" href="http://www.youtube.com/user/xredakcija" target="_blank"><i class="icon_youtube"></i></a>
+<a title="Google+" href="https://plus.google.com/u/0/b/109119734635325712184/109119734635325712184/posts" target="_blank"><i class="icon_google"></i></a>
+<a title="RSS" href="http://www.klix.ba/rssfeeds"><i class="icon_rss"></i></a>
+<div class="clb"></div>
+</div>
+<h5>ČITATELJI-REPORTERI</h5>
+<a id="posalji_vijest">Pošalji vijest, fotografiju ili video i budi nagrađen!</a>
+</div>
+<div class="clb"></div>
+</div>
+<div id="disclaimer">
+Copyright 2000-2015 InterSoft d.o.o. Sva prava zadržana. Zabranjeno preuzimanje sadržaja bez dozvole izdavača.
+</div> </footer>
+</div>
+ 
+ 
+<script src="http://www.klix.ba/looks/js/fancybox.js"></script>
+ 
+<script src="http://www.klix.ba/looks/js/cookies.js"></script>
+ 
+<script src="http://www.klix.ba/looks/js/tipsy.js"></script>
+ 
+<script src="http://www.klix.ba/looks/js/plugins.js"></script>
+ 
+<script src="http://www.klix.ba/looks/js/script.js?v=41"></script>
+ 
+<script src="http://www.klix.ba/looks/js/jstorage.js"></script>
+<script type="text/javascript" src="http://www.klix.ba/looks/js/konvertor.js"></script>
+<div id="prekrivac"></div>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+</body>
+</html>
+http://www.klix.ba/

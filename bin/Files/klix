@@ -1,0 +1,4430 @@
+<!doctype html> <html lang="en"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta charset="utf-8"> <title>NBA.com</title> <link rel="canonical" href="http://www.nba.com"/> <link rel="icon" href="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1558/elements/global/favicon16.ico" type="image/x-icon" /> <link rel="apple-touch-icon" href="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1558/dep/nba-cms3-mobile/elements/apple-touch-icon.png" type="image/png" /> <meta name="description" content="The official site of the National Basketball Association. Includes news, features, multimedia, player profiles, chat transcripts, schedules and statistics." /> <meta name="keywords" content="NBA.com" /> <meta name="viewport" content="width=1000" /> <script type="text/javascript"> var dataEnv = "http://data.nba.com"; </script>  
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ <link rel="stylesheet" type="text/css" media="screen" href= "http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-desktop/1388/css/pkgThemeDefault-min.css" /> <link rel="stylesheet" type="text/css" media="screen" href= "http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-desktop/1388/css/pkgCountdown-min.css" /> <link rel="stylesheet" media="screen" href="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1558/css/pkg-min.css" /> <script type="text/javascript" src= "http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-desktop/1388/js/pkgThemeDefault-min.js" ></script> <script type="text/javascript" src= "http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-desktop/1388/js/pkgCountdown-min.js" ></script>  <!-- EPIC -->
+<script type="text/javascript" src="http://i.cdn.turner.com/analytics/nba/ais.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/ads/nba/adfuel.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/nba/nba/.element/js/3.0/global/ads.js"></script>
+ <script type="text/javascript" src= "http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-desktop/1388/js/pkgThemeGeneral-min.js" ></script> <script type="text/javascript"> var dataEnv = "http://data.nba.com"; </script> <script src="//connect.facebook.net/en_US/all.js"></script> <script src="http://z.cdn.turner.com/nba/nba/.element/js/2.0/global/omniture/nbaOmEvent.js"></script> <script src="http://data.nba.com/data/5s/json/nbacom/noseason/FBmostPop/fbMostPop.json"></script> <script language="JavaScript" type="text/javascript"> var nbaCurrTime = new Date(1422811318247), nbaCurrTimeOffset = "-0500"; </script> <script src="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-base/378/js/pkgCvpHomepage-min.js"></script> <script src="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1558/js/pkg-min.js"></script> <script> var videoGalleryConfig = { "data":{ "playlists":[ { "id" : "summary_FDBE8515-78CF-4330-E21F-45D6D9001B40", "videos": [ { "permalink": "/video/channels/nba_tv/2015/02/01/20150130-gt-lakers-knicks-preview.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/02/01/20150130-gt-lakers-knicks-preview.nba", "videoTitle" : "On League Pass: Lakers vs. Knicks", "videoCaption" : "Two down teams meet in New York, with the Lakers seeking 2 wins in a row (2 ET). ", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/elements/global/no.png" } ], "relatedLinks" : [] } , { "id" : "summary_E1C3E0D5-5735-1675-0463-435D6F3E007A", "videos": [ { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-recap.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-recap.nba", "videoTitle" : "Hawks' Streak Reaches 19", "videoCaption" : "Al Horford leads the Hawks past the 76ers the Sixers 91-85.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131230657-20150131-horford-2.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-gt-arena-link-schroder.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-gt-arena-link-schroder.nba", "videoTitle" : "Arena Link: Dennis Schroder", "videoCaption" : "Dennis Schroder joins GameTime after helping the Hawks win their 19th straight.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131221825-20150131-gt-arena-link-schroder-00002725.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play7.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play7.nba", "videoTitle" : "Horford Denies McDaniels", "videoCaption" : "Al Horford goes up strong to reject K.J. McDaniels' dunk attempt.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131215223-0021400708-phi-atl-play7-00002403.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play6.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play6.nba", "videoTitle" : "Noel Denies Bazemore", "videoCaption" : "Nerlens Noel goes up strong to reject Kent Bazemore's dunk attempt.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131212931-0021400708-phi-atl-play6-00001711.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play5.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play5.nba", "videoTitle" : "Teague's Lucky Three", "videoCaption" : "Jeff Teague's alley-oop attempt to Kent Bazemore turns into a 3-pointer.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131212612-0021400708-phi-atl-play5-00002008.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play4.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play4.nba", "videoTitle" : "MCW Gets Injured", "videoCaption" : "Michael Carter-Williams leaves the game after landing awkwardly on his ankle.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131211303-0021400708-phi-atl-play4-00002527.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play3.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play3.nba", "videoTitle" : "Grant Flushes", "videoCaption" : "Michael Carter-Williams finds Jerami Grant, who finishes with authority.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131204838-0021400708-phi-atl-play3-00001407.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play2.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play2.nba", "videoTitle" : "Defense Creating Offense", "videoCaption" : "Off the turnover, Dennis Schroder finds John Jenkins for the layup.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131202443-0021400708-phi-atl-play2-00002629.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/hawks/2015/01/31/0021400708-phi-atl-play1.nba/index.html", "videoID" : "/video/games/hawks/2015/01/31/0021400708-phi-atl-play1.nba", "videoTitle" : "Millsap Throws it Down", "videoCaption" : "Jeff Teague finds Paul Millsap, who flushes the dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131200324-0021400708-phi-atl-play1-00002123.video-playlist-thumbnail.jpg" } ], "relatedLinks" : [ ] } , { "id" : "summary_523E7BD1-7E97-F589-0721-437536FDB137", "videos": [ { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-recap.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-recap.nba", "videoTitle" : "Cavaliers Win 10th Straight Game", "videoCaption" : "LeBron James' 36 points lifts the Cavaliers past the Timberwolves 105-90.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131222626-20150131-cle-min-lbj.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150130-gt-cle-min-analysis.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150130-gt-cle-min-analysis.nba", "videoTitle" : "GameTime: Cavaliers-Timberwolves Analysis", "videoCaption" : "Rick Fox and Mike Dunleavy Sr. take a look at Cleveland's win over Minnesota.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131233524-20150130-gt-cle-min-analysis-00025824.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-nightly-notable.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-nightly-notable.nba", "videoTitle" : "Nightly Notable: LeBron James", "videoCaption" : "LeBron James scores 36 points with six boards and five assists in the Cavs' win.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201000736-20150131-lebron.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play6.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play6.nba", "videoTitle" : "Wiggins' Big Night", "videoCaption" : "Andrew Wiggins had a career-high 33 points with 4 steals in Minnesota's loss.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201014059-0021400711-cle-min-play6-00002305.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play5.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play5.nba", "videoTitle" : "LBJ Throws It Down", "videoCaption" : "LeBron James blows by the Timberwolves defense for an easy dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131221916-0021400711-cle-min-play5-00000918.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play4.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play4.nba", "videoTitle" : "Wiggins Gets Loose", "videoCaption" : "Andrew Wiggins splits Kyrie Irving and LeBron James and finishes with a big dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131210852-0021400711-cle-min-play4-00001909.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play3.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play3.nba", "videoTitle" : "Wiggins Attacks", "videoCaption" : "Andrew Wiggins gets free and throws down a big two-handed dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131210434-0021400711-cle-min-play3-00001325.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play1.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play1.nba", "videoTitle" : "No, No, Then Yes", "videoCaption" : "LeBron James misses, Kevin Love misses, then Timofey Mozgov cleans.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131205136-0021400711-cle-min-play1-00000819.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play2.nba/index.html", "videoID" : "/video/games/timberwolves/2015/01/31/0021400711-cle-min-play2.nba", "videoTitle" : "Kevin Love Tribute", "videoCaption" : "The Timberwolves honor Kevin Love with a tribute video in the first quarter.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131205003-0021400711-cle-min-play2-00002011.video-playlist-thumbnail.jpg" } ], "relatedLinks" : [ ] } , { "id" : "summary_F46CA5DD-5DC6-94E7-56C3-438EF8D6A61D", "videos": [ { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-recap.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-recap.nba", "videoTitle" : "Grizzlies Dispatch Thunder", "videoCaption" : "Zach Randolph's big night leads the Grizzlies past the Thunder 85-74.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131223938-20150131-randolph.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play8.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play8.nba", "videoTitle" : "Randolph Dominates", "videoCaption" : "Zach Randolph scores 21 points and grabs 18 rebounds in the Grizzlies' win.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131233518-20150131-zach.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play7.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play7.nba", "videoTitle" : "Calathes Steal And Finish", "videoCaption" : "Nick Calathes gets the steal and drives in for the easy layup.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131222950-0021400710-okc-mem-play7-00001714.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play6.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play6.nba", "videoTitle" : "Randolph Delivers", "videoCaption" : "Marc Gasol finds Zach Randolph, who gets the layup plus the foul.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131223208-0021400710-okc-mem-play6-00001330.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play5.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play5.nba", "videoTitle" : "Green's Monster Dunk", "videoCaption" : "Beno Udrih finds Jeff Green, who throws down the big-time slam.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131205730-0021400710-okc-mem-play5-00001419.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play4.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play4.nba", "videoTitle" : "Allen's Circus Shot ", "videoCaption" : "Tony Allen drives to the basket throws it up behind his head for the layup.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131205057-0021400710-okc-mem-play4-00001003.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play3.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play3.nba", "videoTitle" : "Leuer's Block And Layup", "videoCaption" : "Jon Leuer blocks Kendrick Perkins' shot and is rewarded with the fastbreak layup.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131204421-0021400710-okc-mem-play3-00002421.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play2.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play2.nba", "videoTitle" : "Conley Finds Gasol", "videoCaption" : "Mike Conley dishes the nice pass to Marc Gasol, who finishes with the dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131203910-0021400710-okc-mem-play2-00001206.video-playlist-thumbnail.jpg" } , { "permalink": "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play1.nba/index.html", "videoID" : "/video/games/grizzlies/2015/01/31/0021400710-okc-mem-play1.nba", "videoTitle" : "Waiters Cleans It Up", "videoCaption" : "Dion Waiters blows the layup but gets the offensive rebound and lays it back in.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131203413-0021400710-okc-mem-play1-00002117.video-playlist-thumbnail.jpg" } ], "relatedLinks" : [ ] } , { "id" : "summary_CB79A5EF-F913-92D3-4BFD-45BEFEF5F9A6", "videos": [ { "permalink": "/video/channels/top_plays/2015/02/01/20150131-daily-zap.nba/index.html", "videoID" : "/video/channels/top_plays/2015/02/01/20150131-daily-zap.nba", "videoTitle" : "Jan. 31: Daily Zap", "videoCaption" : "Fly through a eleven-game evening in the Daily Zap.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201004733-20150131-zap.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/02/01/20150131-top10.nba/index.html", "videoID" : "/video/channels/top_plays/2015/02/01/20150131-top10.nba", "videoTitle" : "Jan. 31: Top 10", "videoCaption" : "Count down the Top 10 plays from Saturday night's action.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201001232-20150131-top10.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-nightly-notable.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-nightly-notable.nba", "videoTitle" : "Nightly Notable: LeBron James", "videoCaption" : "LeBron James scores 36 points, grabs 6 rebounds and dishest 5 assists.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201000736-20150131-lebron.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-play-of-the-day.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-play-of-the-day.nba", "videoTitle" : "Play of the Day: Giannis Antetokounmpo", "videoCaption" : "Khris Middleton gets the steal and finds Giannis Antetokounmpo for the windmill dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201001133-20150131-giannis.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-steal-of-the-night.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-steal-of-the-night.nba", "videoTitle" : "Steal of the Night: Andrew Wiggins", "videoCaption" : "Andrew Wiggins gets the steal and throws down a big two-handed dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201001339-20150131-wiggins.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-dunk-of-the-night.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-dunk-of-the-night.nba", "videoTitle" : "Dunk of the Night: Jeff Green", "videoCaption" : "Beno Udrih finds Jeff Green who throws down the monster dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201001049-20150131-green.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-block-of-the-night.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-block-of-the-night.nba", "videoTitle" : "Block of the Night: DeAndre Jordan", "videoCaption" : "DeAndre Jordan sends Tony Parker's layup into the stands.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201001008-20150131-jordan.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/top_plays/2015/01/31/20150131-assist-of-the-night.nba/index.html", "videoID" : "/video/channels/top_plays/2015/01/31/20150131-assist-of-the-night.nba", "videoTitle" : "Assist of the Night: Brandon Knight", "videoCaption" : "Brandon Knight lobs it to Giannis Antetokounmpo for the alley-oop dunk.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150201000849-20150131-knight.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/30/20150130-starters-top-10.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/30/20150130-starters-top-10.nba", "videoTitle" : "Top 10 Plays: The Starters", "videoCaption" : "The Starters hit you with the Top 10 Plays from the past week. ", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150130190644-20150130-starters-top-10-00023801.video-playlist-thumbnail.jpg" } ], "relatedLinks" : [ ] } , { "id" : "summary_5B3CA595-E105-989C-A112-40E149E7781F", "videos": [ { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-smart-lobster.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-smart-lobster.nba", "videoTitle" : "Inside Stuff: Smart Lobster", "videoCaption" : "Celtics' Rookie Marcus Smart gets to know his new city with a little lobster fishing.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/141001015634-marcus-smart-pose-portrait.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-teague-feat.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-teague-feat.nba", "videoTitle" : "Inside Stuff: Jeff Teague", "videoCaption" : "All-Star Jeff Teague breaks down surging Atlanta while at the Georgia Aquarium.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131103559-20150131-inside-stuff-teague-feat-00010605.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-extra-stuff-teague.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-extra-stuff-teague.nba", "videoTitle" : "Extra Stuff: Teague's League", "videoCaption" : "Hawks' All-Star jeff Teague says his speed is what gives him an advantage.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131111657-20150131-extra-stuff-teague-00004002.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-curry-qucik-mix.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-curry-qucik-mix.nba", "videoTitle" : "'Quick Take' With Steph Curry", "videoCaption" : "Inside Stuff spends time with top All-Star vote-getter Steph Curry.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131103815-20150131-inside-stuff-curry-qucik-mix-00001909.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-vince-dunker.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-vince-dunker.nba", "videoTitle" : "Inside Stuff: Vince the Dunker", "videoCaption" : "Inside Stuff talks with Vince Carter about his career and some of his top dunks.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/141119183724-vince-carter-raptors-dunk.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-extra-vince-mix.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-extra-vince-mix.nba", "videoTitle" : "Extra Stuff: Vintage Vinsanity", "videoCaption" : "Vince Carter reminisces about posterizing Hall of Famer Alonzo Mourning.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131113529-20150131-extra-vince-mix-00001707.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-jam-session.nba/index.html", "videoID" : "/video/channels/nba_tv/2015/01/31/20150131-inside-stuff-jam-session.nba", "videoTitle" : "Jam Session: 'Sugar' by Maroon 5", "videoCaption" : "Relive some of last week's top NBA moments to the beat of 'Sugar' by Maroon 5.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/150131104925-20150131-inside-stuff-jam-session-00002128.video-playlist-thumbnail.jpg" } ], "relatedLinks" : [ ] } ] } }; </script>  <script type="application/ld+json"> { "@context": "http://schema.org", "@type": "SportsOrganization", "name": "National Basketball Association", "legalName": "National Basketball Association", "description": "The NBA is a global sports and media business built around three professional sports leagues: the National Basketball Association, the Women's National Basketball Association, and the NBA Development League.", "url": "http://www.nba.com?ls=eref:google:kc:league", "logo": "http://i.cdn.turner.com/nba/nba/.element/img/3.0/global/onebox.jpeg", "sport": "http://en.wikipedia.org/wiki/Basketball", "member": [ { "@type": "Role", "startDate": "2014-02-01", "member": { "@type": "Person", "name": "Adam Silver", "givenName": "Adam", "familyName": "Silver", "jobTitle": "Commissioner" } } ], "makesOffer": [ { "@type": "Offer", "name": "Buy NBA Tickets", "url": "http://www.nbatickets.com" } ], "email": "http://www.nba.com/email_us/contact_us.html", "founder": [ { "@type": "Person", "name": "Eddie Gottlieb", "givenName": "Edward", "familyName": "Gottlieb" }, { "@type": "Person", "name": "Leo Ferris", "givenName": "Leo", "familyName": "Ferris" } ], "foundingDate": "1946-06-26", "address": { "@type": "PostalAddress", "streetAddress": "645 Fifth Avenue", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10022", "addressCountry": "US", "contactType": "Fan Relations" } } </script> </head> <!--[if lt IE 7]><body class="no-js lt-ie9 lt-ie8 lt-ie7" id="nbaHomepage"> <![endif]--> <!--[if IE 7]><body class="no-js lt-ie9 lt-ie8" id="nbaHomepage"> <![endif]--> <!--[if IE 8]><body class="no-js lt-ie9" id="nbaHomepage"> <![endif]--> <!--[if gt IE 8]><!--> <body class="no-js" id="nbaHomepage"> <!--<![endif]--> <div id="ad_oop_skin_01" class="nba-ad"></div>
+
+ <span id="nbaPersonalizer" class="nbaAssist"></span> <div id="fb-root"></div> <div class="nbaPage"> <script type="text/javascript">
+		var nbaCurrTime = new Date(1422811320736);
+		var nbaCurrHour = 12;
+		</script> <!-- begin header include --> <header id="nbaHeader"> <h1 class="nbaAssist">NBA.com, Official site of the National Basketball Association</h1> <span class="nbaLogo " title="Link to NBA.com Homepage"><a href="/">Link to NBA.com Homepage</a></span> <nav id="nbaGlobalNav"> <ul> <li class="nbaSingleton nba-left-border "> <a href="/tickets/tickets.html?ls=iref:nba:gnav" title="Link to NBA Tickets" class="" target=>Tickets</a> </li> <li class="nbaTeams"> <a href="/teams/?ls=iref:nba:gnav" title="Link to Teams" class="" target=>Teams</a> <div class="nbaNavDropdown "> <div class="nbaPrimary"> <span class="nbaNavSubheading">Eastern Conference</span> <ul> <li> <span class="nbaDivision">Atlantic</span> <ul> <li> <a href="/v>
+			<div class="top2d">
+			<h3><a href="vijesti/svijet/257331-Egipat-oslobodio-novinara-Jazeere-Petera-Grestea.html">Egipat oslobodio novinara Al Jazeere Petera Grestea</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+																	
+																		
+
+
+
+	<div class="short3">
+		<div class="short_int1">
+			
+				<div style="position: relative; width: 320px; z-index:1; height:167px; overflow: hidden;">
+				<div class="image">
+					<a href="vijesti/bih/257309-Papa-Franjo-juna-dolazi-Sarajevo.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Mart/papa_franjo_2_396519710.jpg&amp;size=article_large" width="320" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-64px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:50px; width:315px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-50px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="vijesti/bih/257309-Papa-Franjo-juna-dolazi-Sarajevo.html">Papa Franjo 6. juna dolazi u Sarajevo</a></h3>
+			</div>
+			</div>
+			<div class="top2d">
+			<h3><a href="vijesti/bih/257309-Papa-Franjo-juna-dolazi-Sarajevo.html">Papa Franjo 6. juna dolazi u Sarajevo</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+																	
+																
+																
+														</div>
+													
+											</div>
+				
+							
+			</div>
+
+ 			
+											<div class="main_news_box_row-6hor">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short2">
+		<div class="short_4morehor">
+			
+
+			<div style=" margin-top:0px; width:156px; height:118px; overflow:hidden">
+				<div class="image">
+					<a href="sport/rukomet/257333-Rukometasi-Poljske-produzecima-osvojili-trece-mjesto-Kataru.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/poljska_spanija_775095228.jpg&amp;size=summary_large" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:14px; font-family: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/SP u rukometu">SP u rukometu</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 4px 2px; ">
+			<h3><a href="sport/rukomet/257333-Rukometasi-Poljske-produzecima-osvojili-trece-mjesto-Kataru.html">Rukometaši Poljske u produžecima osvojili treće mjesto na SP u Kataru</a></h3>
+			</div>
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short2">
+		<div class="short_4morehor">
+			
+
+			<div style=" margin-top:0px; width:156px; height:118px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257312-Vise-nema-dilema-bilo-genocida-Srebrenici.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/amir_ahmic_936990189.jpg&amp;size=summary_large" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:14px; font-family: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Dr. Cerić povodom odluke">Dr. Cerić povodom odluke</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 4px 2px; ">
+			<h3><a href="vijesti/bih/257312-Vise-nema-dilema-bilo-genocida-Srebrenici.html">Više nema dilema da li je bilo genocida u Srebrenici</a></h3>
+			</div>
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short2">
+		<div class="short_4morehor">
+			
+
+			<div style=" margin-top:0px; width:156px; height:118px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257306-Tucic-ostavkom-omogucio-neko-drugi-stavi-potpis-izvoz-oruzja.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/zoran_djeric_689606284.jpg&amp;size=summary_large" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:14px; font-family: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Zoran Đerić">Zoran Đerić</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 4px 2px; ">
+			<h3><a href="vijesti/bih/257306-Tucic-ostavkom-omogucio-neko-drugi-stavi-potpis-izvoz-oruzja.html">Tučić ostavkom omogućio da neko drugi stavi potpis na izvoz oružja</a></h3>
+			</div>
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short2">
+		<div class="short_4morehor">
+			
+
+			<div style=" margin-top:0px; width:156px; height:118px; overflow:hidden">
+				<div class="image">
+					<a href="sport/tenis/257315-Novak-Djokovic-peti-put-pobjednik-Australian-Opena.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/djokovic_pobjeda_245949831.jpg&amp;size=summary_large" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:14px; font-family: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Savladao Murraya">Savladao Murraya</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 4px 2px; ">
+			<h3><a href="sport/tenis/257315-Novak-Djokovic-peti-put-pobjednik-Australian-Opena.html">Novak Đoković peti put pobjednik Australian Opena</a></h3>
+			</div>
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short2">
+		<div class="short_4morehor">
+			
+
+			<div style=" margin-top:0px; width:156px; height:118px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257307-Abe-Necemo-pognuti-glavu-pred-terorizmom.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juli/shinzo_abe_japan_952026196.jpg&amp;size=summary_large" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:14px; font-family: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Japanski premijer">Japanski premijer</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 4px 2px; ">
+			<h3><a href="vijesti/svijet/257307-Abe-Necemo-pognuti-glavu-pred-terorizmom.html">Abe: Nećemo pognuti glavu pred terorizmom</a></h3>
+			</div>
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short2">
+		<div class="short_4morehor">
+			
+
+			<div style=" margin-top:0px; width:156px; height:118px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257292-Bracni-par-poginuo-Trebinju-njihova-kcerka-povrijedjena.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/Untitled_569225767.png&amp;size=summary_large" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:14px; font-family: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Vozilo sletjelo sa puta">Vozilo sletjelo sa puta</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 4px 2px; ">
+			<h3><a href="vijesti/crna-hronika/257292-Bracni-par-poginuo-Trebinju-njihova-kcerka-povrijedjena.html">Bračni par poginuo u Trebinju, njihova kćerka povrijeđena</a></h3>
+			</div>
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+									
+					
+											</div>
+				
+							
+			</div>
+
+
+	 <br style="clear: both" />
+                <div id="content_features" class="features_equal_default">
+                    <!-- Rotating headlines -->
+
+		</div>
+					<div id="dynamic_box_center">
+
+					<div id="box_center_holder_home">	
+
+						<!-- Main news section -->
+						
+								<div id="category_news_box">
+									<div class="main_news_box_holder">
+
+
+					
+								<div id="category_news_box">
+
+											<div class="main_news_box_vijesti4">
+
+			<div class="plavi-header">
+						<h3>
+						<a href="http://www.vijesti.ba/vijesti/bih"><font style="font-family: Arial; margin-left:6px; font-weight:bold; font-size:16px; color:#fff">BIH</font> <font style="font-family: Arial; font-weight:bold; margin-left:1px; font-size:12px; color:#fff"><i>kliknite za više vijesti</i></font></a>
+						</h3>
+			</div>
+											<div class="main_news_box_vijesti2">
+
+														<div class="box_body">
+															
+																	
+
+	<div class="short3">
+		<div class="short_vijesti1">
+
+
+				<div style="posotion:relative; height:195px; overflow:hidden; z-index:1; display:block">
+					<a href="vijesti/bih/257332-SDS-napustiti-sjednicu-ako-bude-razmatrao-Zakon-javnom-redu-miru.html"><img style="margin: -10px 0 0 -20px;" src="http://www.vijesti.ba/thumbnail.php?file=news/2012/September/nsrs_nova_724376058.jpg&amp;size=article_small" width="260" alt="image" /><br /></a>
+				</div>
+			
+
+<div style="margin-top:-26px; margin-bottom:12px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div class="plavi-intro">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:0px">
+			<h3><a href="vijesti/bih/257332-SDS-napustiti-sjednicu-ako-bude-razmatrao-Zakon-javnom-redu-miru.html">SDS će napustiti sjednicu ako se bude razmatrao Zakon o javnom redu i miru</a></h3>
+			</div>
+			<div class="vijest1">
+			<h4><a href="vijesti/bih/257332-SDS-napustiti-sjednicu-ako-bude-razmatrao-Zakon-javnom-redu-miru.html">SDS će napustiti sjednicu ako se bude razmatrao Zakon o javnom redu i miru</a></h4>
+			</div>
+			</div>
+
+			<div style="height:78px; overflow:hidden; padding:4px 0px 8px 4px; font-size:11px; font-color:#000; font-weight:normal;">
+				BANJA LUKA - Poslanici Srpske demokratske stranke (SDS) u Narodnoj skupštini RS-a zaprijetili su danas da će napustiti zasjedanje parlamenta, koje je zakazano za 3. februar, ukoliko Vlada ne povuče sporni Prijedlog zakon o javnom redu i miru, koji tretira i društvene mreže.
+			</div>
+			<div class="article_link-plavo1">
+				
+					
+						<a href="vijesti/bih/257332-SDS-napustiti-sjednicu-ako-bude-razmatrao-Zakon-javnom-redu-miru.html">  Opširnije</a>
+					
+				
+			</div>
+		</div>
+	</div>
+
+
+																	
+																
+																
+														</div>
+
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257329-Rukovodioci-firme-Famus-gradnja-ostaju-iza-resetaka.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sarajevo_skela__3__107527203.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257329-Rukovodioci-firme-Famus-gradnja-ostaju-iza-resetaka.html">Rukovodioci firme &quot;Famus gradnja 3&quot; ostaju iza rešetaka</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257327-Posjeta-pape-Franje-podsticaj-BiH-krene-slijepog-kolosijeka.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/biskup_komarica_790916380.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257327-Posjeta-pape-Franje-podsticaj-BiH-krene-slijepog-kolosijeka.html">Posjeta pape Franje podsticaj BiH da krene sa slijepog kolosijeka</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257322-odbace-Prijedlog-zakona-javnom-redu-miru.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/September/nsrs_nova_724376058.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257322-odbace-Prijedlog-zakona-javnom-redu-miru.html">Da odbace Prijedlog zakona o javnom redu i miru RS</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257320-Lagumdzija-preko-izmisljenog-Savjeta-vraca-rukovodstvo-SDP-.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/selim_beslagic_581691707.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257320-Lagumdzija-preko-izmisljenog-Savjeta-vraca-rukovodstvo-SDP-.html">Lagumdžija se preko izmišljenog Savjeta vraća u rukovodstvo SDP-a</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257319-Samostan-sestara-Ursulinki-Zenici-Mjesto-otvoreno-svakoga.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/samostan_zenica__1__103623546.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative; z-index:10; width:40px;  height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257319-Samostan-sestara-Ursulinki-Zenici-Mjesto-otvoreno-svakoga.html">Samostan sestara Uršulinki u Zenici: Mjesto otvoreno za svakoga</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257317-Odluka-Glavnog-odbora-SDP--stetu-srpskog-naroda.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/November/parlament_federacije_1_519351128.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257317-Odluka-Glavnog-odbora-SDP--stetu-srpskog-naroda.html">Odluka Glavnog odbora SDP-a je na štetu srpskog naroda</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257312-Vise-nema-dilema-bilo-genocida-Srebrenici.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/amir_ahmic_936990189.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257312-Vise-nema-dilema-bilo-genocida-Srebrenici.html">Više nema dilema da li je bilo genocida u Srebrenici</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257309-Papa-Franjo-juna-dolazi-Sarajevo.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Mart/papa_franjo_2_396519710.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257309-Papa-Franjo-juna-dolazi-Sarajevo.html">Papa Franjo 6. juna dolazi u Sarajevo</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257306-Tucic-ostavkom-omogucio-neko-drugi-stavi-potpis-izvoz-oruzja.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/zoran_djeric_689606284.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257306-Tucic-ostavkom-omogucio-neko-drugi-stavi-potpis-izvoz-oruzja.html">Tučić ostavkom omogućio da neko drugi stavi potpis na izvoz oružja</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+		
+					</div>
+
+
+
+
+
+											</div>
+									</div>					
+												
+							
+
+					
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257305-Odziv-izbore-sati.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2011/decembar/izbori_597606008.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257305-Odziv-izbore-sati.html">Odziv na izbore do 11 sati</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257302-Vodostaj-Save-porastu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Mart/sava_porast_679113543.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257302-Vodostaj-Save-porastu.html">Vodostaj Save u porastu</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257301-Kliziste-naselju-Nebocaj-evakuisano-osoba.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/stop_policija_858544985.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257301-Kliziste-naselju-Nebocaj-evakuisano-osoba.html">Klizište u naselju Nebočaj, evakuisano 13 osoba</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257300-Vahid-Halilovic-Kada-nestane-ove-kovacnice-nestat-kovaca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/kovacnica_gorazde__2__405426475.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative; z-index:10; width:40px;  height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257300-Vahid-Halilovic-Kada-nestane-ove-kovacnice-nestat-kovaca.html">Vahid Halilović: Kada nestane ove kovačnice nestat će i kovača</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257296-Uprkos-snijegu-saobracaj-odvija-prema-utvrdjenom-rasporedu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/January/AERODROM_SARAJEVO_AA_101749389.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257296-Uprkos-snijegu-saobracaj-odvija-prema-utvrdjenom-rasporedu.html">Uprkos snijegu saobraćaj se odvija prema utvrđenom rasporedu</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257294-Srbija-privlaci-velike-kompanije-BiH-samo-deklarativno-stranim-investicijama.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/investicije_914587598.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257294-Srbija-privlaci-velike-kompanije-BiH-samo-deklarativno-stranim-investicijama.html">Srbija privlači velike kompanije, BiH samo deklarativno o stranim investicijama</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257293-Danas-izbori-nacelnike-opstina-DomaljevacSamac-Stanari-Istocni-Drvar.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2011/novembar/izbori4x3_746010490.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257293-Danas-izbori-nacelnike-opstina-DomaljevacSamac-Stanari-Istocni-Drvar.html">Danas izbori za načelnike opština Domaljevac/Šamac, Stanari i Istočni Drvar</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257289-Jutros-oblacno-vrijeme-snijegom-kisom.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/May/sarajevo_snijeg_846385190.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257289-Jutros-oblacno-vrijeme-snijegom-kisom.html">Jutros oblačno vrijeme sa snijegom i kišom</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257285-Airlines-pred-gasenjem-odgovoran-stetne-ugovore.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/bh_airlines_velika_568459182.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257285-Airlines-pred-gasenjem-odgovoran-stetne-ugovore.html">&quot;BH Airlines&quot; pred gašenjem: Ko je odgovoran za štetne ugovore ?!</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-plavo1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/bih/257283-Ivaniceva-Bosiceva-neopreznost-ostaju-veliki-problem-ubuduce.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/April/dodik_velika_710420612.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/bih/257283-Ivaniceva-Bosiceva-neopreznost-ostaju-veliki-problem-ubuduce.html">Ivanićeva i Bosićeva neopreznost ostaju veliki problem za ubuduće</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+	
+
+					
+
+					
+								<div id="category_news_box">
+
+											<div class="main_news_box_vijesti1">
+
+			<div class="zuti-header">
+						<h3>
+						<a href="http://www.vijesti.ba/vijesti/regija"><font style="font-family: Arial; margin-left:6px; font-weight:bold; font-size:16px; color:#fff">REGIJA</font> <font style="font-family: Arial; font-weight:bold; margin-left:1px; font-size:12px; color:#fff"><i>kliknite za više vijesti</i></font></a>
+						</h3>
+			</div>
+											<div class="main_news_box_vijesti2">
+
+														<div class="box_body">
+															
+																	
+
+	<div class="short3">
+		<div class="short_vijesti1">
+
+
+				<div style="posotion:relative; height:195px; overflow:hidden; z-index:1; display:block">
+					<a href="vijesti/regija/257335-Presuda-Medjunarodnog-suda-najznacajniji-dogadjaj-buduce-odnose-Srbije-Hrvatske.html"><img style="margin: -10px 0 0 -20px;" src="http://www.vijesti.ba/thumbnail.php?file=news/2014/September/dacic_velika_2_835557598.jpg&amp;size=article_small" width="260" alt="image" /><br /></a>
+				</div>
+			
+
+<div style="margin-top:-26px; margin-bottom:12px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div class="zuti-intro">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:0px">
+			<h3><a href="vijesti/regija/257335-Presuda-Medjunarodnog-suda-najznacajniji-dogadjaj-buduce-odnose-Srbije-Hrvatske.html">Presuda Međunarodnog suda najznačajniji događaj za buduće odnose Srbije i Hrvatske</a></h3>
+			</div>
+			<div class="vijest1">
+			<h4><a href="vijesti/regija/257335-Presuda-Medjunarodnog-suda-najznacajniji-dogadjaj-buduce-odnose-Srbije-Hrvatske.html">Presuda Međunarodnog suda najznačajniji događaj za buduće odnose Srbije i Hrvatske</a></h4>
+			</div>
+			</div>
+
+			<div style="height:78px; overflow:hidden; padding:4px 0px 8px 4px; font-size:11px; font-color:#000; font-weight:normal;">
+				BEOGRAD – Donošenja presude u slučaju tužbe i kontratužbe između Srbije i Hrvatske pred Međunarodnim sudom u Hagu, 3. februara, je &quot;možda i najznačajniji događaj za bilateralne odnose Srbije i Hrvatske u narednom periodu“, istakao je Ivica Dačić, prvi potpredsjednik Vlade Srbije, ...
+			</div>
+			<div class="article_link-zuto1">
+				
+					
+						<a href="vijesti/regija/257335-Presuda-Medjunarodnog-suda-najznacajniji-dogadjaj-buduce-odnose-Srbije-Hrvatske.html">  Opširnije</a>
+					
+				
+			</div>
+		</div>
+	</div>
+
+
+																	
+																
+																
+														</div>
+
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257314-Beograd-Carinici-zaplijenili-kilograma-kokaina.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/July/aerodrom_nikola_tesla_766929056.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257314-Beograd-Carinici-zaplijenili-kilograma-kokaina.html">Beograd: Carinici zaplijenili 7,5 kilograma kokaina</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257290-Paljenje-svijeca-zrtve-kredita-pred-bankama.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/20150201074450_286593_249428393.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257290-Paljenje-svijeca-zrtve-kredita-pred-bankama.html">Paljenje svijeća za žrtve kredita pred bankama</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257274-Makedonija-Krivicna-prijava-zbog-spijuniranja-protiv-Zorana-Zaeva.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/aa_picture_20150131_4431109_high_968125458.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257274-Makedonija-Krivicna-prijava-zbog-spijuniranja-protiv-Zorana-Zaeva.html">Makedonija: Krivična prijava zbog špijuniranja protiv Zorana Zaeva</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257264-Ministar-Matic-povrijedio-gradjane-srpske-nacionalnosti.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/20150131173653_286566_325632051.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257264-Ministar-Matic-povrijedio-gradjane-srpske-nacionalnosti.html">Ministar Matić povrijedio građane srpske nacionalnosti</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257263-Albanski-hakeri-oborili-stranice-suda-tuzilastva-Nisu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/aa_picture_20150131_4431139_high_617561734.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257263-Albanski-hakeri-oborili-stranice-suda-tuzilastva-Nisu.html">Albanski hakeri oborili stranice suda i tužilaštva u Nišu</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257245-Paravinja-moli-predsjednicu-Hrvatske-zastiti.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/paravinja_kolinda_175196696.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257245-Paravinja-moli-predsjednicu-Hrvatske-zastiti.html">Paravinja moli predsjednicu Hrvatske da ga zaštiti</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257242-Hrvatska-gubi-800-miliona-eura-fondova.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/maletic_ivana_742093110.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257242-Hrvatska-gubi-800-miliona-eura-fondova.html">Hrvatska gubi 800 miliona eura iz EU fondova</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257239-Vlada-zeli-sprijeciti-predsjednica-dodje-arhiva-svojih-predhodnika.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/zeljko_reiner_695389436.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257239-Vlada-zeli-sprijeciti-predsjednica-dodje-arhiva-svojih-predhodnika.html">Vlada želi spriječiti da predsjednica dođe do arhiva svojih predhodnika</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/regija/257229-vlastite-potrebe-Slovenac-koristio-marihuane.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/marihuana_zapljena_514751864.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/regija/257229-vlastite-potrebe-Slovenac-koristio-marihuane.html">Za vlastite potrebe Slovenac koristio 18 kg marihuane</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+		
+					</div>
+											</div>
+									</div>					
+												
+							
+
+					
+								<div id="category_news_box">
+
+											<div class="main_news_box_vijesti1">
+
+			<div class="crveni-header">
+						<h3>
+						<a href="http://www.vijesti.ba/vijesti/svijet"><font style="font-family: Arial; margin-left:6px; font-weight:bold; font-size:16px; color:#fff">SVIJET</font> <font style="font-family: Arial; font-weight:bold; margin-left:1px; font-size:12px; color:#fff"><i>kliknite za više vijesti</i></font></a>
+						</h3>
+			</div>
+											<div class="main_news_box_vijesti2">
+
+														<div class="box_body">
+															
+																	
+
+	<div class="short3">
+		<div class="short_vijesti1">
+
+
+				<div style="posotion:relative; height:195px; overflow:hidden; z-index:1; display:block">
+					<a href="vijesti/svijet/257334-Kocijas-mora-odluci-sta-zeli-Rusijom.html"><img style="margin: -10px 0 0 -20px;" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/nikos_kocijas_933755080.jpg&amp;size=article_small" width="260" alt="image" /><br /></a>
+				</div>
+			
+
+<div style="margin-top:-26px; margin-bottom:12px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div class="crveni-intro">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:0px">
+			<h3><a href="vijesti/svijet/257334-Kocijas-mora-odluci-sta-zeli-Rusijom.html">Kocijas: EU mora da odluči šta želi sa Rusijom</a></h3>
+			</div>
+			<div class="vijest1">
+			<h4><a href="vijesti/svijet/257334-Kocijas-mora-odluci-sta-zeli-Rusijom.html">Kocijas: EU mora da odluči šta želi sa Rusijom</a></h4>
+			</div>
+			</div>
+
+			<div style="height:78px; overflow:hidden; padding:4px 0px 8px 4px; font-size:11px; font-color:#000; font-weight:normal;">
+				ATINA - Evropska unija mora da prestane sa &quot;grčevitim djelovanjem&quot; po pitanju Rusije, izjavio je danas novi šef grčke diplomatije Nikos Kocijas i dodao da Grčka ne može da bude ignorisana u EU samo zato što duguje novac. &quot;EU mora konačno da razmotri šta želi da uradi sa ...
+			</div>
+			<div class="article_link-crveno1">
+				
+					
+						<a href="vijesti/svijet/257334-Kocijas-mora-odluci-sta-zeli-Rusijom.html">  Opširnije</a>
+					
+				
+			</div>
+		</div>
+	</div>
+
+
+																	
+																
+																
+														</div>
+
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257331-Egipat-oslobodio-novinara-Jazeere-Petera-Grestea.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/Peter_Greste_AFP_673289788.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257331-Egipat-oslobodio-novinara-Jazeere-Petera-Grestea.html">Egipat oslobodio novinara Al Jazeere Petera Grestea</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257330-Vise-stotina-ljudi-evakuisano-dijelova-Grcke.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/Januar/nevrijeme_529197021.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257330-Vise-stotina-ljudi-evakuisano-dijelova-Grcke.html">Više stotina ljudi evakuisano iz dijelova Grčke</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257325-Bilo-dobro-Tsipras-prestane-napadima-kancelarku-Merkel.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juni/martin_schulz_156853379.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257325-Bilo-dobro-Tsipras-prestane-napadima-kancelarku-Merkel.html">Bilo bi dobro da Tsipras prestane sa napadima na kancelarku Merkel</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257324-Tijela-zrtava-avionske-nesrece-pronadjena-1000-kilometara-mjesta-pada-aviona.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/December/air_asia_tijela__2__118993018.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257324-Tijela-zrtava-avionske-nesrece-pronadjena-1000-kilometara-mjesta-pada-aviona.html">Tijela žrtava avionske nesreće pronađena 1.000 kilometara od mjesta pada aviona</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257318-ISIS-strijeljao-137-zarobljenih-vojnika-policajaca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/October/ISIS_nova_224663548.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257318-ISIS-strijeljao-137-zarobljenih-vojnika-policajaca.html">ISIS strijeljao 137 zarobljenih vojnika i policajaca</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257311-Snimak-pogubljenja-Japanca-autentican.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/20150201090726_286601_561200285.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257311-Snimak-pogubljenja-Japanca-autentican.html">Snimak pogubljenja Japanca autentičan</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257307-Abe-Necemo-pognuti-glavu-pred-terorizmom.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juli/shinzo_abe_japan_952026196.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257307-Abe-Necemo-pognuti-glavu-pred-terorizmom.html">Abe: Nećemo pognuti glavu pred terorizmom</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257304-Olujno-nevrijeme-zapadu-Turske.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/turska_nevrijeme__3__709587752.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative; z-index:10; width:40px;  height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257304-Olujno-nevrijeme-zapadu-Turske.html">Olujno nevrijeme na zapadu Turske</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/svijet/257303-Porodica-prijatelji-ocajni-zbog-ubistva-Kenji-Gota.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/kenji_goto_464627587.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/svijet/257303-Porodica-prijatelji-ocajni-zbog-ubistva-Kenji-Gota.html">Porodica i prijatelji očajni zbog ubistva Kenji Gota</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+		
+					</div>
+											</div>
+									</div>					
+												
+							
+
+					
+								<div id="category_news_box">
+
+											<div class="main_news_box_vijesti1">
+
+			<div class="zeleni-header">
+						<h3>
+						<a href="http://www.vijesti.ba/sport"><font style="font-family: Arial; margin-left:6px; font-weight:bold; font-size:16px; color:#fff;">SPORT</font> <font style="font-family: Arial; font-weight:bold; margin-left:1px; font-size:12px; color:#fff"><i>kliknite za više vijesti</i></font></a>
+						</h3>
+			</div>
+											<div class="main_news_box_vijesti2">
+
+														<div class="box_body">
+															
+																	
+
+	<div class="short3">
+		<div class="short_vijesti1">
+
+
+				<div style="posotion:relative; height:195px; overflow:hidden; z-index:1; display:block">
+					<a href="sport/rukomet/257333-Rukometasi-Poljske-produzecima-osvojili-trece-mjesto-Kataru.html"><img style="margin: -10px 0 0 -20px;" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/poljska_spanija_775095228.jpg&amp;size=article_small" width="260" alt="image" /><br /></a>
+				</div>
+			
+
+<div style="margin-top:-26px; margin-bottom:12px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div class="zeleni-intro">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:0px">
+			<h3><a href="sport/rukomet/257333-Rukometasi-Poljske-produzecima-osvojili-trece-mjesto-Kataru.html">Rukometaši Poljske u produžecima osvojili treće mjesto na SP u Kataru</a></h3>
+			</div>
+			<div class="vijest1">
+			<h4><a href="sport/rukomet/257333-Rukometasi-Poljske-produzecima-osvojili-trece-mjesto-Kataru.html">Rukometaši Poljske u produžecima osvojili treće mjesto na SP u Kataru</a></h4>
+			</div>
+			</div>
+
+			<div style="height:78px; overflow:hidden; padding:4px 0px 8px 4px; font-size:11px; font-color:#000; font-weight:normal;">
+				Reprezentacija Poljske osvojila je bronzu na Svjetskom rukometnom prvenstvu u Kataru, nakon što su savladali Španiju sa 29:28 i to nakon dva produžetka. 
+			</div>
+			<div class="article_link-sport">
+				
+					
+						<a href="sport/rukomet/257333-Rukometasi-Poljske-produzecima-osvojili-trece-mjesto-Kataru.html">  Opširnije</a>
+					
+				
+			</div>
+		</div>
+	</div>
+
+
+																	
+																
+																
+														</div>
+
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/kosarka/257328-kadetska-reprezentacija-nakon-Njemacke-savladala-Srbiju.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juni/Kadeti_kosarka_bih_875269268.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/kosarka/257328-kadetska-reprezentacija-nakon-Njemacke-savladala-Srbiju.html">Bh. kadetska reprezentacija nakon Njemačke savladala i Srbiju</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/tenis/257315-Novak-Djokovic-peti-put-pobjednik-Australian-Opena.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/djokovic_pobjeda_245949831.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/tenis/257315-Novak-Djokovic-peti-put-pobjednik-Australian-Opena.html">Novak Đoković peti put pobjednik Australian Opena</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/rukomet/257291-Sramota-svjetski-rukomet-Katar-kupio-prvenstvo.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/katar_poljska_391069698.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/rukomet/257291-Sramota-svjetski-rukomet-Katar-kupio-prvenstvo.html">Sramota za svjetski rukomet: Katar kupio prvenstvo?</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/ostali-sportovi/257287-Legende-Veleza-promociji-knjige-Rodjeni-vjecnost.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/velez_mostar__4__660786386.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative; z-index:10; width:40px;  height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/ostali-sportovi/257287-Legende-Veleza-promociji-knjige-Rodjeni-vjecnost.html">Legende Veleža na promociji knjige &quot;Rođeni za vječnost“</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/ostali-sportovi/257275-Zavrsen-prvi-dan-medjunarodnog-taekwondo-prvenstva-BOSNIA-OPEN-2015.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sarajevo_taekwando__1__493084375.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative; z-index:10; width:40px;  height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/ostali-sportovi/257275-Zavrsen-prvi-dan-medjunarodnog-taekwondo-prvenstva-BOSNIA-OPEN-2015.html">Završen prvi dan međunarodnog taekwondo prvenstva BOSNIA OPEN 2015.</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/rukomet/257270-Danska-pobijedila-Hrvatsku-borbi-mjesto.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/150131092.3_xl_422967024.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/rukomet/257270-Danska-pobijedila-Hrvatsku-borbi-mjesto.html">Danska pobijedila Hrvatsku u borbi za 5. mjesto</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/fudbal/257252-Svaki-gol-Falcaoa-kosta-dva-miliona-funti.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/September/falcao_debi_2_431802955.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/fudbal/257252-Svaki-gol-Falcaoa-kosta-dva-miliona-funti.html">Svaki gol Falcaoa košta dva miliona funti</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/rukomet/257251-Njemacka-osvojila-sedmo-mjesto.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/njemacka_katar_646558317.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/rukomet/257251-Njemacka-osvojila-sedmo-mjesto.html">Njemačka osvojila sedmo mjesto</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-sport">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="sport/fudbal/257244-Australija-pobjednik-Azijskog-nogometnog-kupa.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/June/australija_619076557.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="sport/fudbal/257244-Australija-pobjednik-Azijskog-nogometnog-kupa.html">Australija pobjednik Azijskog nogometnog kupa</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+		
+					</div>
+											</div>
+									</div>					
+												
+							
+
+					
+								<div id="category_news_box">
+
+											<div class="main_news_box_vijesti1">
+
+			<div class="crni-header">
+						<h3>
+						<a href="http://www.vijesti.ba/vijesti/crna-hronika"><font style="font-family: Arial; margin-left:6px; font-weight:bold; font-size:16px; color:#fff;">CRNA HRONIKA</font> <font style="font-family: Arial; font-weight:bold; margin-left:1px; font-size:12px; color:#fff"><i>kliknite za više vijesti</i></font></a>
+						</h3>
+			</div>
+											<div class="main_news_box_vijesti2">
+
+														<div class="box_body">
+															
+																	
+
+	<div class="short3">
+		<div class="short_vijesti1">
+
+
+				<div style="posotion:relative; height:195px; overflow:hidden; z-index:1; display:block">
+					<a href="vijesti/crna-hronika/257323-Provalnici-ukrali-motorne-testere-vrijednosti-7000.html"><img style="margin: -10px 0 0 -20px;" src="http://www.vijesti.ba/thumbnail.php?file=news/2012/Januar/provala_376265811.jpg&amp;size=article_small" width="260" alt="image" /><br /></a>
+				</div>
+			
+
+<div style="margin-top:-26px; margin-bottom:12px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div class="crni-intro">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:0px">
+			<h3><a href="vijesti/crna-hronika/257323-Provalnici-ukrali-motorne-testere-vrijednosti-7000.html">Provalnici ukrali motorne testere vrijednosti 7.000 KM</a></h3>
+			</div>
+			<div class="vijest1">
+			<h4><a href="vijesti/crna-hronika/257323-Provalnici-ukrali-motorne-testere-vrijednosti-7000.html">Provalnici ukrali motorne testere vrijednosti 7.000 KM</a></h4>
+			</div>
+			</div>
+
+			<div style="height:78px; overflow:hidden; padding:4px 0px 8px 4px; font-size:11px; font-color:#000; font-weight:normal;">
+				BIJELJINA - Policija je lišila slobode tri lica iz Bijeljine, koji su iz trgovine u Vlasenici ukrali pet motornih testera vrijednosti 7.000 KM, saopšteno je iz Centra javne bezbjednosti /CJB/ Bijeljina.
+			</div>
+			<div class="article_link-crno1">
+				
+					
+						<a href="vijesti/crna-hronika/257323-Provalnici-ukrali-motorne-testere-vrijednosti-7000.html">  Opširnije</a>
+					
+				
+			</div>
+		</div>
+	</div>
+
+
+																	
+																
+																
+														</div>
+
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257321-vratima-prozorima-dzamije-Becu-iscrtani-nacisticki-simboli.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/dzamija_bec_napad_264364634.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257321-vratima-prozorima-dzamije-Becu-iscrtani-nacisticki-simboli.html">Na vratima i prozorima džamije u Beču iscrtani nacistički simboli</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257316-Pronadjen-mrtav-Beogradu-odsjecene-ruke-noge.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/April/policija_srbija_263807S1_798229796.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257316-Pronadjen-mrtav-Beogradu-odsjecene-ruke-noge.html">Pronađen mrtav u Beogradu, odsječene mu ruke i noge</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257308-Splitska-policija-uhapsila-trojicu-krijumcara-marihuane.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/September/uhapseni_zbog_posjedovanja_droge_432927778.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257308-Splitska-policija-uhapsila-trojicu-krijumcara-marihuane.html">Splitska policija uhapsila trojicu krijumčara marihuane</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257292-Bracni-par-poginuo-Trebinju-njihova-kcerka-povrijedjena.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/Untitled_569225767.png&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257292-Bracni-par-poginuo-Trebinju-njihova-kcerka-povrijedjena.html">Bračni par poginuo u Trebinju, njihova kćerka povrijeđena</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257278-Dvije-osobe-povrijedjene-nesreci-kod-Zivinica.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/stop_policija_587438171.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257278-Dvije-osobe-povrijedjene-nesreci-kod-Zivinica.html">Dvije osobe povrijeđene u nesreći kod Živinica</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257167-bombaskom-napadu-dzamiju-jugu-Pakistana-vise-mrtvih.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/pakistan_dzamija_napad_646507236.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257167-bombaskom-napadu-dzamiju-jugu-Pakistana-vise-mrtvih.html">U bombaškom napadu na džamiju na jugu Pakistana više od 60 mrtvih</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257166-Samoubistvo-sarajevskom-naselju-Hrasno-Zena-skocila-sestog-sprata.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/November/hitna_pomoc_sarajevo_1_261270112.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257166-Samoubistvo-sarajevskom-naselju-Hrasno-Zena-skocila-sestog-sprata.html">Samoubistvo u sarajevskom naselju Hrasno: Žena skočila sa šestog sprata</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257126-saobracajnoj-nesreci-Travniku-povrijedjeno-pet-osoba.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/May/sudar_udes_819973671.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257126-saobracajnoj-nesreci-Travniku-povrijedjeno-pet-osoba.html">U saobraćajnoj nesreći u Travniku povrijeđeno pet osoba</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-crno1">
+			
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="vijesti/crna-hronika/257082-Policijskom-sluzbeniku-nudio-mito-eura.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/March/policija_srpske_1_166944244.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+
+			
+
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="vijesti/crna-hronika/257082-Policijskom-sluzbeniku-nudio-mito-eura.html">Policijskom službeniku nudio mito 50 eura</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+		
+					</div>
+											</div>
+									</div>					
+												
+							
+
+					
+								<div id="category_news_box">
+
+											<div class="main_news_box_vijesti1">
+
+			<div class="orange-header">
+						<h3>
+						<a href="http://www.vijesti.ba/magazin"><font style="font-family: Arial; margin-left:6px; font-weight:bold; font-size:16px; color:#fff;">MAGAZIN</font> <font style="font-family: Arial; font-weight:bold; margin-left:1px; font-size:12px; color:#fff"><i>kliknite za više vijesti</i></font></a>
+						</h3>
+			</div>
+											<div class="main_news_box_vijesti2">
+
+														<div class="box_body">
+															
+																	
+
+	<div class="short3">
+		<div class="short_vijesti1">
+
+				<div style="posotion:relative; height:195px; overflow:hidden; z-index:1; display:block">
+					<a href="magazin/zanimljivosti/257286-Male-stvari-zbog-kojih-muskarci-ljubomorni.html"><img style="margin: -10px 0 0 -20px;" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/ljubomora_605530489.jpg&amp;size=article_small" width="260" alt="image" /><br /></a>
+				</div>
+			
+<div style="margin-top:-26px; margin-bottom:12px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+			<div class="orange-intro">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-0px">
+			<h3><a href="magazin/zanimljivosti/257286-Male-stvari-zbog-kojih-muskarci-ljubomorni.html">Male stvari zbog kojih su muškarci ljubomorni</a></h3>
+			</div>
+			<div class="vijest1">
+			<h4><a href="magazin/zanimljivosti/257286-Male-stvari-zbog-kojih-muskarci-ljubomorni.html">Male stvari zbog kojih su muškarci ljubomorni</a></h4>
+			</div>
+			</div>
+
+			<div style="height:78px; overflow:hidden; padding:4px 0px 8px 4px; font-size:11px; font-color:#000; font-weight:normal;">
+				Donosimo mali popis sitnica koje će kod njega garantirano izazvati ljubomoru. Malena doza ljubomore u vezama je uvijek poželjna, jer pokazuje da je našem partneru do nas doista stalo. No naglasak je na onoj malenoj dozi. I dok postoje situacije koje kod većine ljudi izazivaju ljubomoru, postoje i one koje vam možda ne bi pale na pamet, ali izazivaju jednaki učinak. 
+			</div>
+			<div class="article_link-zanimljivosti">
+				
+					
+						<a href="magazin/zanimljivosti/257286-Male-stvari-zbog-kojih-muskarci-ljubomorni.html">  Opširnije</a>
+					
+				
+			</div>
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257280-Ljekovita-svojstva-voca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juli/voce_nova__411788128.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/ljepota-zdravlje/257280-Ljekovita-svojstva-voca.html">Ljekovita svojstva voća</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257271-Kako-prosao-bahati-vozac-koji-tukao-nemocnog-starca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/nemocni_starac_nasilje_ruske_ulice_foto_printscreen_youtube_1422717031_612737_538023242.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+			<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative;  z-index:10; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257271-Kako-prosao-bahati-vozac-koji-tukao-nemocnog-starca.html">Kako je prošao bahati vozač koji je tukao nemoćnog starca</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257255-NASA-lansirala-prvi-satelit-mjerenje-vlaznosti-tla.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/raketa_581235434.png&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257255-NASA-lansirala-prvi-satelit-mjerenje-vlaznosti-tla.html">NASA lansirala prvi satelit za mjerenje vlažnosti tla</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257234-Davud-restauracijom-starog-namjestaja-bavi-godinama.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/starine_namjestaj_2_449014669.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative; z-index:10; width:40px;  height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257234-Davud-restauracijom-starog-namjestaja-bavi-godinama.html">Davud se restauracijom starog namještaja bavi godinama</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257224-Psihopate-plase-kazni.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/psihopata_1_719572344.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257224-Psihopate-plase-kazni.html">Psihopate se ne plaše kazni</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257206-Mjesto-gdje-mozete-jesti-kavijar-platiti-koliko-hocete.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/restoran_plati_1_559190155.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257206-Mjesto-gdje-mozete-jesti-kavijar-platiti-koliko-hocete.html">Mjesto gdje možete jesti i kavijar, a platiti koliko hoćete</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257176-Obama-rastura-dok-izvodi-Uptown-Funk.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/obama_Rastura_980376245.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+			<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative;  z-index:10; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257176-Obama-rastura-dok-izvodi-Uptown-Funk.html">Obama rastura dok izvodi &quot;Uptown Funk&quot;</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/zanimljivosti/257171-Prvi-put-historiji-izveden-uspon-zaledjene-vodopade-Niagare.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/alpinist_screen_458993867.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+			<div style=" margin-top:-22px; float:left; margin-bottom:10px; position:relative;  z-index:10; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/zanimljivosti/257171-Prvi-put-historiji-izveden-uspon-zaledjene-vodopade-Niagare.html">Prvi put u historiji izveden uspon uz zaleđene vodopade Niagare</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+
+	<div class="short2">
+		<div class="short_4more-zanimljivosti">	
+
+			<div style=" margin-top:-10px; width:120px; height:85px; overflow:hidden">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257099-Ovaj-napitak-razbijac-masnoca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sok_662383526.jpg&amp;size=summary_medium" alt="image" /><br /></a>
+				</div>
+
+
+
+
+    
+  
+				</div>
+			
+			<div style=" height:42px; overflow:hidden; margin:2px 2px 4px 2px">
+			<h3><a href="magazin/ljepota-zdravlje/257099-Ovaj-napitak-razbijac-masnoca.html">Ovaj napitak je razbijač masnoća</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+		
+					</div>
+											</div>
+									</div>					
+												
+							
+
+
+								</div>	
+								</div>	
+
+		
+							
+					</div>
+				</div>
+              
+				<div id="dynamic_box_right">
+                            <div id="box_right_holder">
+
+			<div style="width:320px; height:326px; float:left; background:#fff; overflow:hidden; margin:-18px 0 0px 0; padding: 0px 5px 0px 0px;">
+                      		
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-izbori">
+									<div class="box_title-izbori">
+										<div style="margin-left:0px">
+										<h4>IZDVOJENE VIJESTI</h4>
+										</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/bih/257294-Srbija-privlaci-velike-kompanije-BiH-samo-deklarativno-stranim-investicijama.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/investicije_914587598.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/bih/257294-Srbija-privlaci-velike-kompanije-BiH-samo-deklarativno-stranim-investicijama.html">Srbija privlači velike kompanije, BiH samo deklarativno o stranim investicijama</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/regija/257290-Paljenje-svijeca-zrtve-kredita-pred-bankama.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/20150201074450_286593_249428393.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/regija/257290-Paljenje-svijeca-zrtve-kredita-pred-bankama.html">Paljenje svijeća za žrtve kredita pred bankama</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/bih/257285-Airlines-pred-gasenjem-odgovoran-stetne-ugovore.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/bh_airlines_velika_568459182.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/bih/257285-Airlines-pred-gasenjem-odgovoran-stetne-ugovore.html">&quot;BH Airlines&quot; pred gašenjem: Ko je odgovoran za štetne ugovore ?!</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/svijet/257260-blioteke-Ruske-akademije-nauka-spaseno-vise-miliona-knjiga.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/Januar/knjigeee_951108852.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/svijet/257260-blioteke-Ruske-akademije-nauka-spaseno-vise-miliona-knjiga.html">Iz blioteke Ruske akademije nauka spašeno više od 10 miliona knjiga</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/bih/257259-SDP-osigurati-dovoljan-broj-potpisa-deblokirati-vlast-FBiH.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/December/NERMIN_NIKSIC_TV1_809310399.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/bih/257259-SDP-osigurati-dovoljan-broj-potpisa-deblokirati-vlast-FBiH.html">SDP će osigurati dovoljan broj potpisa i deblokirati vlast u FBiH</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/bih/257248-Dodik-pokusava-pobjegne-odgovornosti-kriminal--.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/March/bosic_velikaa_633241332.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/bih/257248-Dodik-pokusava-pobjegne-odgovornosti-kriminal--.html">Dodik pokušava da pobjegne od odgovornosti za kriminal u RS-u</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-izbori">
+			
+			
+				<div style=" float:left; width:50px; overflow:hidden; margin:0px 4px 0px 0px">
+				<div class="image">
+					<a href="vijesti/bih/257225-postoji-prijetnja-gas-Rusije-BiH-biti-obustavljen.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/bh_gass_836463300.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:26px; overflow:hidden; padding:0px 0px 6px 0px">
+			<h3><a href="vijesti/bih/257225-postoji-prijetnja-gas-Rusije-BiH-biti-obustavljen.html">Ne postoji prijetnja da će gas iz Rusije za BiH biti obustavljen</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+											</div>
+									</div>					
+								</div>					
+							
+			</div>
+					
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+									<div class="box_title-kolumne">
+									<h4><font style="font-family: Arial; margin-left:2px">Ličnost dana</font></h4>
+									</div>
+
+  <div class="licnost_body">
+    <div class="licnost_content">
+
+        <div class="box_body">
+            
+                
+	<div class="short-mag">
+		<div class="short_holder-dobar">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="licnosti-dana-dobar/257232-SPOMEN-ZRTVAMA.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sasa_toperic_717434529.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:16px; font-style: Arial; font-size: 14px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						Dobar
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="licnosti-dana-dobar/257232-SPOMEN-ZRTVAMA.html">SPOMEN ŽRTVAMA</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+            
+        </div>
+    
+
+
+        <div class="box_body">
+            
+                
+	<div class="short-mag">
+		<div class="short_holder-los">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="licnosti-dana-los/257267-BUKTI-RAT.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/20150131133847_286536_645516856.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:18px; font-style: Arial; font-size: 14px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						Loš
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="licnosti-dana-los/257267-BUKTI-RAT.html">BUKTI RAT</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+            
+        </div>
+    
+   </div>
+	</div>
+
+				</div>
+			</div>
+		</div>
+    
+
+					
+
+
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-int">
+
+									<div class="box_title-kolumne">
+									<h4><a href="http://www.vijesti.ba/intervjui"><font style="font-family: Arial; margin-left:2px">INTERVJU </font></a></h4>
+									</div>
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_int1">
+			
+				<div style="position: relative; width: 300px; z-index:1; height:195px; overflow: hidden;">
+				<div class="image">
+					<a href="intervjui/257279-PROTESTI-BEZ-JASNE-VIZIJE-PRAVCA-DJELOVANJA-MOGU-BITI-POGUBNI.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sunje_154074453.jpg&amp;size=article_large" width="300" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-74px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:72px; width:300px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-72px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="intervjui/257279-PROTESTI-BEZ-JASNE-VIZIJE-PRAVCA-DJELOVANJA-MOGU-BITI-POGUBNI.html">PROTESTI BEZ JASNE VIZIJE I PRAVCA DJELOVANJA MOGU BITI POGUBNI</a></h3>
+			</div>
+			</div>
+			<div class="int1">
+			<h3><a href="intervjui/257279-PROTESTI-BEZ-JASNE-VIZIJE-PRAVCA-DJELOVANJA-MOGU-BITI-POGUBNI.html">PROTESTI BEZ JASNE VIZIJE I PRAVCA DJELOVANJA MOGU BITI POGUBNI</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="intervjui/257179-BiH-NEMA-VISE-SEKUNDU-VREMENA.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Septembar/raguz_velika_AA_3_384164166.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/257179-BiH-NEMA-VISE-SEKUNDU-VREMENA.html">BiH NEMA VIŠE NI SEKUNDU VREMENA</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="intervjui/257030-SCENI-POLITICKE-OPCIJE-KOJE-NEMAJU-DODIRNIH-TACAKA.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/Damir_Cardzic001_411132048.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/257030-SCENI-POLITICKE-OPCIJE-KOJE-NEMAJU-DODIRNIH-TACAKA.html">NA SCENI SU POLITIČKE OPCIJE KOJE NEMAJU DODIRNIH TAČAKA</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="intervjui/256863-NEMOGUCE-IZBJECI-NOVE-PROTESTE-KOJI-NADVLADATI-ETNICKE-GRANICE.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2009/news_2014_Januar_lsavo_kukic_24_226862513_379270442.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/256863-NEMOGUCE-IZBJECI-NOVE-PROTESTE-KOJI-NADVLADATI-ETNICKE-GRANICE.html">NEMOGUĆE JE IZBJEĆI NOVE PROTESTE KOJI ĆE NADVLADATI ETNIČKE GRANICE</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="intervjui/256703-SRDjANOV-CIN-POMAZE-NAM-NADjEMO-RAVNOTEZU-MIR-MEDjU-LJUDIMA.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/rade_aleksic_aa_2_655730260.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/256703-SRDjANOV-CIN-POMAZE-NAM-NADjEMO-RAVNOTEZU-MIR-MEDjU-LJUDIMA.html">SRĐANOV ČIN POMAŽE NAM DA NAĐEMO RAVNOTEŽU I MIR MEĐU LJUDIMA</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="intervjui/256530-SDP-BiH-IZACI-STAVOM-TRAGU-RJESAVANJA-PROBLEMA.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/Slavisa_Sucur_700102188.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/256530-SDP-BiH-IZACI-STAVOM-TRAGU-RJESAVANJA-PROBLEMA.html">SDP BiH ĆE IZAĆI SA STAVOM  NA TRAGU RJEŠAVANJA PROBLEMA</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													
+					
+											</div>
+									</div>					
+								</div>					
+							
+
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+
+									<div class="box_title-kolumne">
+									<h4><a href="http://www.vijesti.ba/kolumne-komentari"><font style="font-family: Arial; margin-left:2px">ODABRANE KOLUMNE </font></a></h4>
+									</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-kolumne">
+			
+			<div style=" float:right; width: 195px; height:55px; overflow:hidden; padding:0px 5px 5px 0px; display: block">
+
+			<div style="height:50px; overflow:hidden; padding:0px 0px 0px 0px">
+			<h3><a href="kolumne-komentari/257313-Podrzavanje-crnogorskog-rezima-bosnjacki-narod-vodi-egzodus.html">Podržavanje crnogorskog režima bošnjački narod vodi u egzodus</a></h3>
+			</div>
+
+
+			</div>
+			
+				<div style=" float:left; width:95px; height:65px; overflow:hidden; margin:-10px 5px 0px 5px">
+				<div class="image">
+					<a href="kolumne-komentari/257313-Podrzavanje-crnogorskog-rezima-bosnjacki-narod-vodi-egzodus.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/panorama_Rozaje_626146234.jpg&amp;size=summary_medium" width="90px" height="65" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-kolumne">
+			
+			<div style=" float:right; width: 195px; height:55px; overflow:hidden; padding:0px 5px 5px 0px; display: block">
+
+			<div style="height:50px; overflow:hidden; padding:0px 0px 0px 0px">
+			<h3><a href="kolumne-komentari/257310-Sta-biti-Pegidom.html">Šta će biti sa Pegidom?</a></h3>
+			</div>
+
+
+			</div>
+			
+				<div style=" float:left; width:95px; height:65px; overflow:hidden; margin:-10px 5px 0px 5px">
+				<div class="image">
+					<a href="kolumne-komentari/257310-Sta-biti-Pegidom.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/pegida_156103256.jpg&amp;size=summary_medium" width="90px" height="65" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-kolumne">
+			
+			<div style=" float:right; width: 195px; height:55px; overflow:hidden; padding:0px 5px 5px 0px; display: block">
+
+			<div style="height:50px; overflow:hidden; padding:0px 0px 0px 0px">
+			<h3><a href="kolumne-komentari/257262-Sankcije-nisu-glavni-ruski-problem.html">Sankcije nisu glavni ruski problem</a></h3>
+			</div>
+
+
+			</div>
+			
+				<div style=" float:left; width:95px; height:65px; overflow:hidden; margin:-10px 5px 0px 5px">
+				<div class="image">
+					<a href="kolumne-komentari/257262-Sankcije-nisu-glavni-ruski-problem.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/0__17790763_303_00_750956605.jpg&amp;size=summary_medium" width="90px" height="65" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+					
+											</div>
+									</div>					
+								
+
+					
+
+					<div style="margin:10px 0 0 10px"><div><a href="http://www.vijesti.ba/plugins/banner_manager/click.php?banner_id=148" target="_blank"><img src="http://www.vijesti.ba/files/banners/zene_tv1_300x250_651033751.jpg"/></a></div></div>
+
+<br style="clear: both" />
+
+<div style="margin:8px 0 -4px 6px"><!--NoCache box/plugin_poll2.tpl-->
+	
+	
+	
+			
+				
+						<div id="box_poll_74" class="box box_poll" style="background-color: #4D4DFF">
+							<div class="box_title-poll"> Vaše mišljenje </div>
+
+							<div class="box_body" style="margin-top: 1px;">
+								<span class="poll_question">Šta očekujete u Novoj 2015. godini u BiH?</span>
+								
+								
+										
+											<div id="poll_form_holder_74">
+												<form method="post" id="poll_form_74" onsubmit="updatePoll(74);return false;">
+													<input type="hidden" name="action" value="poll" />
+													<input type="hidden" name="cmd" value="vote" />
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="306" />
+															- Sve će ostati isto kao i u prethodnoj
+														</label>
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="307" />
+															- Biće nam puno bolje nego u prethodnoj
+														</label>
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="308" />
+															- Biće nam puno gore nego u prethodnoj 
+														</label>
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="309" />
+															- Ne znam šta da očekujem 
+														</label>
+													
+													<div class="button_holder">
+														<input type="submit" name="submit" value="Glasaj" />
+														<input type="button" name="allpolls" value="Sve ankete" onClick="javascript:window.location='http://www.vijesti.ba/poll/index.html';" />
+													</div>
+												</form>
+											</div>
+										
+									
+							</div>
+						</div>
+					
+			
+		
+<!--NoCache--></div>
+
+
+<br style="clear: both" />
+
+					
+
+<br style="clear: both" />
+
+					
+	
+<div style="margin:2px 0 0 10px">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9232958942582590";
+    google_ad_slot = "0545825086";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- Vijesti article 300x250 -->
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>	
+		
+
+
+
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+
+									<div class="box_title-kolumne">
+									<h4><font style="font-family: Arial; margin:2px 0 0 2px">PROMO </font></h4>
+									</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/257326-Filmski-program-sklopu-Sarajevske-zime.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/sarajevska_zima_infinity_761576949.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/257326-Filmski-program-sklopu-Sarajevske-zime.html">Filmski program u sklopu Sarajevske zime</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/257148-Biznis-magazin-Kapital-Hoce-Unisu-biti-odobren-izvoz-naoruzanja-Ukrajinu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/kapital_nova_827823457.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/257148-Biznis-magazin-Kapital-Hoce-Unisu-biti-odobren-izvoz-naoruzanja-Ukrajinu.html">Biznis magazin Kapital: Hoće li Unisu biti odobren izvoz naoružanja u Ukrajinu?</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/257129-Santicev-festival-djece-pjesnika-pocetkom-februara-Mostaru.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/March/stari_most_noc_547539219.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/257129-Santicev-festival-djece-pjesnika-pocetkom-februara-Mostaru.html">Šantićev festival djece pjesnika početkom februara u Mostaru</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/257116-Sport-Exkluziv---ponedjeljkom-TV1.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/denis_huseinbegovic_1_615473707.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/257116-Sport-Exkluziv---ponedjeljkom-TV1.html">&quot;Sport Exkluziv&quot; - ponedjeljkom na TV1</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="show/256974-izgled-bitan-uspjeh-poslu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/adrijana_gavric_vece_zene_1_966402668.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="show/256974-izgled-bitan-uspjeh-poslu.html">&quot;Da li je izgled bitan za uspjeh u poslu?!&quot;</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+					
+											</div>
+									</div>					
+								
+<br style="clear: both" />
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+
+									<div class="box_title-zdravlje">
+									<h4><font style="font-family: Arial; margin:2px 0 0 2px">PREPORUKE ZA ZDRAVLJE </font></h4>
+									</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257280-Ljekovita-svojstva-voca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juli/voce_nova__411788128.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257280-Ljekovita-svojstva-voca.html">Ljekovita svojstva voća</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257099-Ovaj-napitak-razbijac-masnoca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sok_662383526.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257099-Ovaj-napitak-razbijac-masnoca.html">Ovaj napitak je razbijač masnoća</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257043-Caj-koji-smo-zapostavili-dobar-poput-lijeka.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/caj_sipak_499430241.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257043-Caj-koji-smo-zapostavili-dobar-poput-lijeka.html">Čaj koji smo zapostavili, a dobar je poput lijeka</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257001-Zelite-smrsati-Dobro-naspavajte.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2012/May/mrsanje_589386493.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257001-Zelite-smrsati-Dobro-naspavajte.html">Želite smršati? Dobro se naspavajte!</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/256391-Cuvarkuca-lijeci-ciste-organizmu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/cuvarkuca_2_853233744.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/256391-Cuvarkuca-lijeci-ciste-organizmu.html">Čuvarkuća liječi ciste u organizmu!</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+					
+											</div>
+									</div>					
+								
+
+
+
+				</div>
+				</div>
+
+					<div id="dynamic_box_full">
+
+<br style="clear: both" />
+
+			<div style="width:960px; height:370px; float:left; overflow:hidden; border:#ddd 1px solid; margin:10px 6px 10px 0px;; padding: 2px 0px 2px 2px">
+									
+			<a href="http://www.vijesti.ba/magazin/show"><img src="http://www.vijesti.ba/themes/tpl_4018/img/magazin.gif" alt="SHOW" /></a>
+			
+			<div style="width:640px; height:325px; float:left; background:#fff; verflow:hidden; margin-top:0px; padding: 0px 5px 0px 5px">
+			
+								<div id="category_news_box">
+
+											<div class="main_news_box_row-mag">
+
+											<div class="main_news_box_row3">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_mag1">
+			
+				<div style="position: relative; width: 300px; z-index:1; height:170px; overflow: hidden;">
+				<div class="image">
+					<a href="show/257288-Severina-pobjegla-tople-krajeve.html"><img style="margin: 0px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/severina_dubai1_504035453.jpg&amp;size=article_large" width="300" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-75px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:60px; width:300px; position:relative; background:#fff; filter:alpha(opacity=85); opacity:0.85; overflow:hidden; z-index:2; float:left; margin:-60px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="show/257288-Severina-pobjegla-tople-krajeve.html">Severina pobjegla u tople krajeve</a></h3>
+			</div>
+			</div>
+			<div class="mag1">
+			<h3><a href="show/257288-Severina-pobjegla-tople-krajeve.html">Severina pobjegla u tople krajeve</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+										
+	<div class="short2">
+		<div class="short_4more-mag">
+			
+
+			<div style=" margin-top:-5px; width:146px; height:90px; overflow:hidden">
+				<div class="image">
+					<a href="show/257236-Shakira-Pique-drugom-sinu-dali-ime-Sasha.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/shakira_pique_2_910957165.jpg&amp;size=summary_medium" width="146px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+			<div style="height:14px; font-style: Arial; font-size: 11px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/&#039;Branitelj čovječanstva&#039;">&#039;Branitelj čovječanstva&#039;</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 2px 2px">
+			<h3><a href="show/257236-Shakira-Pique-drugom-sinu-dali-ime-Sasha.html">Shakira i Pique drugom sinu dali ime Sasha</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+										
+	<div class="short2">
+		<div class="short_4more-mag">
+			
+
+			<div style=" margin-top:-5px; width:146px; height:90px; overflow:hidden">
+				<div class="image">
+					<a href="show/257201-Saran-Talenat-pojavljuje-prilivom-novca.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/letu_stuke_2_393205521.jpg&amp;size=summary_medium" width="146px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+			<div style="height:14px; font-style: Arial; font-size: 11px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/&quot;Letu štuke&quot;">&quot;Letu štuke&quot;</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 2px 2px">
+			<h3><a href="show/257201-Saran-Talenat-pojavljuje-prilivom-novca.html">Šaran: Talenat se ne pojavljuje sa prilivom novca</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+
+
+					</div>
+											</div>
+									</div>					
+												
+							
+			
+											<div class="main_news_box_row-mag2">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/257195-eBay-stizu-nepoznate-slike-Stonesa-Beatlesa.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/rolling_stones_298609104.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Nikad viđene ">Nikad viđene </a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/257195-eBay-stizu-nepoznate-slike-Stonesa-Beatlesa.html">Na eBay stižu nepoznate slike Stonesa i Beatlesa</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/257194-Val-Kilmer-zavrsio-bolnici-zbog-krvarenja-grla.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/valkilmer_31012015_625splash_455291439.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/TMZ">TMZ</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/257194-Val-Kilmer-zavrsio-bolnici-zbog-krvarenja-grla.html">Val Kilmer završio u bolnici zbog krvarenja iz grla</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/257180-Ringo-Starr-potvrdio-izlazak-novog-albuma-Postcards-from-Paradise.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/Ringo_Starr_112768707.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Bivši bubnjar Beatlesa">Bivši bubnjar Beatlesa</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/257180-Ringo-Starr-potvrdio-izlazak-novog-albuma-Postcards-from-Paradise.html">Ringo Starr potvrdio izlazak novog albuma &quot;Postcards from Paradise&quot;</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+									
+					
+											</div>
+				
+							
+                     </div>
+			<div style="width:300px; height:325px; float:right; background:#fff; overflow:hidden; margin-top:0px; padding: 30px 5px 0px 5px">
+			
+											<div class="main_news_box_row-mag">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/257138-Glumac-Jeff-Bridges-snimio-album-koji-pomaze-zaspete.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/jeff_bridges_1_695032701.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/&quot;Sleeping Tapes&quot;">&quot;Sleeping Tapes&quot;</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/257138-Glumac-Jeff-Bridges-snimio-album-koji-pomaze-zaspete.html">Glumac Jeff Bridges snimio album koji pomaže da zaspete</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/257096-Chemical-Brothers-prvi-put-Hrvatskoj.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/chemical_brothers_1_330015160.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Ultra Europe">Ultra Europe</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/257096-Chemical-Brothers-prvi-put-Hrvatskoj.html">Chemical Brothers prvi put u Hrvatskoj</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/257044-Adriana-Lima-ima-novog-momka.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/adriana_lima_momak_1_308586059.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Atraktivna manekenka">Atraktivna manekenka</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/257044-Adriana-Lima-ima-novog-momka.html">Adriana Lima ima novog momka</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+									
+					
+											</div>
+				
+							
+                     </div>			
+</div>
+			<div style="width:960px; float:left; overflow:hidden; margin:6px 6px 12px 0px;; padding: 2px 0px 2px 2px">
+			<a href="https://www.facebook.com/Vijesti.ba"><img src="http://www.vijesti.ba/themes/tpl_4018/img/fbbanner.jpg" alt="Follow" /></a>
+			</div>
+
+<br style="clear: both" />
+
+			
+			<div class="main_news_box_full">
+			<div class="plavi-header2">
+						<h3>
+						<a href="http://www.vijesti.ba/tag/galerije"><font style="font-family: Arial; margin:10px 0 0 8px; font-weight:bold; font-size:16px; color:#BFBFBF">ZANIMLJIVE GALERIJE&nbsp;&nbsp;</font> </a>
+						</h3>
+			</div>
+											<div class="main_news_box_row-gal88">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255093-Zena-najvecim-grudima-Imam-mala-stopala-jer-nista-raste-velikom-hladu.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/zena_grudi_1_365362675.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255093-Zena-najvecim-grudima-Imam-mala-stopala-jer-nista-raste-velikom-hladu.html">Žena s najvećim grudima: Imam mala stopala jer ništa ne raste u velikom hladu</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255093-Zena-najvecim-grudima-Imam-mala-stopala-jer-nista-raste-velikom-hladu.html">Žena s najvećim grudima: Imam mala stopala jer ništa ne raste u velikom hladu</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/254860-Zivio-luksuzu-poklonio-milionsku-firmu-preselio-slamnatu-kucicu.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/nikola_boric_118743264.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/254860-Zivio-luksuzu-poklonio-milionsku-firmu-preselio-slamnatu-kucicu.html">Živio u luksuzu pa poklonio milionsku firmu i preselio se u slamnatu kućicu</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/254860-Zivio-luksuzu-poklonio-milionsku-firmu-preselio-slamnatu-kucicu.html">Živio u luksuzu pa poklonio milionsku firmu i preselio se u slamnatu kućicu</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/254841-Zivio-kao-biljka-godina-onda-dogodilo-cudo.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/martin_bolest_1_539876240.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/254841-Zivio-kao-biljka-godina-onda-dogodilo-cudo.html">Živio kao biljka 12 godina, a onda se dogodilo čudo</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/254841-Zivio-kao-biljka-godina-onda-dogodilo-cudo.html">Živio kao biljka 12 godina, a onda se dogodilo čudo</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/254558-Turska-Limun-obliku-paprike-plijeni-paznju-prolaznika.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/limun__3__551484720.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/254558-Turska-Limun-obliku-paprike-plijeni-paznju-prolaznika.html">Turska: Limun u obliku paprike plijeni pažnju prolaznika</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/254558-Turska-Limun-obliku-paprike-plijeni-paznju-prolaznika.html">Turska: Limun u obliku paprike plijeni pažnju prolaznika</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="show/255374-Ona-nije-model-ona-poljska-predsjednicka-kandidatkinja.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/poljska_plavusa_391675259.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="show/255374-Ona-nije-model-ona-poljska-predsjednicka-kandidatkinja.html">Ona nije model, ona je poljska predsjednička kandidatkinja</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="show/255374-Ona-nije-model-ona-poljska-predsjednicka-kandidatkinja.html">Ona nije model, ona je poljska predsjednička kandidatkinja</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255264-Zavirite-stan-prodan-miliona-dolara.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/stan_rekorder_853120186.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255264-Zavirite-stan-prodan-miliona-dolara.html">Zavirite u stan prodan za 10 miliona dolara</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255264-Zavirite-stan-prodan-miliona-dolara.html">Zavirite u stan prodan za 10 miliona dolara</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255129-Torta-obliku-vjencanice-prirodnoj-velicini.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sajam_vjencanica_799706059.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255129-Torta-obliku-vjencanice-prirodnoj-velicini.html">Torta u obliku vjenčanice u prirodnoj veličini</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255129-Torta-obliku-vjencanice-prirodnoj-velicini.html">Torta u obliku vjenčanice u prirodnoj veličini</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255008-Nezamislivo-bilo-mogao-napraviti-nesto-toliko-tesko.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/penjanje_planine_2_938629875.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255008-Nezamislivo-bilo-mogao-napraviti-nesto-toliko-tesko.html">&quot;Nezamislivo je da bi bilo ko mogao napraviti nešto toliko teško&quot;</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255008-Nezamislivo-bilo-mogao-napraviti-nesto-toliko-tesko.html">&quot;Nezamislivo je da bi bilo ko mogao napraviti nešto toliko teško&quot;</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+					
+											</div>
+				</div>
+							
+
+			</div>
+			<div id="content_footer">
+			<br style="clear: both" />
+			</div>
+			<div id="footer">
+				
+	
+	<div class="footer">
+		
+				<ul>
+					
+						
+							<li>
+								<a href="sport/index.1.html">
+									Sport
+								</a>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<li>
+								<a href="intervjui/index.1.html">
+									Intervjui
+								</a>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<li>
+								<a href="kolumne-komentari/index.1.html">
+									Komentari
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="magazin/index.1.html">
+									Magazin
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="show/index.1.html">
+									SHOW
+								</a>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				</ul>
+			
+		<div class="static_footer">	
+			<img src="http://www.vijesti.ba/cron_image.html" style="display:none;" alt="cron" title="cron" />
+			<a href="http://www.vijesti.ba/">Home</a> |
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vijesti.ba/');" href="#">Kao početnu stranicu</a> |
+			<a href="javascript:bookmarksite('',document.URL);">Dodaj u favorite</a> 
+			
+				| 
+				
+					<a href="http://www.vijesti.ba/feed/index.1.rss">Rss</a> / <a href="http://www.vijesti.ba/feed/index.1.atom">Atom</a> 
+					
+				
+			
+			
+				| 
+				
+					<a href="http://www.vijesti.ba/feed/index.1.txt">Plain text</a> 
+					
+				
+			
+			
+				|
+				
+					<a href="http://www.vijesti.ba/archive">Arhiva</a>
+					
+				
+			
+			
+		</div>
+		<div class="corner_bottom"><!--  --></div>
+	</div>
+	<div class="bottom_corners"><!--  --></div>
+	
+	
+
+
+			</div>
+		</div>	
+
+	<div style="position:fixed; width:480px; margin-left: -970px; left: 50%; z-index:999; text-align: left; top: 0px;">
+
+<div></div>
+
+	</div>
+
+	<div style="position:fixed; width:480px; margin-right: -970px; right: 50%; text-align: right; top: 0px;">
+
+	<div></div>
+
+	</div>
+
+
+
+	</div></html>3420252/
+" class="">Warriors.com: Stephen Curry vs. Steve Kerr free throw contest</a>
+					</span>
+				</li>
+				
+				
+				
+				<li class="">
+					<span class="nbaTwoLiner">
+						<a title="Link to Hornets.com: Interview with Michael Jordan" href="						http://www.nba.com/hornets/video/2014/10/27/141025MJ001mov-3419152/
+" class="">Hornets.com: Interview with Michael Jordan</a>
+					</span>
+				</li>
+				
+				
+				
+				<li class="nbaLast">
+					<span class="nbaTwoLiner">
+						<a title="Link to Pacers.com: Paul George's road to recovery" href="						http://www.nba.com/pacers/video/2014/10/24/MarketingDayInterviewPaulGeorge1-3416891/
+" class="">Pacers.com: Paul George's road to recovery</a>
+					</span>
+				</li>
+		</ul>
+	</div>
+</div>
+
+
+
+
+ </div> <div class="nbaRow nbaClear nbaLast"> <div class="nbaPersonalities"> <h3>Personalities</h3> <ul> <li> <img class="nbaThumbnail" src="http://i2.cdn.turner.com/nba/nba/dam/assets//121015062924-aldridge-thumbnail-hp-personality-module.jpg" title="David Aldridge" /> <div class="nbaContainer"> <h4><a href="http://www.nba.com/2015/news/features/david_aldridge/01/19/morning-tip-san-antonio-spurs-try-to-right-early-season-problems-time-running-out-for-oklahoma-city-thunder-to-make-playoff-run-qa-with-john-wall-washington-wizards/index.html" title="Link to The Morning Tip">The Morning Tip</a></h4> <p><a href="http://www.nba.com/2015/news/features/david_aldridge/01/19/morning-tip-san-antonio-spurs-try-to-right-early-season-problems-time-running-out-for-oklahoma-city-thunder-to-make-playoff-run-qa-with-john-wall-washington-wizards/index.html" title="Link to The Morning Tip"> David Aldridge reports insider news from around the league. </a></p> </div> </li> <li> <img class="nbaThumbnail" src="http://i2.cdn.turner.com/nba/nba/dam/assets//121015063424-barkley-thumbnail-hp-personality-module.jpg" title="Charles Barkley" /> <div class="nbaContainer"> <h4><a href="http://charlesbarkley.com/" title="Link to CharlesBarkley.com">CharlesBarkley.com</a></h4> <p><a href="http://charlesbarkley.com/" title="Link to CharlesBarkley.com"> Can't get enough Chuck? Take his blog for a spin. </a></p> </div> </li> <li> <img class="nbaThumbnail" src="http://i2.cdn.turner.com/nba/nba/dam/assets//130225121225-shaq-hp-personality-module.hp-personality-module.jpg" title="Shaquille O'Neal" /> <div class="nbaContainer"> <h4><a href="http://www.nba.com/fool" title="Link to Shaqtin' A Fool">Shaqtin' A Fool</a></h4> <p><a href="http://www.nba.com/fool" title="Link to Shaqtin' A Fool"> Shaq counts down the Best of the Worst in the NBA. </a></p> </div> </li> </ul> </div> <div class="nbaPersonalize"> <h3>Personalize Your NBA.com Experience</h3> <div class="nbaContent"> <span class="nbaThumbnail"> <img alt="" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1558/elements/footer/personalize-experience.jpg" /> </span> <h4>The NBA on Facebook</h4> <p>Connect with Facebook and "like" your favorite team to get personalized news, videos and features exclusively on NBA.com.</p> <a href="#" data-fbvalue="thirdButton" class="nbaFacebookConnect nbaAllAccessOverlayTrigger" title="Connect with Facebook">Connect with Facebook</a> </div> </div> 
+
+
+
+
+
+
+
+
+
+<div class="nbaLast nbaSplit">
+	<div class="nbaWnba">
+		<h3>WNBA</h3>
+		
+		
+		
+		<a title="Link to Mercury Win Title" href="				http://www.wnba.com/
+" class="nbaThumbnail ">
+			<img alt="mercury trophy 2014 league footer" src="http://i2.cdn.turner.com/nba/nba/dam/assets/140916123344-mercury-trophy-2014-league-footer.split-flex-module.gif" />
+		</a>
+		<div class="nbaContent">
+			<h4><a title="Link to Mercury Win Title" href="				http://www.wnba.com/
+">Mercury Win Title</a></h4>
+			<p>					The record-setting Mercury are your 2014 WNBA champions.	
+</p>
+		</div>
+		<ul class="nbaBullets">
+					
+					<li><a title="Link to Mercury Win Title" href="https://twitter.com/wnba">@WNBA</a></li>
+		</ul>
+	</div>
+	
+	<div class="nbaDLeague nbaLast">
+		
+		<h3>NBA D-League</h3>
+		
+		
+		
+		<a title="Link to Home of NBA Prospects" href="				http://dleague.nba.com/
+" class="nbaThumbnail ">
+			<img alt="curry dleague 112114" src="http://i2.cdn.turner.com/nba/nba/dam/assets/141121134233-curry-dleague-112114.split-flex-module.jpg" />
+		</a>
+		<div class="nbaContent">
+			<h4><a title="Link to Home of NBA Prospects" href="				http://dleague.nba.com/
+">Home of NBA Prospects</a></h4>
+			<p>					Visit NBADLeague.com for everything you need to know about the NBA D-League.	
+</p>
+		</div>
+		<ul class="nbaBullets">
+					<li><a title="Link to Home of NBA Prospects" href="http://www.nba.com/dleague/prospectwatch/">Prospect Watch</a></li>
+		</ul>
+		
+	</div>
+</div>
+
+ <div id="ad_ns_btf_07" class="nba-ad"></div>
+ </div> </section> <div class="nbaRow nbaClear"> <nav id="nbaFooterNav"> <div class="nbaSplit"> <ul> <li> <h3>About</h3> <ul> <li><a title="Link to About the NBA" href="/news/about/index.html?ls=iref:nba:gfooter">About the NBA</a></li> <li><a title="Link to Contact Us" href="http://www.nba.com/email_us/?ls=iref:nba:gfooter">Contact Us</a></li> <li><a title="Link to Career Opportunities" href="http://www.nba.com/careers/?ls=iref:nba:gfooter">Career Opportunities</a></li> <li><a title="Link to Closed Captioning" href="http://www.nba.com/news/closed_captioning.html?ls=iref:nba:gfooter">Closed Captioning</a></li> <li><a title="Link to Advertise on NBA.com" href="http://www.turnerdigitalsales.com?ls=iref:nba:gfooter">Advertise on NBA.com</a></li> <li><a title="Link to Important Dates" href="http://www.nba.com/news/important-dates/index.html?ls=iref:nba:gfooter">Important Dates</a></li> </ul> </li> </ul> <ul class="nbaLast"> <li> <h3>NBA</h3> <ul> <li><a title="Link to WNBA" href="http://www.wnba.com?ls=iref:nba:gfooter">WNBA</a></li> <li><a title="Link to NBA D-League" href="http://www.nba.com/dleague/?ls=iref:nba:gfooter">NBA D-League</a></li> <li><a title="Link to Ene-be-a" href="http://www.nba.com/enebea/?ls=iref:nba:gfooter">Ene-be-a</a></li> <li><a title="Link to NBATickets.com" href="http://www.NBATickets.com?ls=iref:nba:gfooter" target="_blank">NBATickets.com</a></li> <li><a title="Link to NBPA" href="http://www.nbpa.org/?ls=iref:nba:gfooter">NBPA</a></li> <li><a title="Link to USA Basketball Youth" href="http://www.ihoops.com/?ls=iref:nba:gfooter">USA Basketball Youth</a></li> <li><a title="Link to NBA City Restaurant" href="http://www.nba.com/nbacity/?ls=iref:nba:gfooter">NBA City Restaurant</a></li> <li><a title="Link to NYC Store" href="http://www.nba.com/nycstore/?ls=iref:nba:gfooter">NYC Store</a></li> </ul> </li> </ul> </div> <div class="nbaSplit"> <ul> <li> <h3>Events</h3> <ul> <li><a title="Link to 2015 NBA All-Star" href="http://www.nba.com/allstar/?ls=iref:nba:gfooter">2015 NBA All-Star</a></li> <li><a title="Link to 2014 Hall of Fame" href="http://www.nba.com/halloffame/?ls=iref:nba:gfooter">2014 Hall of Fame</a></li> <li><a title="Link to 2014 Summer League" href="http://www.nba.com/summerleague/?ls=iref:nba:gfooter">2014 Summer League</a></li> <li><a title="Link to 2014 NBA Draft" href="http://www.nba.com/draft/?ls=iref:nba:gfooter">2014 NBA Draft</a></li> <li><a title="Link to 2014 NBA Playoffs" href="http://www.nba.com/playoffs/?ls=iref:nba:gfooter">2014 NBA Playoffs</a></li> <li><a title="Link to 2014 NBA All-Star" href="http://www.nba.com/allstar/2014/?ls=iref:nba:gfooter">2014 NBA All-Star</a></li> </ul> </li> </ul> <ul class="nbaLast"> <li> <h3>NBA 101</h3> <ul> <li><a title="Link to NBA Official" href="http://www.nba.com/official/?ls=iref:nba:gfooter">NBA Official</a></li> <li><a title="Link to History" href="http://www.nba.com/history?ls=iref:nba:gfooter">History</a></li> <li><a title="Link to Officials &amp; Rulebook" href="http://www.nba.com/news/officiating?ls=iref:nba:gfooter">Officials &amp; Rulebook</a></li> <li><a title="Link to Video Rulebook" href="http://www.nba.com/videorulebook?ls=iref:nba:gfooter">Video Rulebook</a></li> <li><a title="Link to NBA Guide" href="http://www.nba.com/news/nba-register-and-nba-guide/index.html?ls=iref:nba:gfooter">NBA Guide</a></li> <li><a title="Link to NBA Register" href="http://www.nba.com/news/nba-register-and-nba-guide/index.html?ls=iref:nba:gfooter">NBA Register</a></li> </ul> </li> </ul> </div> <div class="nbaSplit nbaLast"> <ul> <li> <h3>NBA Initiatives</h3> <ul> <li><a title="Link to NBA Nation" href="http://www.nba.com/nbanation/?ls=iref:nba:gfooter">NBA Nation</a></li> <li><a title="Link to Jam Session" href="http://www.nba.com/jamsession/?ls=iref:nba:gfooter">Jam Session</a></li> <li><a title="Link to NBA Cares" href="http://www.nba.com/nba_cares/?ls=iref:nba:gfooter">NBA Cares</a></li> <li><a title="Link to NBA Green" href="http://www.nba.com/green?ls=iref:nba:gfooter">NBA Green</a></li> <li><a title="Link to NBA FIT" href="http://www.nba.com/nbafit/?ls=iref:nba:gfooter">NBA FIT</a></li> <li><a title="Link to Hoops for Troops" href="http://www.nba.com/cares/hoopsfortroops/index.html?ls=iref:nba:gfooter">Hoops for Troops</a></li> <li><a title="Link to Basketball Without Borders" href="http://www.nba.com/bwb/?ls=iref:nba:gfooter">Basketball Without Borders</a></li> <li><a title="Link to All-Star Supplier Diversity & Inclusion" href="http://www.nba.com/allstarvendordiversity/?ls=iref:nba:gfooter">All-Star Supplier Diversity & Inclusion</a></li> <li><a title="Link to NBA Kids" href="http://www.nbahooptroop.com/?ls=iref:nba:gfooter">NBA Kids</a></li> </ul> </li> </ul> <ul class="nbaLast"> <li> <h3>All-Access</h3> <ul> <li><a title="Link to Member Center" href="http://www.nba.com/allaccess?ls=iref:nba:gfooter">Member Center</a></li> <li><a title="Link to NBA League Pass" href="http://www.nba.com/leaguepass/index.html?ls=iref:nba:gfooter">NBA LEAGUE PASS</a></li> <li><a title="Link to Fantasy Games" href="http://www.nba.com/fantasy?ls=iref:nba:gfooter">Fantasy Games</a></li> <li><a title="Link to NBA Deals and Discounts" href="http://www.nba.com/allaccess/shop.html?ls=iref:nba:gfooter">NBA Deals and Discounts</a></li> <li><a title="Link to Hoop Magazine" href="http://www.nba.com/hoop/hoop_archives_2009_08_28.html?ls=iref:nba:gfooter">HOOP Magazine</a></li> </ul> </li> </ul> </div> </nav> </div> <!-- BEGIN: Analytics Package --> <script src="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-base/378/js/pkgAnalytics-min.js"></script> <script> if(typeof nbaOmHPT1 !== 'undefined') { window.nbaOmHPT1 = nbaOmHPT1; } window.nbaOmHPT1 = "hp:p6:v5"; </script> <noscript> <a href="http://www.nba.com/" title="NBA.com"><img src="http://metrics.nba.com/b/ss/nbag-n-league/1/H.20.3--NS/0" height="1" width="1" alt="" /></a> </noscript> <!-- END: Analytics Package --> <div class="nbaLegal"> <p> Copyright &copy; 2015 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form. By accessing any information beyond this page, you agree to abide by the <a title="Link to Privacy Policy" href="/news/privacy_policy.html">Privacy Policy</a> / <a title="Link to Your California Privacy Rights" href="/news/privacy_policy.html#priv11">Your California Privacy Rights</a> and <a title="Link to Terms of Use" href="/news/termsofuse.html">Terms of Use</a>. <span class="nbaAdInfo">&bull; <a id="nba_cnsnt_trst" class="nbaAdChoices"><script type="text/javascript" src="//consent.truste.com/notice?domain=turner.com&c=nba_cnsnt_trst&text=true&country=us"></script></a> | <a title="Link to Advertise on NBA.com" href="http://tsed.turner.com/nba">Advertise on NBA.com</a> | <a title="Link to NBA.com Help" href="/help/site_faq.html">NBA.com Help</a> | <a title="Link to Fan Relations FAQ" href="/help/fan_relations_faq.html">Fan Relations FAQ</a> | <a title="Link to Career Opportunities" href="/careers/">Career Opportunities</a></span> </p> <p> <span class="nbaTurnerLogo" title="">Turner</span> </p> <p><a title="Link to NBA.com Homepage"href="/">NBA.com</a> is part of Turner Sports Digital, part of the Turner Sports & Entertainment Digital Network.</p> </div> </div> </footer> <script type="text/javascript" src="http://content.dl-rms.com/rms/mother/18184/nodetag.js"></script> <!-- end footer include -->  <!-- attempt to force an auto build --> <!-- end footer include --> </esi:text> <div id="ad_oop_float_01" class="nba-ad"></div>
+ 
+		<!-- Start of DoubleClick Floodlight Tag: -->
+		<script type="text/javascript">
+			var axel = Math.random() + ";
+			var a = axel * 10000000000000;
+			document.write('<iframe src="http://4528696.fls.doubleclick.net/activityi;src=4528696;type=Homep0;cat=Retar0;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+		</script>
+		<noscript>
+			<iframe src="http://4528696.fls.doubleclick.net/activityi;src=4528696;type=Homep0;cat=Retar0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+		</noscript>
+		<!-- End of DoubleClick Floodlight Tag -->
+	
+ </div> <script src="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1558/js/pkgPushNotifications-min.js"></script> </body> </html>http://www.nba.com/http://www.vijesti.ba/

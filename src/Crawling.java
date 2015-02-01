@@ -10,15 +10,17 @@ public class Crawling {
 	
 	private String file;
 	private String url; 
-	private final String path = System.getProperty("user.home") + File.separator + "workspace" + 
+	private String path = System.getProperty("user.home") + File.separator + "workspace" + 
 			File.separator + "ThreadingHomework" + File.separator + "src" + File.separator + 
-			"Files" + File.separator + file;
+			"Files" + File.separator;
 	public static int counter = 0;
 	
 	public Crawling(String file, String url) 
 	{
+		
 		this.file = file;
 		this.url = url;
+		this.path += file;
 		crawlingUrl();
 	}
 	
@@ -29,7 +31,7 @@ public class Crawling {
 			URL address = new URL(this.url);
 			URLConnection connection = address.openConnection();
 			InputStream in = connection.getInputStream();
-			FileOutputStream fos = new FileOutputStream(path);
+			FileOutputStream fos = new FileOutputStream(this.path);
 			URL currentUrl = connection.getURL();
 			int bytes = 0;
 			byte[] buffer = new byte[1024];
@@ -37,7 +39,7 @@ public class Crawling {
 				fos.write(buffer, 0, bytes);
 
 			}
-			PrintWriter out = new PrintWriter(new FileOutputStream(file, true));
+			PrintWriter out = new PrintWriter(new FileOutputStream(this.path, true));
 			out.print(currentUrl.toString());
 			fos.close();
 			in.close();
