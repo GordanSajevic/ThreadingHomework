@@ -14,6 +14,7 @@ public class Threads extends Thread{
 	{
 		Crawling crawler = new Crawling(fileName, url);
 		crawler.counter++;
+		System.out.println("Crawled " + crawler.counter + " time.");
 	}
 
 }
